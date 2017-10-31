@@ -4,10 +4,10 @@
 \contentsline {section}{\numberline {1}Kurzfassung}{1}{section.1}
 \contentsline {section}{\numberline {2}Einf\IeC {\"u}hrung}{1}{section.2}
 \contentsline {section}{\numberline {3}Theoretische Grundlagen}{1}{section.3}
-\contentsline {section}{\numberline {4}Methoden}{1}{section.4}
-\contentsline {section}{\numberline {5}Ergebnisse und Diskussion}{2}{section.5}
-\contentsline {subsection}{\numberline {5.1}Pendel mit konstanter L\IeC {\"a}nge}{2}{subsection.5.1}
-\contentsline {section}{\numberline {6}Schlussfolgerung}{2}{section.6}
-\contentsline {section}{\numberline {A}Anhang}{3}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen und Definition der Variablen}{3}{subsection.A.1}
-\contentsline {subsection}{\numberline {A.2}Quellen}{3}{subsection.A.2}
+\contentsline {section}{\numberline {4}Methoden}{3}{section.4}
+\contentsline {section}{\numberline {5}Ergebnisse und Diskussion}{4}{section.5}
+\contentsline {subsection}{\numberline {5.1}Pendel mit konstanter L\IeC {\"a}nge}{4}{subsection.5.1}
+\contentsline {section}{\numberline {6}Schlussfolgerung}{4}{section.6}
+\contentsline {section}{\numberline {A}Anhang}{5}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen und Definition der Variablen}{5}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Quellen}{5}{subsection.A.2}

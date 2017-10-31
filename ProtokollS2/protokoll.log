@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  29 OCT 2017 16:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  31 OCT 2017 15:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2027,7 +2027,33 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
-) (./tex/12_Methoden.tex
+Package cleveref Info: loaded `ngerman' language definitions on input line 22.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 22.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 22.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 22.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 22.
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+Package cleveref Info: loaded `ngerman' language definitions on input line 53.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 53.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 53.
+[2]) (./tex/12_Methoden.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2042,9 +2068,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
- [1
-
-]
+ [3]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2075,7 +2099,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 84.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 84.
- [2]
+ [4]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 84.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2104,7 +2128,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 90.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 90.
- [3
+ [5
 
 ]
 
@@ -2124,18 +2148,18 @@ Package logreq Info: Writing requests to 'protokoll.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40595 strings out of 494187
- 778881 string characters out of 6159430
- 1355099 words of memory out of 5000000
- 43349 multiletter control sequences out of 15000+600000
- 101554 words of font info for 112 fonts, out of 8000000 for 9000
+ 40635 strings out of 494187
+ 779289 string characters out of 6159430
+ 1355646 words of memory out of 5000000
+ 43363 multiletter control sequences out of 15000+600000
+ 102100 words of font info for 118 fonts, out of 8000000 for 9000
  402 hyphenation exceptions out of 8191
- 68i,19n,106p,10401b,2123s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2017
-/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/texlive/2017/texmf-dist/fonts/enc
-/dvips/lm/lm-mathit.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-maths
-y.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2017
-/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2017/texmf-dist/fonts/type
+ 68i,20n,106p,10401b,2139s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/texlive/2017/te
+xmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2017/texmf-dist/fonts/enc
+/dvips/lm/lm-mathit.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.en
+c}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2017/tex
+mf-dist/fonts/enc/dvips/lm/lm-mathex.enc}<c:/texlive/2017/texmf-dist/fonts/type
 1/public/lm/lmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmbx12
 .pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2
 017/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2017/texmf-dist/fon
@@ -2148,10 +2172,10 @@ exlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2017/texm
 f-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1
 /public/lm/lmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.p
 fb>
-Output written on protokoll.pdf (5 pages, 264751 bytes).
+Output written on protokoll.pdf (7 pages, 275194 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 147 compressed objects within 2 object streams
- 22 named destinations out of 1000 (max. 500000)
+ 204 PDF objects out of 1000 (max. 8388607)
+ 178 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
  34897 words of extra memory for PDF output out of 35830 (max. 10000000)
 
