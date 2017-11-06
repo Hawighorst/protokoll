@@ -7,7 +7,7 @@
 \contentsline {section}{\numberline {4}Methoden}{3}{section.4}
 \contentsline {section}{\numberline {5}Ergebnisse und Diskussion}{4}{section.5}
 \contentsline {subsection}{\numberline {5.1}Pendel mit konstanter L\IeC {\"a}nge}{4}{subsection.5.1}
-\contentsline {section}{\numberline {6}Schlussfolgerung}{4}{section.6}
-\contentsline {section}{\numberline {A}Anhang}{5}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen und Definition der Variablen}{5}{subsection.A.1}
-\contentsline {subsection}{\numberline {A.2}Quellen}{5}{subsection.A.2}
+\contentsline {section}{\numberline {6}Schlussfolgerung}{5}{section.6}
+\contentsline {section}{\numberline {A}Anhang}{6}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen und Definition der Variablen}{6}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Quellen}{6}{subsection.A.2}
