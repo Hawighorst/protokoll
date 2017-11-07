@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  7 NOV 2017 15:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  7 NOV 2017 16:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2040,16 +2040,36 @@ Package babel Info: Redefining ngerman shorthand "~
  [1
 
 ]
-Package cleveref Info: loaded `ngerman' language definitions on input line 53.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 28.
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+  [][][]\T1/lmr/m/n/10 (+20) entnommen aus dem In-for-ma-ti-ons-ma-te-ri-al zu 
+den Ex-pe-ri-men-tel-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+ \T1/lmr/m/n/10 (+20) len Übun-gen der Uni-ver-si-tät Müns-ter 2017, url: https
+://sso.uni-
+ []
+
+
+Overfull \hbox (28.87677pt too wide) in paragraph at lines 28--28
+ \T1/lmr/m/n/10 (-20) muenster.de/LearnWeb/learnweb2/pluginfile.php/1334529/mod
+_resource/content/1/Fadenpendel_Einf.pdf| 
+ []
+
+Package cleveref Info: loaded `ngerman' language definitions on input line 50.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 50.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 50.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 50.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 53.
- [2 <./faden.jpg>]
+(babel)             in language  on input line 50.
+[2 <./faden.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
@@ -2090,17 +2110,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
-) (./tex/15_Schlussfolgerung.tex
-Package cleveref Info: loaded `ngerman' language definitions on input line 1.
+Package cleveref Info: loaded `ngerman' language definitions on input line 39.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
- [4]
+(babel)             in language  on input line 39.
+[4]) (./tex/15_Schlussfolgerung.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2164,18 +2183,18 @@ Package logreq Info: Writing requests to 'protokoll.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40649 strings out of 494187
- 779451 string characters out of 6159430
+ 40679 strings out of 494187
+ 779890 string characters out of 6159430
  1355787 words of memory out of 5000000
- 43368 multiletter control sequences out of 15000+600000
- 102460 words of font info for 122 fonts, out of 8000000 for 9000
+ 43389 multiletter control sequences out of 15000+600000
+ 115660 words of font info for 133 fonts, out of 8000000 for 9000
  402 hyphenation exceptions out of 8191
  68i,20n,106p,10401b,2148s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/texlive/2017/te
 xmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2017/texmf-dist/fonts/enc
 /dvips/lm/lm-mathit.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.en
-c}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2017
-/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2017/texmf-dist/fonts/type
+c}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2017/tex
+mf-dist/fonts/enc/dvips/lm/lm-mathex.enc}<c:/texlive/2017/texmf-dist/fonts/type
 1/public/lm/lmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmbx12
 .pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2
 017/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2017/texmf-dist/fon
@@ -2183,15 +2202,15 @@ ts/type1/public/lm/lmmi12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm
 /lmmi8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texl
 ive/2017/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2017/texmf-dist
 /fonts/type1/public/lm/lmr17.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public
-/lm/lmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmro12.pfb><c:/t
-exlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2017/texm
-f-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1
-/public/lm/lmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.p
-fb>
-Output written on protokoll.pdf (8 pages, 312059 bytes).
+/lm/lmr7.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/tex
+live/2017/texmf-dist/fonts/type1/public/lm/lmro12.pfb><c:/texlive/2017/texmf-di
+st/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/p
+ublic/lm/lmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy8.pfb
+><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on protokoll.pdf (8 pages, 333479 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 181 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 34894 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 216 PDF objects out of 1000 (max. 8388607)
+ 187 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 38990 words of extra memory for PDF output out of 42996 (max. 10000000)
 
