@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  7 NOV 2017 16:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  7 NOV 2017 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2023,7 +2023,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 
-<faden.jpg, id=67, 218.8175pt x 146.04562pt>
+<faden.jpg, id=72, 218.8175pt x 146.04562pt>
 File: faden.jpg Graphic file (type jpg)
  <use faden.jpg>
 Package pdftex.def Info: faden.jpg used on input line 23.
@@ -2119,77 +2119,150 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 39.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 39.
-[4]) (./tex/15_Schlussfolgerung.tex
+[4]) (./tex/14_varlaenge.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+
+Overfull \hbox (2.44743pt too wide) in paragraph at lines 3--21
+[][] 
+ []
+
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 29.
+(c:/texlive/2017/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package cleveref Info: loaded `ngerman' language definitions on input line 33.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 33.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 33.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 33.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 33.
+ [5]
+
+LaTeX Warning: Reference `Bild:VPL' on page 6 undefined on input line 40.
+
+
+Overfull \hbox (56.4059pt too wide) in paragraph at lines 42--59
+[][] 
+ []
+
+
+LaTeX Warning: Reference `Bild:VPL' on page 6 undefined on input line 62.
+
+
+LaTeX Warning: File `Pendel/PlotLängenV.pdf' not found on input line 64.
+
+
+! Package pdftex.def Error: File `Pendel/PlotLängenV.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 ...th=0.8\textwidth]{Pendel/PlotLÃ¤ngenV.pdf}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (./tex/15_Schlussfolgerung.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 )
-Package cleveref Info: loaded `ngerman' language definitions on input line 89.
+Package cleveref Info: loaded `ngerman' language definitions on input line 81.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 81.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 81.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 81.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 89.
- [5]
+(babel)             in language  on input line 81.
+ [6]
+Package cleveref Info: loaded `ngerman' language definitions on input line 81.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 81.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 81.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 81.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 81.
+ [7]
+Package cleveref Info: loaded `ngerman' language definitions on input line 90.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 90.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 90.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 90.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 90.
+ [8]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 90.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 90.
  (./tex/20_Anhang.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 2.
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 4.
-
-(c:/texlive/2017/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 31.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 31.
 )
-Package cleveref Info: loaded `ngerman' language definitions on input line 95.
+Package cleveref Info: loaded `ngerman' language definitions on input line 96.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 95.
- [6
+(babel)             in language  on input line 96.
+ [9
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 95.
+LaTeX Warning: Empty bibliography on input line 96.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
 (./protokoll.aux
 Package cleveref Info: loaded `ngerman' language definitions on input line 27.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
 Package rerunfilecheck Info: File `protokoll.out' has not changed.
-(rerunfilecheck)             Checksum: 70E5FEBE1154EF6933AD4797B2F7C569;1336.
+(rerunfilecheck)             Checksum: C133C9A9327439EACD0AC34C5A4D4461;1581.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package logreq Info: Writing requests to 'protokoll.run.xml'.
 \openout1 = `protokoll.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40679 strings out of 494187
- 779890 string characters out of 6159430
- 1355787 words of memory out of 5000000
- 43389 multiletter control sequences out of 15000+600000
- 115660 words of font info for 133 fonts, out of 8000000 for 9000
+ 40716 strings out of 494187
+ 780394 string characters out of 6159430
+ 1361206 words of memory out of 5000000
+ 43400 multiletter control sequences out of 15000+600000
+ 116376 words of font info for 141 fonts, out of 8000000 for 9000
  402 hyphenation exceptions out of 8191
- 68i,20n,106p,10401b,2148s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,20n,106p,10401b,2260s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/texlive/2017/te
 xmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2017/texmf-dist/fonts/enc
 /dvips/lm/lm-mathit.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.en
@@ -2206,11 +2279,12 @@ ive/2017/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2017/texmf-dist
 live/2017/texmf-dist/fonts/type1/public/lm/lmro12.pfb><c:/texlive/2017/texmf-di
 st/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/p
 ublic/lm/lmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy8.pfb
-><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on protokoll.pdf (8 pages, 333479 bytes).
+><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.pfb><c:/texlive/2017/
+texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on protokoll.pdf (11 pages, 349058 bytes).
 PDF statistics:
- 216 PDF objects out of 1000 (max. 8388607)
- 187 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 38990 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 253 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 38998 words of extra memory for PDF output out of 42996 (max. 10000000)
 
