@@ -3,14 +3,14 @@
 
 
 
-Im folgenden soll die Bewegungsgleichung für das Pendel hergeleitet werden. Vereinfachend angenommen werden hierzu: Reibungsfreiheit, kleine Auslenkungen sowie die Approximierbarkeit der Masse durch einen Massepunk der Masse $m$. 
+Im Folgenden soll die Bewegungsgleichung für das Pendel hergeleitet werden. Vereinfachend angenommen werden hierzu: Reibungsfreiheit, kleine Auslenkungen sowie die Approximierbarkeit der Masse $m$ durch einen Massepunkt. 
 Ausgangspunkt ist hierzu die Erhaltung der Systemenergie $E$, welche sich aufgrund der Annahmen aus potentieller Energie $V$ und kinetischer Energie $T$ zusammensetzt. Es gilt:
 \begin{align}
 E=T+V=\textrm{const.}
 \label{energie}
 \end{align}
 
-Des weiteren gilt für die kinetische Energie $T$, da sich der Massepunkt auf einer Kreisbahn bewegt, dass die relevante Geschwindigkeit $v$ über den Kreisradius bzw. die Länge zwischen Aufhängung und Schwerpunkt $l$ sowie die Winkelgeschwindigkeit $\dot{\varphi}$ darstellen lässt. Mit $v=l\dot{\varphi}$ folgt:
+Des Weiteren gilt für die kinetische Energie $T$, da sich der Massepunkt auf einer Kreisbahn bewegt, dass die relevante Geschwindigkeit $v$ über den Kreisradius bzw. die Länge zwischen Aufhängung und Schwerpunkt $l$ sowie die Winkelgeschwindigkeit $\dot{\varphi}$ darstellen lässt. Mit $v=l\dot{\varphi}$ folgt:
  
 \begin{align}
 T&=\frac{ml^2\dot{\varphi}^2}{2}
@@ -34,7 +34,7 @@ Durch Einsetzten von den Gleichungen \cref{kin} und \cref{pot} in Gleichung \cre
 \begin{align}
 E&=-l \cos (\varphi) m g +\frac{ml^2\dot{\varphi}^2}{2}=\textrm{const.}
 \end{align}
-Dieses lässt sich durch differenzieren nach der Zeit \cref{dt} sowie der Kleinwinkelnäherung und elementaren Umformungen auf die folgende Form \cref{diffgl} bringen:
+Dieses lässt sich durch differenzieren nach der Zeit \cref{dt} sowie der Kleinwinkelnäherung und elementaren Umformungen auf die gewünschte Form \cref{diffgl} bringen:
 \begin{align}
 	0&=lmg \dot{\varphi}\sin (\varphi) +ml^2 \dot{\varphi} \ddot{\varphi}
 	\label{dt} \\
@@ -60,7 +60,7 @@ g=\frac{2 \pi l}{T^2}
 
 
 
-Aus Gleichung \ref{bestg} lassen sich zwei Variablen ablesen, welche zu messen sind und deren Unsicherheiten berücksichtigt werden müssen. Die kombinierte Standartunsicherheit setzt sich aus den Unsicherheiten der Länge $l$ und der Schwingungsdauer $T$ zusammen. Da Länge und Zeit in diesem Experiment unabhängige Größen sind, gilt nach GUM:
+Aus Gleichung \ref{bestg} lassen sich zwei Variablen ablesen, welche zu messen sind und deren Unsicherheiten berücksichtigt werden müssen. Die kombinierte Standardunsicherheit setzt sich aus den Unsicherheiten der Länge $l$ und der Schwingungsdauer $T$ zusammen. Da Länge und Zeit in diesem Experiment unabhängige Größen sind, gilt nach GUM:
 \begin{align}
 u(g)&=\sqrt{\left(\frac{\partial g}{\partial l} u(l)\right)^2 + \left(\frac{\partial g}{\partial T}u(T)\right)^2 } \\
    &= g \sqrt{\left(\frac{u(l)}{l}\right)^2+ \left(2 \frac{ u(T)}{T}\right)^2 }
