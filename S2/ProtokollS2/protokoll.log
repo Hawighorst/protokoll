@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  7 NOV 2017 17:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  7 NOV 2017 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2028,7 +2028,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
-<faden.jpg, id=72, 218.8175pt x 146.04562pt>
+<faden.jpg, id=67, 218.8175pt x 146.04562pt>
 File: faden.jpg Graphic file (type jpg)
  <use faden.jpg>
 Package pdftex.def Info: faden.jpg used on input line 23.
@@ -2049,14 +2049,14 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 28.
 
 Underfull \hbox (badness 10000) in paragraph at lines 28--28
-  [][][]\T1/lmr/m/n/10 (+20) entnommen aus dem In-for-ma-ti-ons-ma-te-ri-al zu 
-den Ex-pe-ri-men-tel-
+  [][][]\T1/lmr/m/n/10 (+20) Skizze ent-nom-men aus dem In-for-ma-ti-ons-ma-te-
+ri-al zu den Ex-pe-ri-men-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 28--28
- \T1/lmr/m/n/10 (+20) len Übun-gen der Uni-ver-si-tät Müns-ter 2017, url: https
-://sso.uni-
+ \T1/lmr/m/n/10 (+20) tel-len Übun-gen der Uni-ver-si-tät Müns-ter 2017, url: h
+ttps://sso.uni-
  []
 
 
@@ -2152,12 +2152,16 @@ Overfull \hbox (56.4059pt too wide) in paragraph at lines 44--61
 [][] 
  []
 
-<Pendel/PlotLängenV.pdf, id=158, 501.875pt x 381.425pt>
+<Pendel/PlotLängenV.pdf, id=152, 501.875pt x 381.425pt>
 File: Pendel/PlotLängenV.pdf Graphic file (type pdf)
 
 <use Pendel/PlotLängenV.pdf>
-Package pdftex.def Info: Pendel/PlotLängenV.pdf used on input line 66.
+Package pdftex.def Info: Pendel/PlotLängenV.pdf used on input line 65.
 (pdftex.def)             Requested size: 358.50612pt x 272.47818pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 ) (./tex/15_Schlussfolgerung.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
@@ -2174,16 +2178,6 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 81.
  [6]
-Package cleveref Info: loaded `ngerman' language definitions on input line 81.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 81.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 81.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 81.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 81.
- [7 <./Pendel/PlotLängenV.pdf>]
 Package cleveref Info: loaded `ngerman' language definitions on input line 90.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 90.
@@ -2193,20 +2187,17 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 90.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 90.
- [8]
+ [7 <./Pendel/PlotLängenV.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 90.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 90.
- (./tex/20_Anhang.tex
+
+(./tex/20_Anhang.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 31.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 31.
 )
 Package cleveref Info: loaded `ngerman' language definitions on input line 96.
 Package babel Info: Redefining ngerman shorthand "|
@@ -2217,7 +2208,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 96.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 96.
- [9
+ [8
 
 ]
 
@@ -2231,17 +2222,17 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 27.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
 Package rerunfilecheck Info: File `protokoll.out' has not changed.
-(rerunfilecheck)             Checksum: 29A7FD113D111160958B7776E75D4973;1603.
+(rerunfilecheck)             Checksum: D7410D2EDF6C43ACE45FC61EEC486991;1509.
 Package logreq Info: Writing requests to 'protokoll.run.xml'.
 \openout1 = `protokoll.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40721 strings out of 494187
- 780548 string characters out of 6159430
- 1361280 words of memory out of 5000000
- 43407 multiletter control sequences out of 15000+600000
- 116190 words of font info for 139 fonts, out of 8000000 for 9000
+ 40706 strings out of 494187
+ 780380 string characters out of 6159430
+ 1360257 words of memory out of 5000000
+ 43406 multiletter control sequences out of 15000+600000
+ 115652 words of font info for 133 fonts, out of 8000000 for 9000
  402 hyphenation exceptions out of 8191
  68i,20n,106p,10401b,2252s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/texlive/2017/te
@@ -2262,10 +2253,10 @@ st/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/p
 ublic/lm/lmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy8.pfb
 ><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.pfb><c:/texlive/2017/
 texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on protokoll.pdf (11 pages, 364999 bytes).
+Output written on protokoll.pdf (10 pages, 363229 bytes).
 PDF statistics:
- 277 PDF objects out of 1000 (max. 8388607)
- 236 compressed objects within 3 object streams
- 45 named destinations out of 1000 (max. 500000)
- 39003 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 267 PDF objects out of 1000 (max. 8388607)
+ 227 compressed objects within 3 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 38995 words of extra memory for PDF output out of 42996 (max. 10000000)
 
