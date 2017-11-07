@@ -1,0 +1,90 @@
+SciDAVis 1.0.9 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+4664
+<table creation_time="2017-31-10 23:25:05:768" caption_spec="%n%C{ - }%c" name="Tabelle1" columns="4" rows="6"><comment><![CDATA[C:/Users/sieve/Desktop/Plot LängeT^2.txt]]></comment><column creation_time="2017-31-10 23:25:05:768" caption_spec="%n%C{ - }%c" name="Länge" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-31-10 23:25:05:768" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-31-10 23:25:05:768" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">7.7500000000000002e-01</row><row type="TypeDouble" index="1" invalid="no">8.4399999999999997e-01</row><row type="TypeDouble" index="2" invalid="no">9.9500000000000000e-01</row><row type="TypeDouble" index="3" invalid="no">1.0120000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">1.0580000000000001e+00</row><row type="TypeDouble" index="5" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2017-31-10 23:25:05:768" caption_spec="%n%C{ - }%c" name="T^2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-31-10 23:25:05:768" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-31-10 23:25:05:768" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">3.1000000000000001e+00</row><row type="TypeDouble" index="1" invalid="no">3.3900000000000001e+00</row><row type="TypeDouble" index="2" invalid="no">3.8799999999999999e+00</row><row type="TypeDouble" index="3" invalid="no">4.0400000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">4.2900000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2017-31-10 23:25:05:768" caption_spec="%n%C{ - }%c" name="Fehler Länge" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-31-10 23:25:05:768" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-31-10 23:25:05:768" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.1999999999999999e-03</row><row type="TypeDouble" index="1" invalid="no">1.1999999999999999e-03</row><row type="TypeDouble" index="2" invalid="no">1.1999999999999999e-03</row><row type="TypeDouble" index="3" invalid="no">1.1999999999999999e-03</row><row type="TypeDouble" index="4" invalid="no">1.1999999999999999e-03</row><row type="TypeDouble" index="5" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2017-31-10 23:25:05:768" caption_spec="%n%C{ - }%c" name="Fehler t^2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-31-10 23:25:05:768" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-31-10 23:25:05:768" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">3.4999999999999997e-05</row><row type="TypeDouble" index="1" invalid="no">3.4000000000000000e-05</row><row type="TypeDouble" index="2" invalid="no">3.4000000000000000e-05</row><row type="TypeDouble" index="3" invalid="no">3.4000000000000000e-05</row><row type="TypeDouble" index="4" invalid="no">3.4000000000000000e-05</row><row type="TypeDouble" index="5" invalid="no">0.0000000000000000e+00</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width></table>
+geometry	0	0	573	382	
+
+</table>
+<multiLayer>
+Grafik1	1	1	31.10.2017 23:25:44
+geometry	0	0	514	438	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	444	307
+Alignement	0	0
+<graph>
+ggeometry	5	5	489	369
+PlotTitle	 	#000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0	#a0a0a4	2	0	#0000ff	0	0	#a0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Pendellänge l in m	T<sup>2</sup>(s<sup>2</sup>)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	10	75	0	0	0
+ScaleFont0	Arial	8	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	8	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#000000	#000000	#000000	#000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	Tabelle1_Länge	Tabelle1_T^2	1	0	0	0	1	7	1	0	0	0	0	14	0	2	0	0	4	1
+ErrorBars	0	Tabelle1_Länge	Tabelle1_T^2	Tabelle1_Fehler Länge	1	8	#000000	1	1	1
+ErrorBars	1	Tabelle1_Länge	Tabelle1_T^2	Tabelle1_Fehler t^2	1	8	#000000	1	1	1
+FunctionCurve	0,LinearAnpassung1,x,0.775,1.058	2			0	1	1	0	1	0	0	0	19	0	0	14	0	2	0	173836376	-16746281	1
+<formula>
+B=0.00300171167747932
+A=3.9890440341954
+
+A*x+B
+</formula>
+scale	0	3	4.4	0	8	5	0	0
+scale	1	3	4.4	0	8	5	0	0
+scale	2	0.75	1.1	0	8	5	0	0
+scale	3	0.75	1.1	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	0.75802752293578	4.35364238410596	MS Shell Dlg 2	8	50	0	0	0	#000000	1	0	#ffffff	0	\c{1}Messdaten Fadenpendel	\c{4}Lineare Anpassung mit m=3,99±0,26 s<sup>2</sup>/m	</legend>
+</graph>
+</multiLayer>
+<log>
+[31.10.2017 23:17:07	Diagramm: ''Grafik1'']
+Lineare Regression Anpassung an den Datensatz: Tabelle3_T^2, unter Benutzung der Funktion: A*x+B
+Y Standardfehler: Unbekannt
+Von x = 0,775 bis x = 1,058
+B (y-Achsenabschnitt) = 0,00386434005208297 +/- 0,26010531644255
+A (Steigung) = 3,98818921856097 +/- 0,275819759807947
+--------------------------------------------------------------------------------------
+Chi^2/doF = 0,00445221212928978
+R^2 = 0,985854017805688
+---------------------------------------------------------------------------------------
+[31.10.2017 23:26:41	Diagramm: ''Grafik1'']
+Lineare Regression Anpassung an den Datensatz: Tabelle1_T^2, unter Benutzung der Funktion: A*x+B
+Y Standardfehler: Zugeordneter Datensatz (Tabelle1_Fehler t^2)
+Von x = 0,775 bis x = 1,058
+B (y-Achsenabschnitt) = 0,00300171167747932 +/- 0,000134507758561358
+A (Steigung) = 3,9890440341954 +/- 0,000142371103104694
+--------------------------------------------------------------------------------------
+Chi^2/doF = 3.850.923,03957847
+R^2 = 0,985497342496232
+---------------------------------------------------------------------------------------
+</log>
