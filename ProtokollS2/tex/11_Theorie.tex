@@ -1,6 +1,8 @@
 \section{Theoretische Grundlagen}
 \label{theorie}
 
+
+
 Im folgenden soll die Bewegungsgleichung für das Pendel hergeleitet werden. Vereinfachend angenommen werden hierzu: Reibungsfreiheit, kleine Auslenkungen sowie die Approximierbarkeit der Masse durch einen Massepunk der Masse $m$. 
 Ausgangspunkt ist hierzu die Erhaltung der Systemenergie $E$, welche sich aufgrund der Annahmen aus potentieller Energie $V$ und kinetischer Energie $T$ zusammensetzt. Es gilt:
 \begin{align}
@@ -15,7 +17,15 @@ T&=\frac{ml^2\dot{\varphi}^2}{2}
 \label{kin}
 \end{align}
 
-Aus der Abbildung Fadenpendel Skizze qqq lesen wir für die potentielle Energie ab:
+
+\begin{figure}
+	\centering
+	\includegraphics{faden}
+	\caption{Die Abbildung zeigt schematisch den Aufbau des Fadenpendels sowie die relevanten Kräfte.}
+	\label{faden}
+\end{figure}
+
+Aus der Skizze des Fadenpendels \footnote{entnommen aus dem Informationsmaterial zu den Experimentellen Übungen der Universität Münster 2017, url: https://sso.uni-muenster.de/LearnWeb/learnweb2/pluginfile.php/1334529/mod\_resource/content/1/Fadenpendel\_Einf.pdf }  lesen wir für die potentielle Energie ab:
 \begin{align}
 V&=-l \cos (\varphi) m g
 \label{pot}
@@ -44,9 +54,10 @@ Eine Pendelschwingung entspricht genau einer Periode($2\pi$) des Sinus. Daher gi
 
 Es folgt für die Fallbeschleunigung:
 \begin{align}
-g=\frac{2 \pi l^2}{T^2}
+g=\frac{2 \pi l}{T^2}
 \label{bestg}
 \end{align}\\
+
 
 
 Aus Gleichung \ref{bestg} lassen sich zwei Variablen ablesen, welche zu messen sind und deren Unsicherheiten berücksichtigt werden müssen. Die kombinierte Standartunsicherheit setzt sich aus den Unsicherheiten der Länge $l$ und der Schwingungsdauer $T$ zusammen. Da Länge und Zeit in diesem Experiment unabhängige Größen sind, gilt nach GUM:
