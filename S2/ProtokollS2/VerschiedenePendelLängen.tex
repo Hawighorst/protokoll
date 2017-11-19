@@ -1,0 +1,46 @@
+\subsection{Pendel mit unterschiedlichen Längen}
+\begin{figure}
+	\begin{tabular}{|c|c|c|c|c|}
+		Pendel Länge in m & Anzahl der Messungen  & Anzahl der Schwingungen &  Gesamtdauer in s $\varnothing$ & Dauer einer Schwingung in s $\varnothing$ \\
+		\hline
+		\hline
+		0,774 & 3 & 10 & 17,64 & 1,76 \\
+		\hline
+		0,844 & 3 & 10 & 18,44 & 1,84 \\
+		\hline
+		0,995 & 3 & 10 & 19,72 & 1,97 \\
+		\hline
+		1,012 & 3 & 10 & 20,10 & 2,01 \\
+		\hline
+		1,058 & 3 & 10 & 20,66 & 2,07 \\
+		\hline
+	\end{tabular}
+\caption{Diese Tabelle die Dauer der Pendelschwingungen zu den unterschiedlichen Pendellängen an. Diese Pendellängen sind mit einer Unsicherheit von \Si{+- 0,0012}{m} angegeben. }
+\label{lversch.}
+\end{figure}
+Bei diesen Messungen sind die gleichen unsicherheiten zu berücksichtigen wie in \cref{pkl}.
+Das bedeutet es müssen sowohl die Unsicherheiten bei der Messung der Länge der Pendel und der Schwingungsdauer betrachtet werden, als auch die Unsicherheit der Anzeige des Messgerätes. Bei der Messung der Länge wurde eine Messunsicherheit von \Si{+-3}{mm} angenommen. Für alle Pendellängen gilt das die Messunsicherheiten nach Typ B (Länge des Pendel, Anzeigeungenauigkeit) gleich sind. Die Ungenauigkeit bei der Mesung der Pendellänge wurde über eine Rechtecksverteilung berechnet. Da mit einer Ungenauigkeit von \Si{+-3}{mm} gemessen wurde ergibt sich mit \cref{su3} eine Ungenauigkeit von \Si{1,22}{mm}. Zur Berechnung der ableseungenauigkeit der Digitalen anzeige der Stoppuhr wurde eine Rechteckverteilung geweählt. Somit ergibt sich nach \cref{sur} und mit dem Wissen das die Stoppuhr immer auf zwei stellen nach dem Komma rundet (also mit $a=0,01$ \Si{s}) eine Ungenauigkeit von \Si{+-0,0028}{s}. Um die Unsicherheit bei der Zeitmessung abzuschätzen wurde eine Typ A abschätzung gewählt. Somit ergeben sich nach \cref{sigma}, der Tabelle \ref{lversch.} und $t_p=1,32$ die in Tabelle \ref{} dargestellten Abweichungen. Ebenfalls in der Tabelle \ref{label} zusehen sind die Kopmbinierten abweichungen für die einzelnen Längen sowie den nach \cref{bestg} berechneten wert für "g" . Diese Kombinierte standardunsicherheit berechnet sich nach \cref{kombu}.
+\begin{figure}
+	\begin{tabular}{|c|c|c|c|c|c|}
+		Länge des Pendels & Unsicherheit der Digitalen  & Unsicherheit der Analogen & Unsicherheit der  & Kombinierte Unsicherheit in \Si{m/s^2} & g in \Si{m/s^2} \\
+		&  Anzeige der Stoppuhr in s &  Anzeige des Maßbandes in m &Zeitmessung in s & & \\
+		\hline
+		0,774 &  \Si{+-0,0029} & \Si{+-0,0012} & \Si{+-1,0567e-5} & 0,045 & 9,824 \\
+		\hline 
+		0,844 & \Si{+-0,0029} & \Si{+-0,0012} & \Si{+-9,4346e-6}& 0,044 & 9,803 \\
+		\hline
+		0,995 & \Si{+-0,0029 & \Si{+-0,0012} & \Si{7,642e-6} & 0,043 & 10,10  \\
+		\hline 
+		1,012 & \Si{+-0,0029 & \Si{+-0,0012} & \Si{1,509e-6} & 0,042 & 9,886 \\
+		1,058 &  \Si{+-0,0029 & \Si{+-0,0012} & \Si{2,547e-6} & 0,041 & 9,786 \\
+		\end{tabular}
+	    \caption{Diese Tabelle führt alle Ungenauigkeiten der einzelnen Messungen, der Kombinierten Unsicherheit sowie des Errechneten Wertes von "g" auf.}
+	    \label{Tab:Uversch}
+\end{figure}
+In Abb. \ref{Bild:VPL} wird die Dauer iener Schwingung zum Quadrat in abhängigkeit von der Pendellänge dargestellt. Anhand der Anpassung die mithilfe der Funktion: $y=mx+b$ mit $m= \Si{3,99+-0,26}{s^2/m}$ und b=$\Si{0,0039+-0,2758}{s^2}$ sieht man das genau zwei werte von der Anpassungsfunktion abweichen. Nämlich die Pendellängen 0,955 m und 1,058 m wobei der letztere Wert nur desshalb so stark abweicht da die Pendellänge 0,955 m mit in den Fit einbezogen wurde.   
+\begin{figure}
+	\includegraphics[width=0.8\textwidth]{Pendel/PlotLängenV.pdf}
+	\caption{In der Grafik ist die Dauer einer Schwingung zum Quadrat in abhängigkeit der Pendellänge, sowie eine Lineare Anpassung  zu sehen}
+	\label{Bild:VPL}
+\end{figure}
+ 
