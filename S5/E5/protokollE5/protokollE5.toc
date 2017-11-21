@@ -8,7 +8,7 @@
 \contentsline {subsection}{\numberline {3.2}Ergebnisse}{1}{subsection.3.2}
 \contentsline {section}{\numberline {4}Einfluss eines Magneten auf eine Aluminiumplatte und auf einen Aluminiumkamm}{3}{section.4}
 \contentsline {section}{\numberline {5}Verhalten eines Magneten beim Fall durch ein Aluminiumrohr mit und ohne Schlitz.}{4}{section.5}
-\contentsline {section}{\numberline {6}Berechnung der Volumensuszibilit\IeC {\"a}t $\chi _V$ auf verschiedene Materilalien}{6}{section.6}
+\contentsline {section}{\numberline {6}Volumensuzebilit\IeC {\"a}t $\chi _V$}{6}{section.6}
 \contentsline {subsection}{\numberline {6.1}Methode}{6}{subsection.6.1}
 \contentsline {subsection}{\numberline {6.2}Ergebnisse und Analyse}{6}{subsection.6.2}
 \contentsline {section}{\numberline {7}Schlussfolgerung}{7}{section.7}

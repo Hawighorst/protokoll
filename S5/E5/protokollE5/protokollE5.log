@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  20 NOV 2017 23:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  21 NOV 2017 17:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2462,15 +2462,15 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 10.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 10.
-Package cleveref Info: loaded `ngerman' language definitions on input line 38.
+Package cleveref Info: loaded `ngerman' language definitions on input line 37.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 37.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 37.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 37.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 37.
  [6]) (./tex/17_Fazit.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
@@ -2516,7 +2516,7 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 27.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `protokollE5.out' has not changed.
-(rerunfilecheck)             Checksum: 17C47D97E2DAA52A767E706C59E09388;2592.
+(rerunfilecheck)             Checksum: 0A215C2A416687059781B840A363E201;2347.
 
 
 LaTeX Warning: There were undefined references.
@@ -2526,17 +2526,17 @@ Package logreq Info: Writing requests to 'protokollE5.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50962 strings out of 494187
- 1002934 string characters out of 6159430
- 1547669 words of memory out of 5000000
+ 50961 strings out of 494187
+ 1002924 string characters out of 6159430
+ 1548669 words of memory out of 5000000
  53417 multiletter control sequences out of 15000+600000
- 116123 words of font info for 141 fonts, out of 8000000 for 9000
+ 116032 words of font info for 140 fonts, out of 8000000 for 9000
  402 hyphenation exceptions out of 8191
- 68i,21n,106p,10403b,2144s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,21n,106p,10403b,2138s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2017
 /texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2017/texmf-dist/fonts/enc/
-dvips/lm/lm-ec.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc
-}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}<c:/texlive/2017/
+dvips/lm/lm-mathsy.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
+}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}<c:/texlive/2017/
 texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/t
 ype1/public/lm/lmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lme
 x10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texliv
@@ -2549,11 +2549,12 @@ ic/lm/lmr6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/t
 exlive/2017/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2017/texmf-di
 st/fonts/type1/public/lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/pub
 lic/lm/lmssbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pf
-b><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on protokollE5.pdf (10 pages, 1433660 bytes).
+b><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2017/
+texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on protokollE5.pdf (10 pages, 1439334 bytes).
 PDF statistics:
- 244 PDF objects out of 1000 (max. 8388607)
- 204 compressed objects within 3 object streams
- 39 named destinations out of 1000 (max. 500000)
+ 249 PDF objects out of 1000 (max. 8388607)
+ 208 compressed objects within 3 object streams
+ 40 named destinations out of 1000 (max. 500000)
  38524 words of extra memory for PDF output out of 42996 (max. 10000000)
 
