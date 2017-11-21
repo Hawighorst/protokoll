@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  21 NOV 2017 18:04
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  21 NOV 2017 19:28
+>>>>>>> Hauke
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2352,11 +2356,16 @@ Overfull \hbox (19.87769pt too wide) in paragraph at lines 39--45
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
+<<<<<<< HEAD
 (Font)              <10.95> on input line 45.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 <res/Wasser.jpg, id=94, 1775.63374pt x 2301.59875pt>
+=======
+(Font)              <10.95> on input line 38.
+<res/Wasser.jpg, id=97, 1775.63374pt x 2301.59875pt>
+>>>>>>> Hauke
 File: res/Wasser.jpg Graphic file (type jpg)
  <use res/Wasser.jpg>
 Package pdftex.def Info: res/Wasser.jpg used on input line 49.
@@ -2372,7 +2381,21 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
+<<<<<<< HEAD
  <res/Alupendel.png, id=98, 401.5pt x 371.3875pt>
+=======
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+ [2]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+
+<res/Alupendel.png, id=112, 401.5pt x 371.3875pt>
+>>>>>>> Hauke
 File: res/Alupendel.png Graphic file (type png)
 
 <use res/Alupendel.png>
@@ -2396,7 +2419,12 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
+<<<<<<< HEAD
 <res/Rohr.png, id=119, 301.125pt x 401.5pt>
+=======
+
+<res/Rohr.png, id=128, 301.125pt x 401.5pt>
+>>>>>>> Hauke
 File: res/Rohr.png Graphic file (type png)
  <use res/Rohr.png>
 Package pdftex.def Info: res/Rohr.png used on input line 7.
@@ -2461,12 +2489,30 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 37.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 37.
+<<<<<<< HEAD
 [4]
+=======
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+
+ []
+
+Package cleveref Info: loaded `ngerman' language definitions on input line 86.
+>>>>>>> Hauke
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 80.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 80.
-) (./tex/17_Fazit.tex
+(babel)             in language  on input line 86.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 86.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 86.
+[7]) (./tex/17_Fazit.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2484,6 +2530,7 @@ Package babel Info: Redefining ngerman shorthand "~
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 74.
 Package babel Info: Redefining ngerman shorthand "~
+<<<<<<< HEAD
 (babel)             in language  on input line 74.
  [5]
 Package cleveref Info: loaded `ngerman' language definitions on input line 83.
@@ -2517,6 +2564,10 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 83.
  [8 <./res/Wasser.jpg> <./res/Alupendel.png>]
 Package cleveref Info: loaded `ngerman' language definitions on input line 83.
+=======
+(babel)             in language  on input line 85.
+ [8]
+>>>>>>> Hauke
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 83.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2529,6 +2580,7 @@ Package babel Info: Redefining ngerman shorthand "~
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 83.
 Package babel Info: Redefining ngerman shorthand "~
+<<<<<<< HEAD
 (babel)             in language  on input line 83.
 (./tex/20_Anhang.tex)
 Package cleveref Info: loaded `ngerman' language definitions on input line 89.
@@ -2541,6 +2593,10 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 89.
  [10
+=======
+(babel)             in language  on input line 91.
+ [9
+>>>>>>> Hauke
 
 ]
 
@@ -2554,7 +2610,11 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 27.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `protokollE5.out' has not changed.
+<<<<<<< HEAD
 (rerunfilecheck)             Checksum: F5E39E53AE1A5217A720A28E1E9F9A18;1929.
+=======
+(rerunfilecheck)             Checksum: 0A215C2A416687059781B840A363E201;2347.
+>>>>>>> Hauke
 
 
 LaTeX Warning: There were undefined references.
@@ -2564,6 +2624,7 @@ Package logreq Info: Writing requests to 'protokollE5.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  51007 strings out of 494187
  1003780 string characters out of 6159430
  1557067 words of memory out of 5000000
@@ -2596,4 +2657,37 @@ PDF statistics:
  217 compressed objects within 3 object streams
  42 named destinations out of 1000 (max. 500000)
  39036 words of extra memory for PDF output out of 42996 (max. 10000000)
+=======
+ 50962 strings out of 494187
+ 1002897 string characters out of 6159430
+ 1549669 words of memory out of 5000000
+ 53415 multiletter control sequences out of 15000+600000
+ 116210 words of font info for 142 fonts, out of 8000000 for 9000
+ 402 hyphenation exceptions out of 8191
+ 68i,20n,106p,10403b,2134s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2017
+/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2017/texmf-dist/fonts/
+enc/dvips/lm/lm-rm.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
+}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}<c:/texlive/2017/
+texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/t
+ype1/public/lm/lmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lme
+x10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texliv
+e/2017/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2017/texmf-dist/
+fonts/type1/public/lm/lmmi6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/
+lm/lmmi8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/te
+xlive/2017/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2017/texmf-di
+st/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2017/texmf-dist/fonts/type1/publ
+ic/lm/lmr6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/t
+exlive/2017/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2017/texmf-di
+st/fonts/type1/public/lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/pub
+lic/lm/lmssbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pf
+b><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2017/
+texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on protokollE5.pdf (11 pages, 1441085 bytes).
+PDF statistics:
+ 253 PDF objects out of 1000 (max. 8388607)
+ 211 compressed objects within 3 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 38524 words of extra memory for PDF output out of 42996 (max. 10000000)
+>>>>>>> Hauke
 

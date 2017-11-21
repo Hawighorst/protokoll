@@ -1,10 +1,10 @@
 
 \section[Volumensuzebilität $\chi_V$]{Berechnung der Volumensuszibilität $\chi_V$ auf verschiedene Materilalien}
-Ziel dieser Versuche war die Quantifizierung des Einflusses eines Magnetfeldes auf para- und diamagnetische Stoffe. Die zu untrersuchenden Proben waren aus pyrolytischem Graphit, und Glas als diamagnetische Proben, sowie Aluminium als paramagnetisches Element.\\
+Ziel dieser Versuche war die Quantifizierung des Einflusses eines Magnetfeldes auf para- und diamagnetische Stoffe. Die zu untersuchenden Proben waren aus pyrolytischem Graphit, und Glas als diamagnetische Stoffe, sowie Aluminium als paramagnetisches Element.\\
 \subsection{Methode}
 Zu Bestimmen war die Kraft der Probe aufgrund des Magnetfeldes. Da bei der Kraftmessung nur die vertikale Komponente gemessen wurde, ist auch bei dem Magnetfeld nur die vertikale Komponente zu berücksichtigen. Die Kräfte wurden durch eine digitale Waage mithilfe von Differenzwägung bestimmt.
- Zu berücksichtigen war die Gewichtskraft der Proben sowie der Einfluss des Magnetfeldes auf die Probenhalterung.
- Gemessen wurde daher die Kraftdifferenz auf die Waage der Probenhalterung, sowie der gesamten Probe, durch das Magnetfeld.
+ Zu Berücksichtigen war die Gewichtskraft der Proben sowie der Einfluss des Magnetfeldes auf die Probenhalterung.
+ Gemessen wurde daher die Kraftdifferenz auf die Waage der Probenhalterung, sowie der gesamten Probe, bedingt durch das Magnetfeld.
 Um eine konstante Magnetfeldstärke einstellen zu können wurde durch eine Kunststoffplatte jeweils ein Abstand von \SI{1}{mm} zwischen Magneten und Probe eingestellt. Jede Messung wurde zweimal durchgeführt. Nicht im Laborbuch vermerkte Messgrößen und Gleichungen sind der Anleitung entnommen. 
 
 \subsection{Ergebnisse und Analyse}
@@ -14,16 +14,16 @@ Um eine konstante Magnetfeldstärke einstellen zu können wurde durch eine Kunst
 
 \caption{Messwerte der Magnetismuswaage}
 \begin{center}
-\begin{tabular}{|l|c|c|}
+\begin{tabular}{|l|c|c|c|}
 
 \hline
-Material&$\Delta m_{\textrm{Halterung}}$[g]&$\Delta m_{\textrm{Probe mit Halterung}}$[g]\\
+Material&$\Delta m_{\textrm{Halterung}}$[g]&$\Delta m_{\textrm{Probe mit Halterung}}$[g] &$\Delta m_p$[g]\\
 \hline
-Aluminium &0,41&0,38\\
+Aluminium &0,41&0,38&-0,03\\
 \hline
-Graphit&0,42&1,59
+Graphit&0,42&1,59&1,17
 \\ \hline
-Glas&0,40&0,43
+Glas&0,40&0,43&0,03
 \\ \hline
 
 \end{tabular}
@@ -33,25 +33,30 @@ Glas&0,40&0,43
 \end{table}
 
 Die Tabelle \ref{vsus} gibt die Messwerte sowie die errechneten Volumensuzebilitäten $\chi_V$ wieder. Die Kontrollmessungen sind nicht aufgeführt, da die Differenzen zwischen $\Delta m_{\textrm{Halterung}}$ und $\Delta m_{\textrm{Probe}}$ welche für die Berechnung relevant waren identisch waren, sie sind jedoch im Laborbuch nachzulesen.\\
-Die Volumensuzebilität wurde mithilfe der folgenden Gleichungen genährt:
+Die Volumensuzebilität wurde mithilfe der folgenden Gleichungen näherungsweise berechnet:
+
+
+
 \begin{align}
 	\chi_V &= \frac{2 \mu_0 \Delta m_p g}{V_p \frac{\partial B_z^2}{\partial z}}
-	\\
-	V_p &=\pi h_p R_p^2 \\
+	\\   
+	V_p &=\pi h_p R_p^2
+	 \\	
 	\frac{\partial B_z^2}{\partial z} &\approx \frac{B_z^2(d)-B_z^2(d+h_p)}{h_p}
-	\\
-	B_z(z) &=\frac{B_m}{2}\left( \frac{h_m+z}{\sqrt{R_m^2+(h_m+z)^2}}- \frac{z}{\sqrt{R_m^2+z^2}}\right)\\
+	\\	
+	B_z(z) &=\frac{B_m}{2}\left( \frac{h_m+z}{\sqrt{R_m^2+(h_m+z)^2}}- \frac{z}{\sqrt{R_m^2+z^2}}\right)
+	\\	
 	U_{ges}&=\chi_V \sqrt{\left(  \frac{U_{B_m}}{B_m}\right) ^2  + 
 		 \left(  \frac{U_{\Delta m}}{\Delta m} \right) ^2 }
 \end{align}
 
-Größen mit Index $m$ beziehen sich hierbei auf den Magneten, der Index $p$ auf die Probe. Des weiteren ist $D$ der Durchmesser $h$ die Höhe des betrachteten Zylinders und $\chi_V$ ist die zu berechnende Volumensuszebilität. $B_m$ ist eine Materialkonstante des Magnetens, im Versuch war $B_m=\SI{1,87+-0,1}{\tesla}$. Unsicherheiten $U$ sind vor allem die Anzeige der Waage sowie die Unsicherheiten des Magnetfeldes. Die weiteren Zahlenwerte und Ergebnisse sind aus Gründen der Lesbarkeit in Tabelle \ref{berechnung} angegeben.
+Größen mit Index $m$ beziehen sich hierbei auf den Magneten, der Index $p$ auf die Proben. Des weiteren ist $R$ der Radius, $h$ die Höhe des betrachteten Zylinders und $\chi_V$ ist die zu berechnende Volumensuszebilität. $B_m$ ist eine Materialkonstante des Magnetens, im Versuch war $B_m=\SI{1,87+-0,1}{\tesla}$.Die Unsicherheiten $U$ sind in erster Linie die Anzeige der Waage sowie die Unsicherheiten Magnetfeldstärke charakterisiert mit Hilfe von $B_m$. Die weiteren Zahlenwerte und Ergebnisse sind aus Gründen der Lesbarkeit in Tabelle \ref{berechnung} angegeben.\\
 
 
 
 
 
-\begin{table}
+\begin{table}[h]
 	\caption{Abmessungen des Versuchsaufbaus und berechnete Volumensuszebilität}
 	\begin{center}
 		
@@ -64,9 +69,9 @@ Größen mit Index $m$ beziehen sich hierbei auf den Magneten, der Index $p$ auf
 			Aluminium &\SI{20}{mm}&\SI{1}{mm}&\SI{5}{mm}& \SI{1.38+-.15 e-5}{}
 			\\
 			\hline
-			Graphit &\SI{20}{mm}&\SI{1}{mm}&\SI{5}{mm}& \SI{5.4+-.3e-4}{} \\
+			Graphit &\SI{20}{mm}&\SI{1}{mm}&\SI{5}{mm}& \SI{-5.4+-.3e-4}{} \\
 			\hline
-			Glas &\SI{20}{mm}&\SI{1}{mm}&\SI{8}{mm}& \SI{8.7+-.9 e-6}{} \\
+			Glas &\SI{20}{mm}&\SI{1}{mm}&\SI{8}{mm}& \SI{-8.7+-.9 e-6}{} \\
 			\hline
 			Magnet &\SI{30}{mm}&\SI{1}{mm}&\SI{15}{mm}&  \\
 			\hline
@@ -76,7 +81,6 @@ Größen mit Index $m$ beziehen sich hierbei auf den Magneten, der Index $p$ auf
 	
 \end{table}
 
-
-\subsection{Schlussfolgerung}
-hier ein Fazit
+Aus den relativ betrachtet Großen Unsicherheitsintervallen lässt sich folgern, dass die Instrumente im Grenzbereich des sinnvoll messbaren eingesetzt wurden. So konnte zum Beispiel bei $\Delta m$ nur eine signifikannte Stelle gemessen werden.Sodass die Schwankung um eine Endziffer das Ergebnis um $\frac{1}{3}$ verändert hätte.  Außerdem konnten mangels Angabe weder geometrische Unsicherheiten noch Messunsicherheiten der Waage, abgesehen ihrer Anzeige, berücksichtigt werden. Bei Wiederholung der Messung wäre eine Waage welche mindestens im Bereich von \SI{1}{mg} misst sinnvoll, da die Effekte Änderungen in der Größenordnung von \SI{10}{mg} verursachen.
+Dennoch lassen die gemessenen Werte einen guten Rückschluss auf die Größenordnung der Volumensuzebilitäten schließen. Dies zeigt sich auch im Vergleich mit den Literaturwerten.\\
 
