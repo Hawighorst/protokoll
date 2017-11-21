@@ -1,30 +1,29 @@
 
-\section{Berechnung der Volumensuszibilität $\chi_V$ auf verschiedene Materilalien}
+\section[Volumensuzebilität $\chi_V$]{Berechnung der Volumensuszibilität $\chi_V$ auf verschiedene Materilalien}
 Ziel dieser Versuche war die Quantifizierung des Einflusses eines Magnetfeldes auf para- und diamagnetische Stoffe. Die zu untrersuchenden Proben waren aus pyrolytischem Graphit, und Glas als diamagnetische Proben, sowie Aluminium als paramagnetisches Element.\\
 \subsection{Methode}
 Zu Bestimmen war die Kraft der Probe aufgrund des Magnetfeldes. Da bei der Kraftmessung nur die vertikale Komponente gemessen wurde, ist auch bei dem Magnetfeld nur die vertikale Komponente zu berücksichtigen. Die Kräfte wurden durch eine digitale Waage mithilfe von Differenzwägung bestimmt.
  Zu berücksichtigen war die Gewichtskraft der Proben sowie der Einfluss des Magnetfeldes auf die Probenhalterung.
  Gemessen wurde daher die Kraftdifferenz auf die Waage der Probenhalterung, sowie der gesamten Probe, durch das Magnetfeld.
-Um eine konstante Magnetfeldstärke einstellen zu können wurde durch eine Kunststoffplatte jeweils ein Abstand von \SI{1}{mm} zwischen Magneten und Probe eingestellt. Jede Messung wurde zweimal durchgeführt.
+Um eine konstante Magnetfeldstärke einstellen zu können wurde durch eine Kunststoffplatte jeweils ein Abstand von \SI{1}{mm} zwischen Magneten und Probe eingestellt. Jede Messung wurde zweimal durchgeführt. Nicht im Laborbuch vermerkte Messgrößen und Gleichungen sind der Anleitung entnommen. 
 
 \subsection{Ergebnisse und Analyse}
 
 
-\begin{table}
+\begin{table}[h]
+
 \caption{Messwerte der Magnetismuswaage}
 \begin{center}
-	
-
 \begin{tabular}{|l|c|c|}
 
 \hline
-Material&$\Delta m_{\textrm{Halterung}}$[g]&$\Delta m_{\textrm{Probe}}$[g]\\
+Material&$\Delta m_{\textrm{Halterung}}$[g]&$\Delta m_{\textrm{Probe mit Halterung}}$[g]\\
 \hline
 Aluminium &0,41&0,38\\
 \hline
-Glas&0,42&1,59
+Graphit&0,42&1,59
 \\ \hline
-Graphit&0,40&0,43
+Glas&0,40&0,43
 \\ \hline
 
 \end{tabular}
@@ -33,18 +32,20 @@ Graphit&0,40&0,43
 
 \end{table}
 
-Die Tabelle \ref{vsus} gibt die Messwerte sowie die errechneten Volumensuzebilitäten $\xi_V$ wieder. Die Kontrollmessungen sind nicht aufgeführt, da die Differenzen zwischen $\Delta m_{\textrm{Halterung}}$ und $\Delta m_{\textrm{Probe}}$ welche für die Berechnung relevant waren identisch waren, sie sind jedoch im Laborbuch nachzulesen.\\
+Die Tabelle \ref{vsus} gibt die Messwerte sowie die errechneten Volumensuzebilitäten $\chi_V$ wieder. Die Kontrollmessungen sind nicht aufgeführt, da die Differenzen zwischen $\Delta m_{\textrm{Halterung}}$ und $\Delta m_{\textrm{Probe}}$ welche für die Berechnung relevant waren identisch waren, sie sind jedoch im Laborbuch nachzulesen.\\
 Die Volumensuzebilität wurde mithilfe der folgenden Gleichungen genährt:
 \begin{align}
-	\xi_V &= \frac{2 \mu_0 \Delta m_p g}{V_p \frac{\partial B_z^2}{\partial z}}
+	\chi_V &= \frac{2 \mu_0 \Delta m_p g}{V_p \frac{\partial B_z^2}{\partial z}}
 	\\
+	V_p &=\pi h_p R_p^2 \\
 	\frac{\partial B_z^2}{\partial z} &\approx \frac{B_z^2(d)-B_z^2(d+h_p)}{h_p}
 	\\
-	B(z) &=\frac{B_m}{2}\left( \frac{h_m+z}{\sqrt{R_m^2+(h_m+z)^2}}- \frac{z}{\sqrt{R_m^2+z^2}}\right)\\
-	V_p &=\pi h_p R_p^2 
+	B_z(z) &=\frac{B_m}{2}\left( \frac{h_m+z}{\sqrt{R_m^2+(h_m+z)^2}}- \frac{z}{\sqrt{R_m^2+z^2}}\right)\\
+	U_{ges}&=\chi_V \sqrt{\left(  \frac{U_{B_m}}{B_m}\right) ^2  + 
+		 \left(  \frac{U_{\Delta m}}{\Delta m} \right) ^2 }
 \end{align}
 
-Größen mit Index $m$ beziehen sich hierbei auf den Magneten, der Index $p$ auf die Probe. Des weiteren ist $D$ der Durchmesser $h$ die Höhe des betrachteten Zylinders und $\xi_V$ ist die zu berechnende Volumensuszebilität. $B_m$ ist eine Materialkonstante des Magnetens, im Versuch war $B_m=\SI{1,87+-0,1}{\tesla}$. Die weiteren Zahlenwerte und Ergebnisse sind aus Gründen der Lesbarkeit in Tabelle \ref{berechnung} angegeben.
+Größen mit Index $m$ beziehen sich hierbei auf den Magneten, der Index $p$ auf die Probe. Des weiteren ist $D$ der Durchmesser $h$ die Höhe des betrachteten Zylinders und $\chi_V$ ist die zu berechnende Volumensuszebilität. $B_m$ ist eine Materialkonstante des Magnetens, im Versuch war $B_m=\SI{1,87+-0,1}{\tesla}$. Unsicherheiten $U$ sind vor allem die Anzeige der Waage sowie die Unsicherheiten des Magnetfeldes. Die weiteren Zahlenwerte und Ergebnisse sind aus Gründen der Lesbarkeit in Tabelle \ref{berechnung} angegeben.
 
 
 
@@ -58,15 +59,16 @@ Größen mit Index $m$ beziehen sich hierbei auf den Magneten, der Index $p$ auf
 		\begin{tabular}{|l|c|c|c|c|}
 			
 			\hline
-			Material& $R$ & $d$ & $h$ & $\xi_V$\\
+			Material& $R$ & $d$ & $h$ & $\chi_V$\\
 			\hline
-			Aluminium &\SI{20}{mm}&\SI{1}{mm}&\SI{5}{mm}& ??\\
+			Aluminium &\SI{20}{mm}&\SI{1}{mm}&\SI{5}{mm}& \SI{1.38+-.15 e-5}{}
+			\\
 			\hline
-			Glas &\SI{20}{mm}&\SI{1}{mm}&\SI{8}{mm}& ??\\
-			 \hline
-			Graphit &\SI{20}{mm}&\SI{1}{mm}&\SI{5}{mm}& ??\\
+			Graphit &\SI{20}{mm}&\SI{1}{mm}&\SI{5}{mm}& \SI{5.4+-.3e-4}{} \\
 			\hline
-			Magnet &\SI{30}{mm}&\SI{1}{mm}&\SI{5}{mm}& ??\\
+			Glas &\SI{20}{mm}&\SI{1}{mm}&\SI{8}{mm}& \SI{8.7+-.9 e-6}{} \\
+			\hline
+			Magnet &\SI{30}{mm}&\SI{1}{mm}&\SI{15}{mm}&  \\
 			\hline
 		\end{tabular}
 	\end{center}
@@ -75,5 +77,6 @@ Größen mit Index $m$ beziehen sich hierbei auf den Magneten, der Index $p$ auf
 \end{table}
 
 
-
+\subsection{Schlussfolgerung}
+hier ein Fazit
 

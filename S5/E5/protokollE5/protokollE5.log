@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  20 NOV 2017 23:29
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.11.20)  21 NOV 2017 14:19
 >>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  21 NOV 2017 17:56
+>>>>>>> Hauke
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2376,9 +2380,9 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `protokollE5.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'protokollE5.bbl' found.
+Package biblatex Info: ... file 'protokollE5.bbl' not found.
 
-(./protokollE5.bbl)
+No file protokollE5.bbl.
 Package biblatex Info: Reference section=0 on input line 42.
 Package biblatex Info: Reference segment=0 on input line 42.
 Package caption Info: Begin \AtBeginDocument code.
@@ -2387,10 +2391,14 @@ Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box74
 Package hyperref Info: Link coloring OFF on input line 42.
 <<<<<<< HEAD
+<<<<<<< HEAD
  (c:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 =======
 (d:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 >>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
+=======
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+>>>>>>> Hauke
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (d:/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -2670,7 +2678,11 @@ Overfull \hbox (19.87769pt too wide) in paragraph at lines 37--38
 
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 38.
+<<<<<<< HEAD
 <res/Wasser.jpg, id=128, 1775.63374pt x 2301.59875pt>
+=======
+<res/Wasser.jpg, id=102, 1775.63374pt x 2301.59875pt>
+>>>>>>> Hauke
 File: res/Wasser.jpg Graphic file (type jpg)
  <use res/Wasser.jpg>
 Package pdftex.def Info: res/Wasser.jpg used on input line 42.
@@ -2704,10 +2716,14 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <res/Alupendel.png, id=143, 401.5pt x 371.3875pt>
 =======
 <res/Alupendel.png, id=108, 401.5pt x 371.3875pt>
 >>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
+=======
+<res/Alupendel.png, id=117, 401.5pt x 371.3875pt>
+>>>>>>> Hauke
 File: res/Alupendel.png Graphic file (type png)
  <use res/Alupendel.png>
 Package pdftex.def Info: res/Alupendel.png used on input line 9.
@@ -2740,10 +2756,14 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <res/Rohr.png, id=159, 301.125pt x 401.5pt>
 =======
 <res/Rohr.png, id=124, 301.125pt x 401.5pt>
 >>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
+=======
+<res/Rohr.png, id=133, 301.125pt x 401.5pt>
+>>>>>>> Hauke
 File: res/Rohr.png Graphic file (type png)
  <use res/Rohr.png>
 Package pdftex.def Info: res/Rohr.png used on input line 7.
@@ -2827,6 +2847,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 10.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Package cleveref Info: loaded `ngerman' language definitions on input line 45.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 45.
@@ -2861,16 +2882,29 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 ) (./tex/17_Fazit.tex
 =======
 Package cleveref Info: loaded `ngerman' language definitions on input line 38.
+=======
+Package cleveref Info: loaded `ngerman' language definitions on input line 37.
+>>>>>>> Hauke
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 37.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 37.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 37.
 Package babel Info: Redefining ngerman shorthand "~
+<<<<<<< HEAD
 (babel)             in language  on input line 38.
  [6]) (./tex/17_Fazit.tex
 >>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
+=======
+(babel)             in language  on input line 37.
+ [6]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 80.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 80.
+) (./tex/17_Fazit.tex
+>>>>>>> Hauke
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2887,6 +2921,9 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 85.
  [7]
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Hauke
 Package cleveref Info: loaded `ngerman' language definitions on input line 85.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 85.
@@ -2897,8 +2934,11 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 85.
  [8]
+<<<<<<< HEAD
 =======
 >>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
+=======
+>>>>>>> Hauke
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 85.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2917,8 +2957,12 @@ Package babel Info: Redefining ngerman shorthand "~
  [9
 =======
 
+<<<<<<< HEAD
 [8
 >>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
+=======
+[9
+>>>>>>> Hauke
 
 ]
 
@@ -2934,6 +2978,7 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 <<<<<<< HEAD
 =======
 Package rerunfilecheck Info: File `protokollE5.out' has not changed.
+<<<<<<< HEAD
 (rerunfilecheck)             Checksum: B8FA8EC54CA7ABEC1E7B77626C73CF09;2473.
 >>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 
@@ -2941,6 +2986,9 @@ Package rerunfilecheck Info: File `protokollE5.out' has not changed.
 Package rerunfilecheck Warning: File `protokollE5.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
+=======
+(rerunfilecheck)             Checksum: 1DCC7CF60413BBAD44CA91D63FE74144;2485.
+>>>>>>> Hauke
 
 Package rerunfilecheck Info: Checksums for `protokollE5.out':
 (rerunfilecheck)             Before: 2CB3F6644FC8652EE1AEB3BD32A09A6E;4546
@@ -2956,6 +3004,7 @@ Package logreq Info: Writing requests to 'protokollE5.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
 <<<<<<< HEAD
  51004 strings out of 494187
  1003619 string characters out of 6159430
@@ -3045,4 +3094,37 @@ PDF statistics:
  38 named destinations out of 1000 (max. 500000)
  38516 words of extra memory for PDF output out of 42996 (max. 10000000)
 >>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
+=======
+ 50960 strings out of 494187
+ 1002883 string characters out of 6159430
+ 1548669 words of memory out of 5000000
+ 53416 multiletter control sequences out of 15000+600000
+ 116032 words of font info for 140 fonts, out of 8000000 for 9000
+ 402 hyphenation exceptions out of 8191
+ 68i,21n,106p,10403b,2138s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2017
+/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2017/texmf-dist/fonts/enc/
+dvips/lm/lm-mathsy.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
+}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}<c:/texlive/2017/
+texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/t
+ype1/public/lm/lmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lme
+x10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texliv
+e/2017/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2017/texmf-dist/
+fonts/type1/public/lm/lmmi6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/
+lm/lmmi8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/te
+xlive/2017/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2017/texmf-di
+st/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2017/texmf-dist/fonts/type1/publ
+ic/lm/lmr6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/t
+exlive/2017/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2017/texmf-di
+st/fonts/type1/public/lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/pub
+lic/lm/lmssbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pf
+b><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2017/
+texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on protokollE5.pdf (11 pages, 1440156 bytes).
+PDF statistics:
+ 258 PDF objects out of 1000 (max. 8388607)
+ 216 compressed objects within 3 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 38532 words of extra memory for PDF output out of 42996 (max. 10000000)
+>>>>>>> Hauke
 
