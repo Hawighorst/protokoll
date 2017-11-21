@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  21 NOV 2017 17:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  21 NOV 2017 19:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2352,7 +2352,7 @@ Overfull \hbox (19.87769pt too wide) in paragraph at lines 37--38
 
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 38.
-<res/Wasser.jpg, id=102, 1775.63374pt x 2301.59875pt>
+<res/Wasser.jpg, id=97, 1775.63374pt x 2301.59875pt>
 File: res/Wasser.jpg Graphic file (type jpg)
  <use res/Wasser.jpg>
 Package pdftex.def Info: res/Wasser.jpg used on input line 42.
@@ -2379,7 +2379,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 
-<res/Alupendel.png, id=117, 401.5pt x 371.3875pt>
+<res/Alupendel.png, id=112, 401.5pt x 371.3875pt>
 File: res/Alupendel.png Graphic file (type png)
  <use res/Alupendel.png>
 Package pdftex.def Info: res/Alupendel.png used on input line 9.
@@ -2401,7 +2401,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 
-<res/Rohr.png, id=133, 301.125pt x 401.5pt>
+<res/Rohr.png, id=128, 301.125pt x 401.5pt>
 File: res/Rohr.png Graphic file (type png)
  <use res/Rohr.png>
 Package pdftex.def Info: res/Rohr.png used on input line 7.
@@ -2472,26 +2472,30 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 37.
  [6]
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+
+ []
+
+Package cleveref Info: loaded `ngerman' language definitions on input line 86.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 80.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 80.
-) (./tex/17_Fazit.tex
+(babel)             in language  on input line 86.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 86.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 86.
+[7]) (./tex/17_Fazit.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 2.
 )
-Package cleveref Info: loaded `ngerman' language definitions on input line 85.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 85.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 85.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 85.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 85.
- [7]
 Package cleveref Info: loaded `ngerman' language definitions on input line 85.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 85.
@@ -2516,8 +2520,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 91.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 91.
-
-[9
+ [9
 
 ]
 
@@ -2531,7 +2534,7 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 27.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `protokollE5.out' has not changed.
-(rerunfilecheck)             Checksum: 1DCC7CF60413BBAD44CA91D63FE74144;2485.
+(rerunfilecheck)             Checksum: 0A215C2A416687059781B840A363E201;2347.
 
 
 LaTeX Warning: There were undefined references.
@@ -2541,16 +2544,16 @@ Package logreq Info: Writing requests to 'protokollE5.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50960 strings out of 494187
- 1002883 string characters out of 6159430
- 1548669 words of memory out of 5000000
- 53416 multiletter control sequences out of 15000+600000
- 116032 words of font info for 140 fonts, out of 8000000 for 9000
+ 50962 strings out of 494187
+ 1002897 string characters out of 6159430
+ 1549669 words of memory out of 5000000
+ 53415 multiletter control sequences out of 15000+600000
+ 116210 words of font info for 142 fonts, out of 8000000 for 9000
  402 hyphenation exceptions out of 8191
- 68i,21n,106p,10403b,2138s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2017
-/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2017/texmf-dist/fonts/enc/
-dvips/lm/lm-mathsy.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
+ 68i,20n,106p,10403b,2134s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2017
+/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2017/texmf-dist/fonts/
+enc/dvips/lm/lm-rm.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 }{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}<c:/texlive/2017/
 texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/t
 ype1/public/lm/lmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lme
@@ -2566,10 +2569,10 @@ st/fonts/type1/public/lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/pub
 lic/lm/lmssbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pf
 b><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2017/
 texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on protokollE5.pdf (11 pages, 1440156 bytes).
+Output written on protokollE5.pdf (11 pages, 1441085 bytes).
 PDF statistics:
- 258 PDF objects out of 1000 (max. 8388607)
- 216 compressed objects within 3 object streams
- 42 named destinations out of 1000 (max. 500000)
- 38532 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 253 PDF objects out of 1000 (max. 8388607)
+ 211 compressed objects within 3 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 38524 words of extra memory for PDF output out of 42996 (max. 10000000)
 
