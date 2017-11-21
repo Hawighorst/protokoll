@@ -1,40 +1,32 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  20 NOV 2017 23:29
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.11.20)  21 NOV 2017 14:19
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  21 NOV 2017 17:56
->>>>>>> Hauke
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  21 NOV 2017 18:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./protokollE5.tex
 (./protokollE5.tex
 LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
-(d:/texlive/2017/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Babel <3.10> and hyphenation patterns for 41 language(s) loaded.
+(c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2017/04/13 v3.23 KOMA-Script document class (article)
-(d:/texlive/2017/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
-(d:/texlive/2017/texmf-dist/tex/latex/koma-script/scrbase.sty
+(c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrbase.sty
 Package: scrbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-(d:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(d:/texlive/2017/texmf-dist/tex/latex/koma-script/scrlfile.sty
+(c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2017/04/13 v3.23 KOMA-Script package (loading files)
 
 Package scrlfile, 2017/04/13 v3.23 KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
-))) (d:/texlive/2017/texmf-dist/tex/latex/koma-script/tocbasic.sty
+))) (c:/texlive/2017/texmf-dist/tex/latex/koma-script/tocbasic.sty
 Package: tocbasic 2017/04/13 v3.23 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip41
 \scr@dte@tocline@numbox=\box26
@@ -63,11 +55,11 @@ Package scrartcl Info: You've used standard option `12pt'.
 Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
 ine 2059.
 
-(d:/texlive/2017/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+(c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
 File: scrsize12pt.clo 2017/04/13 v3.23 KOMA-Script font size class option (12pt
 )
 )
-(d:/texlive/2017/texmf-dist/tex/latex/koma-script/typearea.sty
+(c:/texlive/2017/texmf-dist/tex/latex/koma-script/typearea.sty
 Package: typearea 2017/04/13 v3.23 KOMA-Script package (type area)
 \ta@bcor=\skip42
 \ta@div=\count79
@@ -127,13 +119,13 @@ Class scrartcl Info: Redefining `\numberline' on input line 5233.
 \bibindent=\dimen102
 )
 (./tex/01_PaketeEinstellungen.tex
-(d:/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+(c:/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2017/05/19 3.10 The Babel package
 
-(d:/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
+(c:/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/01/24 v3.3q English support from the babel system
 
-(d:/texlive/2017/texmf-dist/tex/generic/babel/babel.def
+(c:/texlive/2017/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2017/05/19 3.10 Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
@@ -142,37 +134,37 @@ File: babel.def 2017/05/19 3.10 Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )
-(d:/texlive/2017/texmf-dist/tex/generic/babel-german/ngerman.ldf
+(c:/texlive/2017/texmf-dist/tex/generic/babel-german/ngerman.ldf
 Language: ngerman 2016/11/02 v2.9 German support for babel (new orthography)
 
-(d:/texlive/2017/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+(c:/texlive/2017/texmf-dist/tex/generic/babel-german/ngermanb.ldf
 Language: ngermanb 2016/11/02 v2.9 German support for babel (new orthography)
 Package babel Info: Making " an active character on input line 125.
 )))
-(d:/texlive/2017/texmf-dist/tex/generic/iftex/iftex.sty
+(c:/texlive/2017/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
 and LuaTeX
 )
-(d:/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+(c:/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-(d:/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
+(c:/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(d:/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
+(c:/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 
-(d:/texlive/2017/texmf-dist/tex/latex/base/utf8.def
+(c:/texlive/2017/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(d:/texlive/2017/texmf-dist/tex/latex/base/t1enc.dfu
+(c:/texlive/2017/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -413,7 +405,7 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(d:/texlive/2017/texmf-dist/tex/latex/base/ot1enc.dfu
+(c:/texlive/2017/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -454,7 +446,7 @@ File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(d:/texlive/2017/texmf-dist/tex/latex/base/omsenc.dfu
+(c:/texlive/2017/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -478,7 +470,7 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(d:/texlive/2017/texmf-dist/tex/latex/lm/lmodern.sty
+(c:/texlive/2017/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -513,7 +505,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-(d:/texlive/2017/texmf-dist/tex/latex/base/textcomp.sty
+(c:/texlive/2017/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -528,12 +520,12 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
 
-(d:/texlive/2017/texmf-dist/tex/latex/base/ts1enc.def
+(c:/texlive/2017/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-(d:/texlive/2017/texmf-dist/tex/latex/base/ts1enc.dfu
+(c:/texlive/2017/texmf-dist/tex/latex/base/ts1enc.dfu
 File: ts1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -669,7 +661,7 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-(d:/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+(c:/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count89
 \calc@Bcount=\count90
@@ -682,20 +674,20 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count91
 \calc@Cskip=\skip57
 )
-(d:/texlive/2017/texmf-dist/tex/latex/xifthen/xifthen.sty
+(c:/texlive/2017/texmf-dist/tex/latex/xifthen/xifthen.sty
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
 
-(d:/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+(c:/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(d:/texlive/2017/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+(c:/texlive/2017/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
 ))
-(d:/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(d:/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty
+(c:/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2017/05/13 L3 programming layer (loader) 
 
-(d:/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+(c:/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2017/05/13 L3 programming layer (code)
 \c_max_int=\count92
 \l_tmpa_int=\count93
@@ -791,7 +783,7 @@ Package: expl3 2017/05/13 L3 programming layer (code)
 \l__coffin_scaled_total_height_dim=\dimen135
 \l__coffin_scaled_width_dim=\dimen136
 )
-(d:/texlive/2017/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+(c:/texlive/2017/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count127
 \l__driver_tmp_box=\box43
@@ -803,7 +795,7 @@ Package: xparse 2017/05/13 L3 Experimental document command parser
 \l__xparse_mandatory_args_int=\count131
 \l__xparse_v_nesting_int=\count132
 )
-(d:/texlive/2017/texmf-dist/tex/latex/microtype/microtype.sty
+(c:/texlive/2017/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
 \MT@toks=\toks17
 \MT@count=\count133
@@ -812,7 +804,7 @@ LaTeX Info: Redefining \textls on input line 774.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
 \MT@listname@count=\count134
 
-(d:/texlive/2017/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+(c:/texlive/2017/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2016/05/14 v2.6a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 916.
@@ -821,56 +813,56 @@ LaTeX Info: Redefining \lslig on input line 916.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(d:/texlive/2017/texmf-dist/tex/latex/microtype/microtype.cfg
+(c:/texlive/2017/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
 ))
-(d:/texlive/2017/texmf-dist/tex/latex/datetime2/datetime2.sty
+(c:/texlive/2017/texmf-dist/tex/latex/datetime2/datetime2.sty
 Package: datetime2 2016/07/12 v1.5.2 (NLCT) date and time formats
 
-(d:/texlive/2017/texmf-dist/tex/latex/tracklang/tracklang.sty
+(c:/texlive/2017/texmf-dist/tex/latex/tracklang/tracklang.sty
 Package: tracklang 2017/03/25 v1.3.4 (NLCT) Track Languages
 
-(d:/texlive/2017/texmf-dist/tex/generic/tracklang/tracklang.tex))
-(d:/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(c:/texlive/2017/texmf-dist/tex/generic/tracklang/tracklang.tex))
+(c:/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count135
 )
-(d:/texlive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(c:/texlive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(d:/texlive/2017/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(d:/texlive/2017/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(c:/texlive/2017/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2017/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks18
 \XKV@tempa@toks=\toks19
 )
 \XKV@depth=\count136
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(d:/texlive/2017/texmf-dist/tex/latex/datetime2-english/datetime2-english.ldf
+(c:/texlive/2017/texmf-dist/tex/latex/datetime2-english/datetime2-english.ldf
 File: datetime2-english.ldf 2016/03/09 v1.04 (NLCT)
 
-(d:/texlive/2017/texmf-dist/tex/latex/datetime2-english/datetime2-english-base.
+(c:/texlive/2017/texmf-dist/tex/latex/datetime2-english/datetime2-english-base.
 ldf
 File: datetime2-english-base.ldf 2016/03/09 v1.04 (NLCT)
 ))
-(d:/texlive/2017/texmf-dist/tex/latex/datetime2-german/datetime2-german.ldf
+(c:/texlive/2017/texmf-dist/tex/latex/datetime2-german/datetime2-german.ldf
 File: datetime2-german.ldf 2017/03/09 v1.1
 
-(d:/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(c:/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(d:/texlive/2017/texmf-dist/tex/latex/datetime2-german/datetime2-german-ascii.l
+(c:/texlive/2017/texmf-dist/tex/latex/datetime2-german/datetime2-german-ascii.l
 df
 File: datetime2-german-ascii.ldf 2017/03/09 v1.1
-))) (d:/texlive/2017/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+))) (c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
 Package: scrlayer-scrpage 2017/04/13 v3.23 KOMA-Script package (end user interf
 ace for scrlayer)
 
-(d:/texlive/2017/texmf-dist/tex/latex/koma-script/scrlayer.sty
+(c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrlayer.sty
 Package: scrlayer 2017/04/13 v3.23 KOMA-Script package (defining layers and pag
 e styles)
 Package scrlayer Info: Using already defined \footheight
@@ -892,10 +884,10 @@ Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
 1: section
 1: section
 1: subsection
-(d:/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+(c:/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(d:/texlive/2017/texmf-dist/tex/latex/enumitem/enumitem.sty
+(c:/texlive/2017/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip65
 \enit@outerparindent=\dimen138
@@ -903,7 +895,7 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box44
 \enitdp@description=\count137
 )
-(d:/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.sty
+(c:/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2017/03/11 v5.2b context-sensitive quotations (JAW)
 \csq@reset=\count138
 \csq@gtype=\count139
@@ -913,16 +905,16 @@ Package: csquotes 2017/03/11 v5.2b context-sensitive quotations (JAW)
 \csq@tshold=\count143
 \csq@ltx@everypar=\toks21
 
-(d:/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.def
+(c:/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2017/03/11 v5.2b csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-(d:/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.cfg
+(c:/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 ))
-(d:/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+(c:/texlive/2017/texmf-dist/tex/latex/tools/array.sty
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen139
 \extrarowheight=\dimen140
@@ -930,24 +922,24 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \extratabsurround=\skip66
 \backup@length=\skip67
 )
-(d:/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip68
 
 For additional information on amsmath, use the `?' option.
-(d:/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(d:/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks23
 \ex@=\dimen141
 ))
-(d:/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen142
 )
-(d:/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count144
@@ -988,20 +980,20 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-(d:/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(d:/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(d:/texlive/2017/texmf-dist/tex/latex/mathtools/mathtools.sty
+(c:/texlive/2017/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
 
-(d:/texlive/2017/texmf-dist/tex/latex/mathtools/mhsetup.sty
+(c:/texlive/2017/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
@@ -1018,28 +1010,28 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_above_shortintertext_sep=\dimen155
 \l_MT_below_shortintertext_sep=\dimen156
 )
-(d:/texlive/2017/texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty
-(d:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/texlive/2017/texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(d:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
 
-(d:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(d:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(d:/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 
-(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count157
@@ -1047,10 +1039,10 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen157
 \Gin@req@width=\dimen158
 )
-(d:/texlive/2017/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(c:/texlive/2017/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2017/05/13 LaTeX2e option processing using LaTeX3 keys
 )
-(d:/texlive/2017/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+(c:/texlive/2017/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2017/05/13 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen159
 \l__xtemplate_tmp_int=\count158
@@ -1078,7 +1070,7 @@ Package: xfrac 2017/05/13 L3 Experimental split-level fractions
 . Defining command \sfrac with sig. 'omom' on line 419.
 .................................................
 )
-(d:/texlive/2017/texmf-dist/tex/latex/siunitx/siunitx.sty
+(c:/texlive/2017/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2017/05/19 v2.7g A comprehensive (SI) units package
 \l__siunitx_tmp_box=\box49
 \l__siunitx_tmp_dim=\dimen165
@@ -1237,16 +1229,16 @@ Package: siunitx 2017/05/19 v2.7g A comprehensive (SI) units package
 .................................................
 \g__file_internal_ior=\read1
 
-(d:/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator.sty
+(c:/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator.sty
 Package: translator 2010/06/12 ver 1.10
 
-(d:/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator-language-map
+(c:/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator-language-map
 pings.tex)))
-(d:/texlive/2017/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
+(c:/texlive/2017/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
 Package: newunicodechar 2012/11/12 v1.1 Defining Unicode characters
 )
 (./tex/99_pdflatex_unicode-math.tex
-(d:/texlive/2017/texmf-dist/tex/latex/silence/silence.sty
+(c:/texlive/2017/texmf-dist/tex/latex/silence/silence.sty
 Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error mes
 sages
 \sl@Save=\count176
@@ -1270,10 +1262,10 @@ LaTeX Info: Redefining \GenericWarning on input line 433.
 \sl@BankOfErrors=\toks35
 LaTeX Info: Redefining \GenericError on input line 601.
 ))
-(d:/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+(c:/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(d:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -1287,23 +1279,23 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(d:/texlive/2017/texmf-dist/tex/latex/gincltex/gincltex.sty
-(d:/texlive/2017/texmf-dist/tex/latex/svn-prov/svn-prov.sty
+(c:/texlive/2017/texmf-dist/tex/latex/gincltex/gincltex.sty
+(c:/texlive/2017/texmf-dist/tex/latex/svn-prov/svn-prov.sty
 Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
 )
 Package: gincltex 2011/09/04 v0.3 Include external LaTeX files like graphics
 
-(d:/texlive/2017/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+(c:/texlive/2017/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
 
-(d:/texlive/2017/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+(c:/texlive/2017/texmf-dist/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-(d:/texlive/2017/texmf-dist/tex/latex/adjustbox/trimclip.sty
+(c:/texlive/2017/texmf-dist/tex/latex/adjustbox/trimclip.sty
 Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
 
-(d:/texlive/2017/texmf-dist/tex/latex/collectbox/collectbox.sty
+(c:/texlive/2017/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \collectedbox=\box56
 )
@@ -1313,7 +1305,7 @@ Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \tc@ury=\dimen180
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
-(d:/texlive/2017/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+(c:/texlive/2017/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen181
@@ -1321,11 +1313,11 @@ File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
 \adjbox@Depth=\dimen183
 \adjbox@Totalheight=\dimen184
 
-(d:/texlive/2017/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+(c:/texlive/2017/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
 \c@checkoddpage=\count186
 )
-(d:/texlive/2017/texmf-dist/tex/latex/varwidth/varwidth.sty
+(c:/texlive/2017/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box57
 \sift@deathcycles=\count187
@@ -1334,26 +1326,26 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 ))
 \gincltex@box=\box58
 )
-(d:/texlive/2017/texmf-dist/tex/latex/oberdiek/grffile.sty
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/grffile.sty
 Package: grffile 2016/05/16 v1.17 Extended file name support for graphics (HO)
 
-(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-(d:/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -1366,7 +1358,7 @@ Package grffile Info: Option `extendedchars' is set to `false'.
 Package grffile Info: Option `space' is set to `true'.
 Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
 )
-(d:/texlive/2017/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+(c:/texlive/2017/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen187
 \WF@size=\dimen188
 \c@WF@wrappedlines=\count188
@@ -1374,22 +1366,22 @@ Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
 \WF@everypar=\toks36
 Package: wrapfig 2003/01/31  v 3.6
 )
-(d:/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.sty
+(c:/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2016/12/05 v3.7 programmable bibliographies (PK/JW/AB)
 
-(d:/texlive/2017/texmf-dist/tex/latex/logreq/logreq.sty
+(c:/texlive/2017/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count189
 
-(d:/texlive/2017/texmf-dist/tex/latex/logreq/logreq.def
+(c:/texlive/2017/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(d:/texlive/2017/texmf-dist/tex/latex/url/url.sty
+(c:/texlive/2017/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip20
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(d:/texlive/2017/texmf-dist/tex/generic/xstring/xstring.sty
-(d:/texlive/2017/texmf-dist/tex/generic/xstring/xstring.tex
+(c:/texlive/2017/texmf-dist/tex/generic/xstring/xstring.sty
+(c:/texlive/2017/texmf-dist/tex/generic/xstring/xstring.tex
 \@xs@message=\write3
 \integerpart=\count190
 \decimalpart=\count191
@@ -1450,7 +1442,7 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(d:/texlive/2017/texmf-dist/tex/latex/biblatex/blx-dm.def)
+(c:/texlive/2017/texmf-dist/tex/latex/biblatex/blx-dm.def)
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'verbose.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -1530,13 +1522,13 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(d:/texlive/2017/texmf-dist/tex/latex/biblatex/blx-compat.def
+(c:/texlive/2017/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-(d:/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.def
+(c:/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
 \c@textcitecount=\count365
 \c@textcitetotal=\count366
@@ -1549,17 +1541,17 @@ File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'verbose'...
 Package biblatex Info: ... file 'verbose.bbx' found.
 
-(d:/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/verbose.bbx
+(c:/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/verbose.bbx
 File: verbose.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'authortitle'...
 Package biblatex Info: ... file 'authortitle.bbx' found.
 
-(d:/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/authortitle.bbx
+(c:/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/authortitle.bbx
 File: authortitle.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(d:/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+(c:/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
 \c@bbx:relatedcount=\count372
 \c@bbx:relatedtotal=\count373
@@ -1567,7 +1559,7 @@ File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load citation style 'verbose'...
 Package biblatex Info: ... file 'verbose.cbx' found.
 
-(d:/texlive/2017/texmf-dist/tex/latex/biblatex/cbx/verbose.cbx
+(c:/texlive/2017/texmf-dist/tex/latex/biblatex/cbx/verbose.cbx
 File: verbose.cbx 2016/12/05 v3.7 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -1580,16 +1572,16 @@ Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(d:/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.cfg
+(c:/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
-(d:/texlive/2017/texmf-dist/tex/latex/caption/subcaption.sty
+(c:/texlive/2017/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
 
-(d:/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+(c:/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-(d:/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+(c:/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen189
@@ -1607,14 +1599,14 @@ Package caption Info: wrapfig package is loaded.
 \c@subfigure=\count375
 \c@subtable=\count376
 )
-(d:/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
 
-(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -1643,26 +1635,26 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-(d:/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen196
 \Hy@linkcounter=\count377
 \Hy@pagecounter=\count378
 
-(d:/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count379
 
-(d:/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(c:/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4374.
 
-(d:/texlive/2017/texmf-dist/tex/latex/hyperref/puenc.def
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2017/03/14 v6.85a Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -1696,19 +1688,19 @@ LaTeX Info: Redefining \pageref on input line 6432.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(d:/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
 \Fld@listcount=\count385
 \c@bookmark@seq@number=\count386
 
-(d:/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip91
 )
-(d:/texlive/2017/texmf-dist/tex/latex/cleveref/cleveref.sty
+(c:/texlive/2017/texmf-dist/tex/latex/cleveref/cleveref.sty
 Package: cleveref 2013/12/28 v0.19 Intelligent cross-referencing
 Package cleveref Info: `hyperref' support loaded on input line 2230.
 LaTeX Info: Redefining \cref on input line 2230.
@@ -1722,16 +1714,16 @@ LaTeX Info: Redefining \Cpagerefrange on input line 2230.
 LaTeX Info: Redefining \labelcref on input line 2230.
 LaTeX Info: Redefining \labelcpageref on input line 2230.
 )
-(d:/texlive/2017/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(c:/texlive/2017/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2017/01/14 v0.5h Insert pages of external PDF documents (AM)
 
-(d:/texlive/2017/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(c:/texlive/2017/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 )
 \AM@pagewidth=\dimen256
 \AM@pageheight=\dimen257
 
-(d:/texlive/2017/texmf-dist/tex/latex/pdfpages/pppdftex.def
+(c:/texlive/2017/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2017/01/14 v0.5h Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box60
@@ -1740,22 +1732,14 @@ File: pppdftex.def 2017/01/14 v0.5h Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count387
 \AM@templatesizebox=\box61
 )
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (c:/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (c:/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-=======
-(d:/texlive/2017/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(d:/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(d:/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 \pgfutil@everybye=\toks39
 \pgfutil@tempdima=\dimen258
 \pgfutil@tempdimb=\dimen259
 
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
 ) (c:/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box62
@@ -1764,21 +1748,10 @@ File: pppdftex.def 2017/01/14 v0.5h Pdfpages driver for pdfTeX (AM)
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-=======
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
-) (d:/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box62
-
-(d:/texlive/2017/texmf-dist/tex/latex/ms/everyshi.sty
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
 (c:/texlive/2017/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
@@ -1789,18 +1762,6 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 \pgfkeys@temptoks=\toks41
 
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-=======
-(d:/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(d:/texlive/2017/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
-
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks40
-\pgfkeys@temptoks=\toks41
-
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 \pgfkeys@tmptoks=\toks42
 ))
 \pgf@x=\dimen260
@@ -1820,16 +1781,11 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 \t@pgf@toka=\toks43
 \t@pgf@tokb=\toks44
 \t@pgf@tokc=\toks45
-<<<<<<< HEAD
  (c:/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-=======
- (d:/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
@@ -1837,20 +1793,10 @@ File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-=======
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
-
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
-)))
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count392
 \pgfsyssoftpath@bigbuffer@items=\count393
 )
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 )) (c:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
@@ -1860,17 +1806,6 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-=======
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-)) (d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
-
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 \pgfmath@dimen=\dimen268
 \pgfmath@count=\count394
 \pgfmath@box=\box63
@@ -1878,7 +1813,6 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 \pgfmath@stack@operand=\toks47
 \pgfmath@stack@operation=\toks48
 )
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
 x)
@@ -1900,29 +1834,6 @@ etics.code.tex)))
 \c@pgfmathroundto@lastzeros=\count395
 ))
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-=======
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
-x)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
-.code.tex)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
-ex)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
-de.tex)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
-)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
-x)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
-)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
-etics.code.tex)))
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count395
-))
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen269
 \pgf@picmaxx=\dimen270
@@ -1939,58 +1850,37 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen281
 \pgf@zy=\dimen282
 )
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
-=======
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 e.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen283
 \pgf@path@lasty=\dimen284
 )
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
-=======
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 x
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen285
 \pgf@shorten@start@additional=\dimen286
 )
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-=======
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box64
 \pgf@hbox=\box65
 \pgf@layerbox@main=\box66
 \pgf@picture@serial@count=\count396
 )
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
-=======
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 .tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen287
 )
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
-=======
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 ode.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen288
 \pgf@pt@y=\dimen289
 \pgf@pt@temp=\dimen290
 )
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
@@ -2006,28 +1896,10 @@ File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen291
 )
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-=======
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
-de.tex
-File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen291
-)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen292
 \pgf@sys@shading@range@num=\count397
 )
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
@@ -2053,39 +1925,11 @@ File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
 (c:/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
-=======
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
-
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box67
-))
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
-)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
-.tex
-File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-)))
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box68
-)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
-)
-(d:/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 y
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen293
 \pgf@nodesepend=\dimen294
 )
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
 y
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
@@ -2098,36 +1942,15 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-=======
-(d:/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
-y
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-)) (d:/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(d:/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(d:/texlive/2017/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
-
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 \pgffor@iter=\dimen295
 \pgffor@skip=\dimen296
 \pgffor@stack=\toks49
 \pgffor@toks=\toks50
 ))
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
-=======
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
-
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 de.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count398
@@ -2148,11 +1971,7 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikznumberofcurrentchild=\count401
 \tikz@fig@count=\count402
 
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-=======
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count403
 \pgfmatrixcurrentcolumn=\count404
@@ -2160,7 +1979,6 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 )
 \tikz@expandcount=\count406
 
-<<<<<<< HEAD
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
@@ -2178,34 +1996,11 @@ brarybabel.code.tex
 File: tikzlibrarybabel.code.tex 2013/06/24 v3.0.1a (rcs-revision 1.1)
 )
 (c:/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-=======
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-braryangles.code.tex
-File: tikzlibraryangles.code.tex 2013/08/28 v3.0.1a (rcs-revision 1.1)
-)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-braryquotes.code.tex
-File: tikzlibraryquotes.code.tex 2014/03/21 v3.0.1a (rcs-revision 1.4)
-)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarybabel.code.tex
-File: tikzlibrarybabel.code.tex 2013/06/24 v3.0.1a (rcs-revision 1.1)
-)
-(d:/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 brary3d.code.tex
 File: tikzlibrary3d.code.tex 2013/07/17 v3.0.1a (rcs-revision 1.2)
 )
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 91.
-<<<<<<< HEAD
  (c:/texlive/2017/texmf-dist/tex/latex/lm/t1lmr.fd
-=======
- (d:/texlive/2017/texmf-dist/tex/latex/lm/t1lmr.fd
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package typearea Info: These are the values describing the layout:
@@ -2235,18 +2030,18 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
 
-(d:/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+(c:/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
 File: ngerman.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
 
-(d:/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+(c:/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 File: german.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 ))
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-(d:/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+(c:/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 )
 Package typearea Info: These are the values describing the layout:
@@ -2268,26 +2063,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              on input line 42.
 
 1: section
-(./protokollE5.aux
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 <
-      <<<<<< HEAD
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Label `sec:anhang' multiply defined.
-
-
-LaTeX Warning: Label `sec:anhang@cref' multiply defined.
-
-)
+(./protokollE5.aux)
 \openout1 = `protokollE5.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
@@ -2304,7 +2080,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 42.
- (d:/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
+ (c:/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 42.
@@ -2323,13 +2099,13 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-(d:/texlive/2017/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(c:/texlive/2017/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 Package csquotes Info: Redefining character " on input line 42.
 
-(d:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count407
 \scratchdimen=\dimen304
@@ -2342,14 +2118,10 @@ Package csquotes Info: Redefining character " on input line 42.
 \MPnumerator=\count411
 \makeMPintoPDFobject=\count412
 \everyMPtoPDFconversion=\toks52
-<<<<<<< HEAD
 ) (c:/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-=======
-) (d:/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(d:/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -2359,19 +2131,19 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(d:/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(c:/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-(d:/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-
+(c:/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-
 dictionary/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(d:/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-
+(c:/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-
 dictionary/translator-basic-dictionary-German.dict
 Dictionary: translator-basic-dictionary, Language: German 
 )
-(d:/texlive/2017/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+(c:/texlive/2017/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/05/19 v2.7g siunitx: Abbreviated units
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -2390,18 +2162,10 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box74
 Package hyperref Info: Link coloring OFF on input line 42.
-<<<<<<< HEAD
-<<<<<<< HEAD
- (c:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
-=======
-(d:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
-=======
 (c:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
->>>>>>> Hauke
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count413
@@ -2415,10 +2179,10 @@ LaTeX Info: Redefining \nameref on input line 42.
 \openout6 = `protokollE5.out'.
 
 
-(d:/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
-(d:/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
@@ -2427,24 +2191,24 @@ ABD: EveryShipout initializing macros
 \c__siunitx_mathsf_int=\count414
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 42.
 
-(d:/texlive/2017/texmf-dist/tex/latex/lm/ot1lmr.fd
+(c:/texlive/2017/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 42.
 
-(d:/texlive/2017/texmf-dist/tex/latex/lm/omllmm.fd
+(c:/texlive/2017/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 42.
 
 
-(d:/texlive/2017/texmf-dist/tex/latex/lm/omslmsy.fd
+(c:/texlive/2017/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMX+lmex on input line 42.
 
 
-(d:/texlive/2017/texmf-dist/tex/latex/lm/omxlmex.fd
+(c:/texlive/2017/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -2455,24 +2219,24 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 42.
 LaTeX Font Info:    Try loading font information for U+msa on input line 42.
 
-(d:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-(d:/texlive/2017/texmf-dist/tex/latex/microtype/mt-msa.cfg
+(c:/texlive/2017/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 42.
 
-(d:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(d:/texlive/2017/texmf-dist/tex/latex/microtype/mt-msb.cfg
+(c:/texlive/2017/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Try loading font information for OT1+lmss on input line 42.
 
 
-(d:/texlive/2017/texmf-dist/tex/latex/lm/ot1lmss.fd
+(c:/texlive/2017/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic settings for font family
@@ -2483,37 +2247,17 @@ Package microtype Info: Loading generic settings for font family
 LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 42.
 
 
-(d:/texlive/2017/texmf-dist/tex/latex/lm/ot1lmtt.fd
+(c:/texlive/2017/texmf-dist/tex/latex/lm/ot1lmtt.fd
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-<<<<<<< HEAD
-Overfull \hbox (40.4459pt too wide) in paragraph at lines 3--43
-\T1/lmr/m/n/12 (-20) HEAD ======= >>>>>>> 5ead6abc35948d8302e64f3f6e19b24a6d9a2
-7dd []                                                   
- []
-
-(./tex/04_Titelseite.tex)
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 54.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 54.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 54.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 54.
- [1
-
-{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+ (./tex/04_Titelseite.tex)
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 54.
- (c:/texlive/2017/texmf-dist/tex/latex/lm/t1lmss.fd
-=======
-(d:/texlive/2017/texmf-dist/tex/latex/lm/t1lmss.fd
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
+
+(c:/texlive/2017/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic settings for font family
@@ -2526,7 +2270,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 54.
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 54.
 
-(d:/texlive/2017/texmf-dist/tex/latex/lm/t1lmtt.fd
+(c:/texlive/2017/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic settings for font family
@@ -2541,47 +2285,13 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 54.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 54.
-<<<<<<< HEAD
-pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.54 }{}
-         [1]
-=======
  [1
 
-{d:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
+{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Package tocbasic Info: character protrusion at toc deactivated on input line 60
 .
  (./protokollE5.toc
 Package cleveref Info: loaded `ngerman' language definitions on input line 3.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...i-Absch\IeC {\"a}tzung.}{1}{subsection.2.1}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 ...Fermi-Absch\IeC {\"a}tzung.}{1}{section.3}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 )
 \tf@toc=\write7
 \openout7 = `protokollE5.toc'.
@@ -2596,110 +2306,79 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 60.
  [2
 
-] (./tex/10_Zusammenfassung.tex
+]
+(./tex/10_Zusammenfassung.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
-<<<<<<< HEAD
-) (./tex/18_Unsicherheit.tex)
-(./tex/11_Inhalt.tex
-=======
-) (./tex/18_Unsicherheit.tex) (./tex/11_Inhalt.tex) (./tex/12_Fermi.tex
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 7.
+
+(c:/texlive/2017/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)) (./tex/12_Fermi.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "~
-<<<<<<< HEAD
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
-=======
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 (babel)             in language  on input line 2.
+Package cleveref Info: loaded `ngerman' language definitions on input line 5.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 5.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 5.
 
-<<<<<<< HEAD
-=======
-
-LaTeX Warning: Reference `fig:aufbau' on page 1 undefined on input line 7.
-
-Package cleveref Info: loaded `ngerman' language definitions on input line 14.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 14.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 14.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 14.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 14.
 [1
 
 ]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 5.
+
+
+LaTeX Warning: Reference `fig:aufbau' on page 1 undefined on input line 7.
+
+
 Overfull \hbox (19.87769pt too wide) in paragraph at lines 39--45
 [][] 
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 45.
-<res/Wasser.jpg, id=95, 1775.63374pt x 2301.59875pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<res/Wasser.jpg, id=94, 1775.63374pt x 2301.59875pt>
 File: res/Wasser.jpg Graphic file (type jpg)
  <use res/Wasser.jpg>
 Package pdftex.def Info: res/Wasser.jpg used on input line 49.
 (pdftex.def)             Requested size: 224.06548pt x 290.40334pt.
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
-
-LaTeX Warning: Reference `fig:aufbau' on page 1 undefined on input line 7.
-
-<<<<<<< HEAD
-Package cleveref Info: loaded `ngerman' language definitions on input line 11.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 11.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 11.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 11.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 11.
-[1
-
-]
-Overfull \hbox (19.87769pt too wide) in paragraph at lines 37--38
-[][] 
- []
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 38.
-<<<<<<< HEAD
-<res/Wasser.jpg, id=128, 1775.63374pt x 2301.59875pt>
-=======
-<res/Wasser.jpg, id=102, 1775.63374pt x 2301.59875pt>
->>>>>>> Hauke
-File: res/Wasser.jpg Graphic file (type jpg)
- <use res/Wasser.jpg>
-Package pdftex.def Info: res/Wasser.jpg used on input line 42.
-(pdftex.def)             Requested size: 224.06548pt x 290.40334pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 46.
-=======
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 53.
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 ) (./tex/13_Kamm_Platte.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+ <res/Alupendel.png, id=98, 401.5pt x 371.3875pt>
+File: res/Alupendel.png Graphic file (type png)
+
+<use res/Alupendel.png>
+Package pdftex.def Info: res/Alupendel.png used on input line 10.
+(pdftex.def)             Requested size: 224.06548pt x 207.26721pt.
+) (./tex/14_Rohr.tex
 Package cleveref Info: loaded `ngerman' language definitions on input line 1.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
@@ -2710,110 +2389,44 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
  [2]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<res/Alupendel.png, id=143, 401.5pt x 371.3875pt>
-=======
-<res/Alupendel.png, id=108, 401.5pt x 371.3875pt>
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
-=======
-<res/Alupendel.png, id=117, 401.5pt x 371.3875pt>
->>>>>>> Hauke
-File: res/Alupendel.png Graphic file (type png)
- <use res/Alupendel.png>
-Package pdftex.def Info: res/Alupendel.png used on input line 9.
-(pdftex.def)             Requested size: 224.06548pt x 207.26721pt.
-)
-(./tex/14_Rohr.tex
-Package cleveref Info: loaded `ngerman' language definitions on input line 1.
-<<<<<<< HEAD
-=======
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
-<<<<<<< HEAD
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
-=======
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
- [3 <./res/Wasser.jpg>]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<res/Rohr.png, id=159, 301.125pt x 401.5pt>
-=======
-<res/Rohr.png, id=124, 301.125pt x 401.5pt>
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
-=======
-<res/Rohr.png, id=133, 301.125pt x 401.5pt>
->>>>>>> Hauke
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+<res/Rohr.png, id=119, 301.125pt x 401.5pt>
 File: res/Rohr.png Graphic file (type png)
  <use res/Rohr.png>
 Package pdftex.def Info: res/Rohr.png used on input line 7.
 (pdftex.def)             Requested size: 224.06548pt x 298.7656pt.
 )
 (./tex/15_Volumensuszebilität.tex
-<<<<<<< HEAD
-Package cleveref Info: loaded `ngerman' language definitions on input line 2.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 2.
- [4 <./res/Alupendel.png>]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 2.
-=======
 Package cleveref Info: loaded `ngerman' language definitions on input line 1.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "~
-<<<<<<< HEAD
-=======
 (babel)             in language  on input line 1.
- [4 <./res/Alupendel.png>]
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+ [3]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 (babel)             in language  on input line 2.
-
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 2.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-<<<<<<< HEAD
-(hyperref)                removing `\xi' on input line 2.
-=======
 (hyperref)                removing `\chi' on input line 2.
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -2828,16 +2441,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-Package cleveref Info: loaded `ngerman' language definitions on input line 4.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 4.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 4.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 4.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 4.
-[5 <./res/Rohr.png>]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 4.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2846,45 +2449,10 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 10.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 10.
-<<<<<<< HEAD
-<<<<<<< HEAD
-Package cleveref Info: loaded `ngerman' language definitions on input line 45.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 45.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 45.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 45.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 45.
- [6]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 83.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 83.
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 83.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\chi' on input line 83.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 83.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 83.
-
-) (./tex/17_Fazit.tex
-=======
-Package cleveref Info: loaded `ngerman' language definitions on input line 38.
-=======
 Package cleveref Info: loaded `ngerman' language definitions on input line 37.
->>>>>>> Hauke
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 37.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2892,239 +2460,140 @@ Package babel Info: Redefining ngerman shorthand "~
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 37.
 Package babel Info: Redefining ngerman shorthand "~
-<<<<<<< HEAD
-(babel)             in language  on input line 38.
- [6]) (./tex/17_Fazit.tex
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
-=======
 (babel)             in language  on input line 37.
- [6]
+[4]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 80.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 80.
 ) (./tex/17_Fazit.tex
->>>>>>> Hauke
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 2.
-)
-Package cleveref Info: loaded `ngerman' language definitions on input line 85.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 85.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 85.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 85.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 85.
- [7]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> Hauke
-Package cleveref Info: loaded `ngerman' language definitions on input line 85.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 85.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 85.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 85.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 85.
- [8]
-<<<<<<< HEAD
-=======
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
-=======
->>>>>>> Hauke
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 85.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 85.
- (./tex/20_Anhang.tex)
-Package cleveref Info: loaded `ngerman' language definitions on input line 91.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 91.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 91.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 91.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 91.
-<<<<<<< HEAD
- [9
-=======
 
-<<<<<<< HEAD
-[8
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
-=======
-[9
->>>>>>> Hauke
+
+LaTeX Warning: Reference `Kap:Vol' on page 1 undefined on input line 9.
+
+)
+Package cleveref Info: loaded `ngerman' language definitions on input line 74.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 74.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 74.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 74.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 74.
+ [5]
+Package cleveref Info: loaded `ngerman' language definitions on input line 83.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 83.
+ [6]
+Package cleveref Info: loaded `ngerman' language definitions on input line 83.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 83.
+ [7]
+Package cleveref Info: loaded `ngerman' language definitions on input line 83.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 83.
+ [8 <./res/Wasser.jpg> <./res/Alupendel.png>]
+Package cleveref Info: loaded `ngerman' language definitions on input line 83.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 83.
+ [9 <./res/Rohr.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 83.
+(./tex/20_Anhang.tex)
+Package cleveref Info: loaded `ngerman' language definitions on input line 89.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 89.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 89.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 89.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 89.
+ [10
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 91.
+LaTeX Warning: Empty bibliography on input line 89.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
 (./protokollE5.aux
 Package cleveref Info: loaded `ngerman' language definitions on input line 27.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
-<<<<<<< HEAD
-=======
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `protokollE5.out' has not changed.
-<<<<<<< HEAD
-(rerunfilecheck)             Checksum: B8FA8EC54CA7ABEC1E7B77626C73CF09;2473.
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
+(rerunfilecheck)             Checksum: F5E39E53AE1A5217A720A28E1E9F9A18;1929.
 
-
-Package rerunfilecheck Warning: File `protokollE5.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-=======
-(rerunfilecheck)             Checksum: 1DCC7CF60413BBAD44CA91D63FE74144;2485.
->>>>>>> Hauke
-
-Package rerunfilecheck Info: Checksums for `protokollE5.out':
-(rerunfilecheck)             Before: 2CB3F6644FC8652EE1AEB3BD32A09A6E;4546
-(rerunfilecheck)             After:  EAA0297A11BB773ACCF3046370B27492;3001.
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
 
 Package logreq Info: Writing requests to 'protokollE5.run.xml'.
 \openout1 = `protokollE5.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
-<<<<<<< HEAD
- 51004 strings out of 494187
- 1003619 string characters out of 6159430
- 1547785 words of memory out of 5000000
- 53439 multiletter control sequences out of 15000+600000
- 123669 words of font info for 153 fonts, out of 8000000 for 9000
+ 51007 strings out of 494187
+ 1003780 string characters out of 6159430
+ 1557067 words of memory out of 5000000
+ 53449 multiletter control sequences out of 15000+600000
+ 117135 words of font info for 149 fonts, out of 8000000 for 9000
  402 hyphenation exceptions out of 8191
- 68i,22n,106p,10403b,2149s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{table.caption.3} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.caption.2} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.6} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.5} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.4} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.3} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
-{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2017/t
-exmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dv
-ips/lm/lm-ec.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{
-c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2017/te
-xmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2017/texmf-dist/f
-onts/type1/public/lm/lmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/
-lm/lmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/
-texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2017/texmf
--dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/
-public/lm/lmmi6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi8.pfb
-><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2017/t
-exmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2017/texmf-dist/fonts/typ
-e1/public/lm/lmr17.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr6.p
-fb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2017/
-texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2017/texmf-dist/fonts/typ
-e1/public/lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
-x10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texliv
-e/2017/texmf-dist/fonts/type1/public/lm/lmtt12.pfb><c:/texlive/2017/texmf-dist/
-fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on protokollE5.pdf (12 pages, 1451650 bytes).
-PDF statistics:
- 290 PDF objects out of 1000 (max. 8388607)
- 247 compressed objects within 3 object streams
- 49 named destinations out of 1000 (max. 500000)
- 43172 words of extra memory for PDF output out of 51595 (max. 10000000)
-=======
- 50956 strings out of 492995
- 1002838 string characters out of 6136401
- 1550913 words of memory out of 5000000
- 53594 multiletter control sequences out of 15000+600000
- 116123 words of font info for 141 fonts, out of 8000000 for 9000
- 1145 hyphenation exceptions out of 8191
- 68i,21n,106p,10403b,2144s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{d:/texlive/2017
-/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{d:/texlive/2017/texmf-dist/fonts/enc/
-dvips/lm/lm-ec.enc}{d:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc
-}{d:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}<d:/texlive/2017/
-texmf-dist/fonts/type1/public/lm/lmbx10.pfb><d:/texlive/2017/texmf-dist/fonts/t
-ype1/public/lm/lmbx12.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/lm/lme
-x10.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><d:/texliv
-e/2017/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><d:/texlive/2017/texmf-dist/
-fonts/type1/public/lm/lmmi6.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/
-lm/lmmi8.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr10.pfb><d:/te
-xlive/2017/texmf-dist/fonts/type1/public/lm/lmr12.pfb><d:/texlive/2017/texmf-di
-st/fonts/type1/public/lm/lmr17.pfb><d:/texlive/2017/texmf-dist/fonts/type1/publ
-ic/lm/lmr6.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb><d:/t
-exlive/2017/texmf-dist/fonts/type1/public/lm/lmr8.pfb><d:/texlive/2017/texmf-di
-st/fonts/type1/public/lm/lmro12.pfb><d:/texlive/2017/texmf-dist/fonts/type1/pub
-lic/lm/lmssbx10.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pf
-b><d:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on protokollE5.pdf (10 pages, 1435940 bytes).
-PDF statistics:
- 238 PDF objects out of 1000 (max. 8388607)
- 199 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 38516 words of extra memory for PDF output out of 42996 (max. 10000000)
->>>>>>> d707f865a811c81a889b7bb71d7a13ecf23c54c7
-=======
- 50960 strings out of 494187
- 1002883 string characters out of 6159430
- 1548669 words of memory out of 5000000
- 53416 multiletter control sequences out of 15000+600000
- 116032 words of font info for 140 fonts, out of 8000000 for 9000
- 402 hyphenation exceptions out of 8191
- 68i,21n,106p,10403b,2138s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,21n,106p,10403b,2140s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2017
 /texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2017/texmf-dist/fonts/enc/
 dvips/lm/lm-mathsy.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
-}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}<c:/texlive/2017/
-texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/t
-ype1/public/lm/lmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lme
-x10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texliv
-e/2017/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2017/texmf-dist/
-fonts/type1/public/lm/lmmi6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/
-lm/lmmi8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/te
-xlive/2017/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2017/texmf-di
-st/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2017/texmf-dist/fonts/type1/publ
-ic/lm/lmr6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/t
-exlive/2017/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2017/texmf-di
-st/fonts/type1/public/lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/pub
-lic/lm/lmssbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pf
-b><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2017/
-texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on protokollE5.pdf (11 pages, 1440156 bytes).
+}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2017/
+texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<c:/texlive/2017/texmf-dist/fonts/type
+1/public/lm/lmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmbx12
+.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2
+017/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2017/texmf-dist/fon
+ts/type1/public/lm/lmmi12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm
+/lmmi6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texl
+ive/2017/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2017/texmf-dist
+/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public
+/lm/lmr17.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/te
+xlive/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2017/texmf-dis
+t/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public
+/lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><
+c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2017/te
+xmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type
+1/public/lm/lmtt12.pfb>
+Output written on protokollE5.pdf (12 pages, 1443925 bytes).
 PDF statistics:
- 258 PDF objects out of 1000 (max. 8388607)
- 216 compressed objects within 3 object streams
+ 260 PDF objects out of 1000 (max. 8388607)
+ 217 compressed objects within 3 object streams
  42 named destinations out of 1000 (max. 500000)
- 38532 words of extra memory for PDF output out of 42996 (max. 10000000)
->>>>>>> Hauke
+ 39036 words of extra memory for PDF output out of 42996 (max. 10000000)
 
