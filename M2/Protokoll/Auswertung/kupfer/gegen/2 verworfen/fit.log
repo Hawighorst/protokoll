@@ -1,0 +1,154 @@
+
+
+*******************************************************************************
+Sat Dec 02 15:44:28 2017
+
+
+FIT:    data read from 'TgegKupfer.txt' using 1:2
+        format = x:z
+        #datapoints = 2473
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 29.3311           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.43073
+
+initial set of free parameter values
+
+a               = 0.15
+b               = 0.01
+c               = 1
+d               = 1
+e               = 0.55
+
+After 24 iterations the fit converged.
+final sum of squares of residuals : 1.12222
+rel. change during last iteration : -7.48371e-006
+
+degrees of freedom    (FIT_NDF)                        : 2468
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0213239
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000454709
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0997614       +/- 0.001289     (1.292%)
+b               = 0.00528663       +/- 0.0004877    (9.224%)
+c               = 3.1857           +/- 0.0004867    (0.01528%)
+d               = 0.355226         +/- 0.013        (3.659%)
+e               = 0.542896         +/- 0.000429     (0.07902%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      d      e      
+a               1.000 
+b              -0.845  1.000 
+c               0.011 -0.066  1.000 
+d              -0.006  0.053 -0.848  1.000 
+e              -0.024  0.024  0.016 -0.012  1.000 
+
+
+*******************************************************************************
+Sat Dec 02 15:48:52 2017
+
+
+FIT:    data read from 'TgegKupfer2.txt' using 1:2
+        format = x:z
+        #datapoints = 2651
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 833.4             delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.47331
+
+initial set of free parameter values
+
+a               = 0.15
+b               = 0.01
+c               = 1
+d               = 1
+e               = 0.55
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.55308e-042
+abs. change during last iteration : -3.69603e-025
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 5.55864e-023   
+b               = 0.0102431      
+c               = 0.999996       
+d               = 1.00007        
+e               = -1.91521e-024  
+
+
+*******************************************************************************
+Sat Dec 02 15:49:11 2017
+
+
+FIT:    data read from 'TgegKupfer2.txt' using 1:2
+        format = x:z
+        #datapoints = 2651
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 28.7884           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.48634
+
+initial set of free parameter values
+
+a               = 0.15
+b               = 0.01
+c               = 1
+d               = 1
+e               = 0.55
+
+After 26 iterations the fit converged.
+final sum of squares of residuals : 0.551939
+rel. change during last iteration : -5.03948e-006
+
+degrees of freedom    (FIT_NDF)                        : 2646
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0144428
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000208594
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.101384         +/- 0.0008745    (0.8625%)
+b               = 0.00721936       +/- 0.0003121    (4.323%)
+c               = 3.18185          +/- 0.0003105    (0.00976%)
+d               = -0.465385        +/- 0.008536     (1.834%)
+e               = 0.541697         +/- 0.0002806    (0.0518%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      d      e      
+a               1.000 
+b               0.838  1.000 
+c              -0.013 -0.067  1.000 
+d               0.009  0.056 -0.837  1.000 
+e              -0.017 -0.017  0.021 -0.016  1.000 

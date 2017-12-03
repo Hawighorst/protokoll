@@ -1,0 +1,14 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Zusammenfassung}{1}{section.1}
+\contentsline {section}{\numberline {2}Methoden}{1}{section.2}
+\contentsline {section}{\numberline {3}Schwingung eines einzelnen Pendels}{2}{section.3}
+\contentsline {section}{\numberline {4}Grundschwingungen}{2}{section.4}
+\contentsline {subsection}{\numberline {4.1}Gleichsinnige Bewegung}{3}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Gegensinnige Bewegung}{5}{subsection.4.2}
+\contentsline {section}{\numberline {5}Kopplungsgrad}{7}{section.5}
+\contentsline {section}{\numberline {6}Doppelpendel}{7}{section.6}
+\contentsline {section}{\numberline {7}Schlussfolgerung}{7}{section.7}
+\contentsline {section}{\numberline {A}Anhang}{7}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{7}{subsection.A.1}

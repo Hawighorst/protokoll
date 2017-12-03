@@ -1,0 +1,10 @@
+set terminal pdf
+set grid
+set xlabel 'Zeit[s]'
+set ylabel 'Amplitude a.u'
+#set xrange [0:200]
+#set yrange [0:2]
+set samples 10000
+set output '/home/joern/Schreibtisch/Sciebo/3.Semester/Praktikum/Versuche/M2/Computer werte/Schwebung/Edelstahl/Schwebung3.pdf'
+plot '/home/joern/Schreibtisch/Sciebo/3.Semester/Praktikum/Versuche/M2/Computer werte/Schwebung/Edelstahl/schwebung3.txt' using 1:2 title 'Amplitude' with dots 
+

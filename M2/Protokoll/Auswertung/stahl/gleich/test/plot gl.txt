@@ -1,0 +1,21 @@
+set terminal pdf
+set grid
+set key outside c bottom 
+set xlabel 'Zeit[s]'
+set ylabel 'Ausschlag [m]'
+#set xrange [165:205]
+#set yrange [0:0.45]
+set samples 2000
+set output 'stahlglA.pdf'
+f(x)=a*sin(c*x+d)*exp(-b*x)+e
+a=0.6
+b=0.01  
+c=3
+e=0.6
+f=1.5
+fit f(x) 'TglStahlmod.txt' using 1:2 via a,b,c,d,e
+plot 'TglStahlmod.txt' using 1:2 with points pt 7 ps 0.2 lc rgb 'blue' title 'Ausschlag' , f(x) title 'Anpassung' lw 2 lc rgb 'red'
+
+
+#plot [4:30]  lc rgb 'blue' lw 2, 'dataUngedaempft.txt' using 1:2 title 'Amplitude' lc rgb 'red' with dots
+#with dots

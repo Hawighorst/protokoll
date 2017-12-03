@@ -1,0 +1,17 @@
+set terminal pdf
+set grid
+set xlabel 'Zeit[s]'
+set ylabel 'Abstand[m]'
+#set xrange [0:200]
+#set yrange [0:2]
+set samples 10000
+set output '/home/joern/ownCloud/3.Semester/Praktikum/Versuche/M2/Computer werte/Schwebung/Kupfer/schwebung1.pdf'
+f(x)=a*cos(1/2*(b-c)*x+f)*cos(1/2*(b+c)*x+g)*exp(-d*x)+e
+a=0.25
+b=0.5911
+c=0.40676
+d=0.001
+e=0.6
+set output '/home/joern/ownCloud/3.Semester/Praktikum/Versuche/M2/Computer werte/Schwebung/Edelstahl/Schwebung2A.pdf'
+fit  f(x) '/home/joern/ownCloud/3.Semester/Praktikum/Versuche/M2/Computer werte/Schwebung/Edelstahl/schwebung2.txt' using 1:2 via a,b,c,d,e,f,g 
+plot '/home/joern/ownCloud/3.Semester/Praktikum/Versuche/M2/Computer werte/Schwebung/Kupfer/schwebung1.txt' using 1:2 title 'Amplitude' with dots,f(x) title 'Anpassung'

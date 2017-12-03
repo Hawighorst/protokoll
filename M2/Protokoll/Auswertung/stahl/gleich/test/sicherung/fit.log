@@ -1,0 +1,406 @@
+
+
+*******************************************************************************
+Sat Dec 02 14:48:43 2017
+
+
+FIT:    data read from 'TglStahlmod.txt' using 1:2
+        format = x:z
+        #datapoints = 2073
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 53.6997           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.83125
+
+initial set of free parameter values
+
+a               = 0.18
+c               = 0.5
+d               = 1
+e               = 0.6
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 19.8116
+rel. change during last iteration : -8.23255e-006
+
+degrees of freedom    (FIT_NDF)                        : 2069
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0978542
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00957544
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.00492581      +/- 0.00308      (62.53%)
+c               = 0.517331         +/- 0.05024      (9.712%)
+d               = -0.0804391       +/- 1.372        (1706%)
+e               = 0.590013         +/- 0.002166     (0.3672%)
+
+
+correlation matrix of the fit parameters:
+
+               a      c      d      e      
+a               1.000 
+c               0.053  1.000 
+d              -0.049 -0.894  1.000 
+e              -0.015  0.005 -0.061  1.000 
+
+
+*******************************************************************************
+Sat Dec 02 14:50:02 2017
+
+
+FIT:    data read from 'TglStahlmod.txt' using 1:2
+        format = x:z
+        #datapoints = 2073
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 65.8511           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 2.00002
+
+initial set of free parameter values
+
+a               = 0.2
+c               = 2
+d               = 1
+e               = 0.6
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 19.6572
+rel. change during last iteration : -5.95304e-006
+
+degrees of freedom    (FIT_NDF)                        : 2069
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0974721
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00950081
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.013127        +/- 0.003039     (23.15%)
+c               = 2.02837          +/- 0.01912      (0.9428%)
+d               = 0.747034         +/- 0.5189       (69.47%)
+e               = 0.590081         +/- 0.002142     (0.363%)
+
+
+correlation matrix of the fit parameters:
+
+               a      c      d      e      
+a               1.000 
+c              -0.050  1.000 
+d               0.042 -0.896  1.000 
+e              -0.013  0.007 -0.019  1.000 
+
+
+*******************************************************************************
+Sat Dec 02 14:50:55 2017
+
+
+FIT:    data read from 'TglStahlmod.txt' using 1:2
+        format = x:z
+        #datapoints = 2073
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 406.675           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 5.74447
+
+initial set of free parameter values
+
+a               = 0.6
+c               = 2
+d               = 1
+e               = 0.6
+
+After 14 iterations the fit converged.
+final sum of squares of residuals : 19.6568
+rel. change during last iteration : -6.08452e-006
+
+degrees of freedom    (FIT_NDF)                        : 2069
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0974713
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00950065
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0131797       +/- 0.003038     (23.05%)
+c               = 2.03158          +/- 0.01908      (0.9389%)
+d               = 0.659157         +/- 0.5178       (78.56%)
+e               = 0.590085         +/- 0.002142     (0.363%)
+
+
+correlation matrix of the fit parameters:
+
+               a      c      d      e      
+a               1.000 
+c              -0.049  1.000 
+d               0.042 -0.897  1.000 
+e              -0.014  0.006 -0.018  1.000 
+
+
+*******************************************************************************
+Sat Dec 02 15:03:07 2017
+
+
+FIT:    data read from 'TglStahlmod.txt' using 1:2
+        format = x:z
+        #datapoints = 2073
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 202.328           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 4.70718
+
+initial set of free parameter values
+
+a               = 0.6
+c               = 3
+d               = 1
+e               = 0.6
+f               = 1.5
+g               = 1
+
+After 31 iterations the fit converged.
+final sum of squares of residuals : 19.7803
+rel. change during last iteration : -8.68427e-006
+
+degrees of freedom    (FIT_NDF)                        : 2067
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0978241
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00956955
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0103458        +/- 0.004311     (41.66%)
+c               = 3.01068          +/- 0.03442      (1.143%)
+d               = 2.06189          +/- 0.932        (45.2%)
+e               = 0.589984         +/- 0.00215      (0.3645%)
+f               = 1.42971          +/- 0.03469      (2.426%)
+g               = 2.97404          +/- 0.9408       (31.63%)
+
+
+correlation matrix of the fit parameters:
+
+               a      c      d      e      f      g      
+a               1.000 
+c               0.085  1.000 
+d              -0.076 -0.896  1.000 
+e               0.004 -0.003 -0.007  1.000 
+f               0.075  0.000  0.003 -0.010  1.000 
+g              -0.067  0.002 -0.004  0.024 -0.897  1.000 
+
+
+*******************************************************************************
+Sat Dec 02 15:04:03 2017
+
+
+FIT:    data read from 'TglStahlmod.txt' using 1:2
+        format = x:z
+        #datapoints = 2073
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Sat Dec 02 15:04:17 2017
+
+
+FIT:    data read from 'TglStahlmod.txt' using 1:2
+        format = x:z
+        #datapoints = 2073
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Sat Dec 02 15:04:30 2017
+
+
+FIT:    data read from 'TglStahlmod.txt' using 1:2
+        format = x:z
+        #datapoints = 2073
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 561.547           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 6.10795
+
+initial set of free parameter values
+
+a               = 0.6
+c               = 3
+d               = 1
+e               = 0.6
+f               = 1.5
+g               = 1
+h               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 19.8355
+rel. change during last iteration : -1.25409e-006
+
+degrees of freedom    (FIT_NDF)                        : 2066
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0979844
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00960094
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000697566      +/- 0.003069     (439.9%)
+c               = 2.99577          +/- 0.2971       (9.919%)
+d               = 1.13542          +/- 7.9          (695.7%)
+e               = 0.589943         +/- 0.002158     (0.3659%)
+f               = 1.49645          +/- 0.5132       (34.29%)
+g               = 1.07071          +/- 13.9         (1298%)
+h               = 0.998715         +/- 7.542        (755.1%)
+
+
+correlation matrix of the fit parameters:
+
+               a      c      d      e      f      g      h      
+a               1.000 
+c               0.065  1.000 
+d              -0.056 -0.893  1.000 
+e              -0.009  0.058 -0.054  1.000 
+f              -0.059  0.010 -0.009 -0.043  1.000 
+g               0.058 -0.008  0.008  0.035 -0.896  1.000 
+h              -0.561 -0.007  0.007 -0.010  0.068 -0.059  1.000 
+
+
+*******************************************************************************
+Sat Dec 02 15:05:31 2017
+
+
+FIT:    data read from 'TglStahlmod.txt' using 1:2
+        format = x:z
+        #datapoints = 2073
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          no parameter specified
+
+
+
+*******************************************************************************
+Sat Dec 02 15:05:48 2017
+
+
+FIT:    data read from 'TglStahlmod.txt' using 1:2
+        format = x:z
+        #datapoints = 2073
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          no parameter specified
+
+
+
+*******************************************************************************
+Sat Dec 02 15:06:15 2017
+
+
+FIT:    data read from 'TglStahlmod.txt' using 1:2
+        format = x:z
+        #datapoints = 2073
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          no parameter specified
+
+
+
+*******************************************************************************
+Sat Dec 02 15:06:32 2017
+
+
+FIT:    data read from 'TglStahlmod.txt' using 1:2
+        format = x:z
+        #datapoints = 2073
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 258.201           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 5.23815
+
+initial set of free parameter values
+
+a               = 0.6
+b               = 0.01
+c               = 3
+d               = 1
+e               = 0.6
+
+After 28 iterations the fit converged.
+final sum of squares of residuals : 0.119671
+rel. change during last iteration : -3.62814e-006
+
+degrees of freedom    (FIT_NDF)                        : 2068
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00760711
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.78681e-005
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.154695        +/- 0.0005724    (0.37%)
+b               = 0.00494969       +/- 0.0001435    (2.898%)
+c               = 2.55579          +/- 0.0001451    (0.005676%)
+d               = 3.64353          +/- 0.00371      (0.1018%)
+e               = 0.59067          +/- 0.0001672    (0.02831%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      d      e      
+a               1.000 
+b              -0.886  1.000 
+c               0.004 -0.044  1.000 
+d               0.001  0.035 -0.886  1.000 
+e              -0.037  0.039 -0.019  0.012  1.000 

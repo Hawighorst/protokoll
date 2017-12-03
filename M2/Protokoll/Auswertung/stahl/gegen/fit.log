@@ -1,0 +1,55 @@
+
+
+*******************************************************************************
+Sun Dec 03 20:28:34 2017
+
+
+FIT:    data read from 'TgegStahl.txt' using 1:2
+        format = x:z
+        #datapoints = 2701
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 212.36            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 4.73264
+
+initial set of free parameter values
+
+a               = 0.5
+b               = 0.01
+c               = 3
+d               = 1
+e               = 0.6
+
+After 28 iterations the fit converged.
+final sum of squares of residuals : 0.114121
+rel. change during last iteration : -5.35642e-006
+
+degrees of freedom    (FIT_NDF)                        : 2696
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00650612
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.23296e-005
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0527356       +/- 0.00039      (0.7395%)
+b               = 0.0079019        +/- 0.0002681    (3.393%)
+c               = 3.71409          +/- 0.0002692    (0.007248%)
+d               = 0.829914         +/- 0.007483     (0.9016%)
+e               = 0.58904          +/- 0.0001252    (0.02126%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      d      e      
+a               1.000 
+b              -0.832  1.000 
+c               0.030 -0.099  1.000 
+d              -0.024  0.081 -0.837  1.000 
+e              -0.016  0.018  0.013 -0.013  1.000 

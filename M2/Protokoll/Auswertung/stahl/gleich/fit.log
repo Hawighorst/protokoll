@@ -1,0 +1,170 @@
+
+
+*******************************************************************************
+Sat Dec 02 15:21:43 2017
+
+
+FIT:    data read from 'TglStahl.txt' using 1:2
+        format = x:z
+        #datapoints = 2247
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 298.11            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 5.03594
+
+initial set of free parameter values
+
+a               = 0.6
+b               = 0.01
+c               = 3
+d               = 1
+e               = 0.6
+
+After 30 iterations the fit converged.
+final sum of squares of residuals : 2.94029
+rel. change during last iteration : -1.65318e-006
+
+degrees of freedom    (FIT_NDF)                        : 2242
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.036214
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00131146
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.12632         +/- 0.0021       (1.662%)
+b               = -0.00177149      +/- 0.0006273    (35.41%)
+c               = 2.55753          +/- 0.0006423    (0.02511%)
+d               = 3.59422          +/- 0.01692      (0.4707%)
+e               = 0.586199         +/- 0.0007644    (0.1304%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      d      e      
+a               1.000 
+b              -0.870  1.000 
+c               0.007 -0.049  1.000 
+d              -0.005  0.041 -0.873  1.000 
+e               0.014 -0.004 -0.024  0.019  1.000 
+
+
+*******************************************************************************
+Sat Dec 02 15:25:23 2017
+
+
+FIT:    data read from 'TglStahl.txt' using 1:2
+        format = x:z
+        #datapoints = 2197
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 282.528           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 5.09212
+
+initial set of free parameter values
+
+a               = 0.6
+b               = 0.01
+c               = 3
+d               = 1
+e               = 0.6
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Sat Dec 02 15:25:38 2017
+
+
+FIT:    data read from 'TglStahl.txt' using 1:2
+        format = x:z
+        #datapoints = 2197
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 282.528           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 5.09212
+
+initial set of free parameter values
+
+a               = 0.6
+b               = 0.01
+c               = 3
+d               = 1
+e               = 0.6
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Sat Dec 02 15:26:33 2017
+
+
+FIT:    data read from 'TglStahl.txt' using 1:2
+        format = x:z
+        #datapoints = 2197
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 203.097           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 4.25298
+
+initial set of free parameter values
+
+a               = 0.5
+b               = 0.01
+c               = 3
+d               = 1
+e               = 0.6
+
+After 23 iterations the fit converged.
+final sum of squares of residuals : 0.127916
+rel. change during last iteration : -2.14367e-009
+
+degrees of freedom    (FIT_NDF)                        : 2192
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00763911
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.8356e-005
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.156343        +/- 0.0005083    (0.3251%)
+b               = 0.00530529       +/- 0.0001311    (2.47%)
+c               = 2.55567          +/- 0.0001322    (0.005174%)
+d               = 3.64701          +/- 0.00325      (0.08911%)
+e               = 0.590712         +/- 0.0001631    (0.02761%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      d      e      
+a               1.000 
+b              -0.860  1.000 
+c               0.002 -0.042  1.000 
+d               0.003  0.032 -0.860  1.000 
+e              -0.034  0.036 -0.019  0.012  1.000 

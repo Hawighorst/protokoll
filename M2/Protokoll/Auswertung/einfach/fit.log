@@ -1,0 +1,55 @@
+
+
+*******************************************************************************
+Sun Dec 03 20:40:06 2017
+
+
+FIT:    data read from 'einfache_Schwingung.txt' using 1:2
+        format = x:z
+        #datapoints = 1570
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 77.4468           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.09818
+
+initial set of free parameter values
+
+a               = 0.15
+b               = 0.01
+c               = 1
+d               = 1
+e               = 0.55
+
+After 37 iterations the fit converged.
+final sum of squares of residuals : 0.0153469
+rel. change during last iteration : -2.48675e-015
+
+degrees of freedom    (FIT_NDF)                        : 1565
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0031315
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.80631e-006
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.264874         +/- 0.0002243    (0.08468%)
+b               = 0.00177972       +/- 4.733e-005   (2.659%)
+c               = 2.52453          +/- 4.857e-005   (0.001924%)
+d               = 1.25363          +/- 0.0008653    (0.06902%)
+e               = 0.466706         +/- 7.91e-005    (0.01695%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      d      e      
+a               1.000 
+b               0.860  1.000 
+c              -0.022 -0.042  1.000 
+d               0.026  0.044 -0.864  1.000 
+e              -0.019 -0.023 -0.001  0.018  1.000 
