@@ -1,0 +1,276 @@
+
+
+*******************************************************************************
+Sun Dec 10 15:47:39 2017
+
+
+FIT:    data read from 'data hantel.txt' using 7:5
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.63126e+008      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.707112
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.32011e+006
+rel. change during last iteration : -3.18346e-010
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 663.353
+variance of residuals (reduced chisquare) = WSSR/ndf   : 440037
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.62174e+006     +/- 1.316e+005   (8.117%)
+b               = 1322.21          +/- 497.8        (37.65%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.803  1.000 
+
+
+*******************************************************************************
+Sun Dec 10 15:49:51 2017
+
+
+FIT:    data read from 'data hantel.txt' using 7:5
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.63126e+008      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.707112
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.32011e+006
+rel. change during last iteration : -3.18346e-010
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 663.353
+variance of residuals (reduced chisquare) = WSSR/ndf   : 440037
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.62174e+006     +/- 1.316e+005   (8.117%)
+b               = 1322.21          +/- 497.8        (37.65%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.803  1.000 
+
+
+*******************************************************************************
+Sun Dec 10 15:50:17 2017
+
+
+FIT:    data read from 'data hantel.txt' using 7:5
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.63126e+008      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.707112
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.32011e+006
+rel. change during last iteration : -3.18346e-010
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 663.353
+variance of residuals (reduced chisquare) = WSSR/ndf   : 440037
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.62174e+006     +/- 1.316e+005   (8.117%)
+b               = 1322.21          +/- 497.8        (37.65%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.803  1.000 
+
+
+*******************************************************************************
+Sun Dec 10 15:51:13 2017
+
+
+FIT:    data read from 'data hantel.txt' using 7:5
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.63126e+008      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.707112
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.32011e+006
+rel. change during last iteration : -3.18346e-010
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 663.353
+variance of residuals (reduced chisquare) = WSSR/ndf   : 440037
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.62174e+006     +/- 1.316e+005   (8.117%)
+b               = 1322.21          +/- 497.8        (37.65%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.803  1.000 
+
+
+*******************************************************************************
+Sun Dec 10 15:52:17 2017
+
+
+FIT:    data read from 'data hantel.txt' using 7:5
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.63126e+008      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.707112
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.32011e+006
+rel. change during last iteration : -3.18346e-010
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 663.353
+variance of residuals (reduced chisquare) = WSSR/ndf   : 440037
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.62174e+006     +/- 1.316e+005   (8.117%)
+b               = 1322.21          +/- 497.8        (37.65%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.803  1.000 
+
+
+*******************************************************************************
+Sun Dec 10 15:54:26 2017
+
+
+FIT:    data read from 'data hantel.txt' using 7:5
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.63126e+008      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.707112
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.32011e+006
+rel. change during last iteration : -3.18346e-010
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 663.353
+variance of residuals (reduced chisquare) = WSSR/ndf   : 440037
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.62174e+006     +/- 1.316e+005   (8.117%)
+b               = 1322.21          +/- 497.8        (37.65%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.803  1.000 

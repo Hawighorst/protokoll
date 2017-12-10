@@ -1,0 +1,26 @@
+set terminal pdf
+set grid
+set ylabel 'Quadrat der Periodendauer[s^2]'
+set xlabel 'Produkt aus Masse und Abstandsquadrat der aufgelegten Scheiben [kg m^2]'
+#set xrange [165:205]
+#set yrange [0:0.45]
+set key reverse top left
+set samples 400
+set output 'HantelD.pdf'
+f(x)=a*x+b
+#a=0.15
+#b=0.01
+#e=0.55
+fit f(x) 'data hantel.txt' using 7:5 via a,b
+plot  f(x) title 'Anpassung' lw 2 lc rgb 'red', 'data hantel.txt' using 7:5 lc rgb 'blue' title 'Periodendauerquadrat der Hantelkonfigurationen'
+
+#with xerrorbars
+
+
+
+
+#with points pt 7 ps 0.2  title 'Ausschlag' , 
+
+
+#plot [4:30]  lc rgb 'blue' lw 2, 'dataUngedaempft.txt' using 1:2 title 'Amplitude' lc rgb 'red' with dots
+#with dots
