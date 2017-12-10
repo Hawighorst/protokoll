@@ -1,0 +1,15 @@
+set terminal pdf
+set grid
+set xlabel 'Versuche'
+set ylabel 'Dicke[cm]'
+set xrange [0:16]
+set yrange [4.9:5]
+set samples 10000
+
+f(x)=a
+
+set output '/home/joern/Schreibtisch/Gitkraken/protokoll/M3/Protokoll/auswertung/Verbiegung/MessingHochkant/Dicke.pdf'
+
+fit f(x) '/home/joern/Schreibtisch/Gitkraken/protokoll/M3/Protokoll/auswertung/Verbiegung/MessingHochkant/Dicke.txt' using 1:2 via a
+
+plot '/home/joern/Schreibtisch/Gitkraken/protokoll/M3/Protokoll/auswertung/Verbiegung/MessingHochkant/Dicke.txt' using 1:2 title 'Dicke', f(x) title 'Anpassung' 

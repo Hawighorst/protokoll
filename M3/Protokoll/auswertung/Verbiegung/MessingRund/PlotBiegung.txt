@@ -1,0 +1,15 @@
+set terminal pdf
+set grid
+set xlabel 'Gewicht [g]'
+set ylabel 'Durchbiegung[cm]'
+set xrange [0:35]
+set yrange [0:1]
+set samples 10000
+
+f(x)=a*x
+
+set output '/home/joern/Schreibtisch/Gitkraken/protokoll/M3/Protokoll/auswertung/Verbiegung/MessingRund/Durchbiegung.pdf'
+
+fit f(x) '/home/joern/Schreibtisch/Gitkraken/protokoll/M3/Protokoll/auswertung/Verbiegung/MessingRund/Durchbiegung.txt' using 1:2 via a
+
+plot '/home/joern/Schreibtisch/Gitkraken/protokoll/M3/Protokoll/auswertung/Verbiegung/MessingRund/Durchbiegung.txt' using 1:2 title 'Biegung', f(x) 
