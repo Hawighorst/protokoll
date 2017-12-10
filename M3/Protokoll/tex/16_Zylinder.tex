@@ -1,22 +1,16 @@
+
 \section{Torsionsschwingung}
 
 
 \subsection{Methoden}
-
-\subsubsection*{Zylinder}
-
-
-
-
-\subsubsection*{Hantel}
-
-
-
+Das Experiment unterteilte sich in zwei Abschnitte, im ersten wurde die Schwingungsdauer eines Torsionspendels mit Zylinder um das Schubmodul $G$ des Drahtes zu bestimmen. Dies bildetet die Grundlage um anschließend die Trägheitsmomente der Hantel mit Gewichten in verschiedenen Abständen der Roationsachse zu bestimmen.
+Gemessen wurden daher alle für das Schubmodul relevanten Größen, d.h. die Schwingungsdauer die Abmessungen des Drahtes und der Gewichte sowie die Masse letzterer. Dies wurde sowohl für den Zylinder, die Hantel ohne Scheiben und mit aufgelegten Scheiben in fünf verschiedenen Abständen durchgeführt. Der Radius des Drahtes wurde an fünf stellen je dreimal gemessen.
 
 
 \subsection{Daten und Analyse}
 % Gemessen wurden die Werte win in Tabelle ?? dargestellt.
- 
+ Bei der Messung des Radius des Drahtes wurde in 13 von 15 Messungen der selbe Wert festgestellt, dies war zudem der Mittelwert. Daher ist davon auszugehen das der Draht eine im Vergleich zur Messgenauigkeit konstante Dicke aufweist. Die Unsicherheit ergab sich nach den Gleichungen \ref{sud}, \ref{eq:sunv} und \ref{eq:kombsu} aus der statistischen Unsicherheit und einer Ablesegenauigkeit von $\SI{\pm 2.5e-6}{m}$.
+ Alle weiteren Entfernungen wurden einmal gemessen, da sie nicht in vierter Potenz in das Schubmodul eingehen, hier wurden Dreiecksverteilungen mit $a=\SI{1}{mm}$ angenommen. Die auf den Gewichten gegebene Masse wurde als gegeben und exakt im Vergleich zu den anderen Messungenauigkeiten angenommen.  
  
  %Beschreibung unsicherheiten entstehung
  %Rhdaten T L??
@@ -31,25 +25,35 @@
  	\hline 
  Messgröße	& Messwert  \\ 
  	\hline 
- 	Länge des Drahtes $L$& \SI{1.8150\pm 0.0004 } {m} \\ 
+ 	Länge des Drahtes $L_D$& \SI{1.8150\pm 0.0004 } {m} \\ 
  	\hline 
  	Masse des Zylinders $m_z$& \SI{2.648}{kg} \\ 
  	\hline 
  	Radius des Zylinders $R_z$ & \SI{0.0735 \pm 0.0004}{m}  \\ 
  	\hline 
- 	Radius des Drahtes & \SI{2.50+-0.002 e-4} {m} \\ 
+ 	Radius des Drahtes $R_D$ & \SI{2.50+-0.002 e-4} {m} \\ 
  	\hline 
  	Gemittelte Schwingungsdauer $T$&\SI{97.74+-0.11}{s}  \\ 
  	\hline 
  \end{tabular} 
-
+	\label{tab:dataTZ}
 \end{table} 
 
-
+Mit den Messdaten aus Tabelle \ref{tab:dataTZ} und Gleichungen \ref{eq:schub} und \ref{eq:schubsu} folgt für das Schubmodul  des Drahtes $G+-\Delta G =\SI{8.74+-0.10e9}{kg \per \metre \second \squared}$.
 
 
 %beobachtung
 
+
+\begin{align}
+	G&= \frac{4 \pi L_D m_z R_z^2}{R_D^4 T_z^2}
+	\label{eq:schub}\\
+	\Delta G &= G \sqrt{
+		\left( \frac{\Delta L_D}{L_D} \right)^2+
+		\left(2 \frac{\Delta R_z}{R_z} \right)^2+
+		\left( 4 \frac{\Delta R_D}{R_D} \right)^2+
+		\left( 2 \frac{\Delta T_z}{T_z} \right)^2 } \label{eq:schubsu}
+\end{align}
 
 
 
