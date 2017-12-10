@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/W32TeX)  (format=lualatex 2017.10.1)  10 DEC 2017 20:47
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/W32TeX)  (format=lualatex 2017.10.1)  10 DEC 2017 22:26
  restricted system commands enabled.
 **protokollM3.tex
 (./protokollM3.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.229 seconds
+luaotfload | main : initialization completed in 0.205 seconds
 Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
 (c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2017/04/13 v3.23 KOMA-Script document class (article)
@@ -8030,35 +8030,30 @@ Overfull \hbox (13.7203pt too wide) in paragraph at lines 56--57
 /12 = [] []$ 
  []
 
-Package cleveref Info: loaded `ngerman' language definitions on input line 69.
+Package cleveref Info: loaded `ngerman' language definitions on input line 68.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 68.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 68.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 68.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 68.
 [3<./auswertung/hantel/HantelD.pdf>]
-Overfull \hbox (1.82608pt too wide) in paragraph at lines 76--77
-\TU/lmr/m/n/12 Glei-chung []2.4[] für das Träg-heits-mo-ment des Han-tel-sta-
-bes $\OML/cmm/m/it/12 J[] \OT1/cmr/m/n/12 = [] []$\TU/lmr/m/n/12 . 
- []
-
-Package cleveref Info: loaded `ngerman' language definitions on input line 112.
+Package cleveref Info: loaded `ngerman' language definitions on input line 117.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 112.
+(babel)             in language  on input line 117.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 112.
+(babel)             in language  on input line 117.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 112.
+(babel)             in language  on input line 117.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 112.
-[4]
+(babel)             in language  on input line 117.
+ [4]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 115.
+(babel)             in language  on input line 120.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 115.
+(babel)             in language  on input line 120.
 ) (./tex/19_Fazit.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
@@ -8079,7 +8074,8 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 86.
- (./tex/20_Anhang.tex
+
+(./tex/20_Anhang.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
@@ -8117,13 +8113,13 @@ Package logreq Info: Writing requests to 'protokollM3.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 50569 strings out of 494481
+ 50570 strings out of 494481
  100000,1977958 words of node,token memory allocated
  608 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 4 glue, 1 kern, 9 attribute, 75 glue_spec, 9 attrib
 ute_list, 1 write nodes
-   avail lists: 1:1,2:1276,3:116,4:58,5:214,6:2325,7:689,8:102,9:433,10:24,11:31
-4
+   avail lists: 1:1,2:1277,3:116,4:58,5:215,6:2326,7:690,8:102,9:518,10:24,11:31
+5
  52580 multiletter control sequences out of 65536+600000
  359 fonts using 23313107 bytes
  89i,25n,106p,8821b,2206s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -8144,10 +8140,10 @@ texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/201
 t/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy8.pfb>
-Output written on protokollM3.pdf (8 pages, 133973 bytes).
+Output written on protokollM3.pdf (8 pages, 135477 bytes).
 
-PDF statistics: 240 PDF objects out of 1000 (max. 8388607)
- 185 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 131072)
+PDF statistics: 241 PDF objects out of 1000 (max. 8388607)
+ 186 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 131072)
  80 words of extra memory for PDF output out of 10000 (max. 100000000)
 

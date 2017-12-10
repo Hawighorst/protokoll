@@ -57,7 +57,7 @@ Der Steinersche Satz sagt einen linearen Zusammenhang für \cref{fig:hantel} vor
 
 %D^* exacter 0.0000243432
 
-
+%D^* aus 30 ist 0.000266??
 
 %Fit daten
 %b               = 1.62174e+006     +/- 1.316e+005   (8.117%)
@@ -72,7 +72,7 @@ Der Steinersche Satz sagt einen linearen Zusammenhang für \cref{fig:hantel} vor
 
 
 
-Die Schwingungsdauer der Hantel ohne Scheiben $T_0$  betrug \SI{39,03 \pm 0.08}{s}. Es folgt mit Gleichung \ref{eq:hantelJ} für das Trägheitsmoment des Hantelstabes $J_1 = \SI{9.392 \pm 0.8 e-4}{\kilogram \metre \squared}$.
+Die Schwingungsdauer der Hantel ohne Scheiben $T_0$  betrug \SI{39,03 \pm 0.08}{s}. Es folgt mit Gleichung \ref{eq:hantelJ} für das Trägheitsmoment des Hantelstabes $J_1 = \SI{9.4 \pm 0.8 e-4}{\kilogram \metre \squared}$.
 
 
 
@@ -89,8 +89,11 @@ Die Schwingungsdauer der Hantel ohne Scheiben $T_0$  betrug \SI{39,03 \pm 0.08}{
 
 
 
-Aus dem Parameter $c$ und der Gleichung \ref{eq:hantelta} und $a=0$  folgt für das Trägheitsmoment der Hantelscheiben  
-
+Aus dem Parameter $c$ und der Gleichung \ref{eq:hantelta} und $a=0$  folgt für das Trägheitsmoment der Hantelscheiben mit Schwerpunkt auf der Rotationsachse:
+\begin{align}
+J_2=\frac{c D^*}{8 \pi ^2}-\frac{J_1}{2} \pm \sqrt{\left( \frac{c D^*}{8 \pi}\right) ^2\left( \left( \frac{\Delta c}{c}\right) ^2+  \left( \frac{\Delta D^*}{D^*}\right) ^2\right) + \left(\frac{J_1}{2}\right)^2 }
+\end{align}
+Es folgt $J_2=\SI{-7.485 \pm 42.9 e-5 }{\kilogram \metre \squared}$ da die Unsicherheit größer als der Wert ist, ist es nicht sinnvoll weitere Betrachtungen mit diesen Werten 
 
 
 
