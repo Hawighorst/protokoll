@@ -9,8 +9,8 @@ set samples 10000
 f(x)=a*x
 a=0.03
 
-set output '/home/joern/Schreibtisch/Gitkraken/protokoll/M3/Protokoll/auswertung/Verbiegung/AluRund/Durchbiegung.pdf'
+set output 'Durchbiegung.pdf'
 
-fit f(x) '/home/joern/Schreibtisch/Gitkraken/protokoll/M3/Protokoll/auswertung/Verbiegung/AluRund/Durchbiegung.txt' using 1:2 via a
+fit f(x) 'Durchbiegung.txt' using 1:2:3 via a
 
-plot '/home/joern/Schreibtisch/Gitkraken/protokoll/M3/Protokoll/auswertung/Verbiegung/AluRund/Durchbiegung.txt' using 1:2 title 'Biegung', f(x) 
+plot 'Durchbiegung.txt' using 1:2:3 title 'Biegung' with yerrorbar, f(x) 

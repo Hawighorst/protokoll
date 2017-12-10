@@ -8,8 +8,8 @@ set samples 10000
 
 f(x)=a
 
-set output '/home/joern/Schreibtisch/Gitkraken/protokoll/M3/Protokoll/auswertung/Verbiegung/MessingQuer/Dicke.pdf'
+set output 'Dicke.pdf'
 
-fit f(x) '/home/joern/Schreibtisch/Gitkraken/protokoll/M3/Protokoll/auswertung/Verbiegung/MessingQuer/Dicke.txt' using 1:2 via a
+fit f(x) 'Dicke.txt' using 1:2 via a
 
-plot '/home/joern/Schreibtisch/Gitkraken/protokoll/M3/Protokoll/auswertung/Verbiegung/MessingQuer/Dicke.txt' using 1:2 title 'Dicke', f(x) title 'Anpassung' 
+plot 'Dicke.txt' using 1:2 title 'Dicke', f(x) title 'Anpassung' 
