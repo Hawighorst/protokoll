@@ -16,9 +16,29 @@
 %\frac{2 \pi}{\omega^2} \cdot\Delta \omega  \label{eq:T}
 
 
-%Standardunsicherheit der Rechteckverteilung u für die Intervallbreite a:
-	%\begin{align}
-	%	u=\frac{a}{2\sqrt{3}}\label{eq:SR}
-	%\end{align} 
+Standardunsicherheit der Rechteckverteilung u für die Intervallbreite a:
+\begin{align}
+	u=\frac{a}{2\sqrt{3}}\label{eq:sur}
+	\end{align} 
+	
+	
+Standardunsicherheit der Dreieckverteilung u: \begin{align}
+	u=\frac{a}{2\sqrt{6}}\label{eq:sud}
+\end{align}
+
+Standardunsicherheit des Mittelwertes der Normalverteilung u für die Messwerte $x_i$ und den Mittelwert$\bar{x}$:
+\begin{align}
+	u(\bar{x})=  t_p  \sqrt{  \frac{\sum_{i=1}^{n}  (x_i-\bar{x})^2} {n (n-1)} }
+	\label{eq:sunv}       
+\end{align} 
+
+
+Kominierte Standartunsicherheit der Messgröße $g(x_i)$
+
+\begin{align}
+	u(g(x_i))=   \sqrt{  \sum_{i=1}^{n} \left( \frac{\partial g}{\partial x_i} u(x_i) \right)^2  }
+	\label{eq:kombsu}       
+\end{align} 
+
 
 
