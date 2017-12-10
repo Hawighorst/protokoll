@@ -5,7 +5,7 @@
 \contentsline {section}{\numberline {2}Torsionsschwingung}{1}{section.2}
 \contentsline {subsection}{\numberline {2.1}Methoden}{1}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Daten und Analyse}{1}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Diskussion}{2}{subsection.2.3}
-\contentsline {section}{\numberline {3}Schlussfolgerung}{2}{section.3}
-\contentsline {section}{\numberline {A}Anhang}{3}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{3}{subsection.A.1}
+\contentsline {subsection}{\numberline {2.3}Diskussion}{5}{subsection.2.3}
+\contentsline {section}{\numberline {3}Schlussfolgerung}{5}{section.3}
+\contentsline {section}{\numberline {A}Anhang}{6}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{6}{subsection.A.1}
