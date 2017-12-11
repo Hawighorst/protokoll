@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/W32TeX)  (format=lualatex 2017.10.1)  10 DEC 2017 22:26
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/W32TeX)  (format=lualatex 2017.10.1)  11 DEC 2017 08:58
  restricted system commands enabled.
 **protokollM3.tex
 (./protokollM3.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.205 seconds
+luaotfload | main : initialization completed in 0.222 seconds
 Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
 (c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2017/04/13 v3.23 KOMA-Script document class (article)
@@ -4002,7 +4002,7 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                in font encoding `TU' in protrusion list
 (microtype)                `LMR-default'.
 
-LaTeX Font Info:    Calculating math sizes for size <8.39996> on input line 56.
+LaTeX Font Info:    Calculating math sizes for size <8.39996> on input line 57.
 
 Package microtype Warning: Unknown slot number of character
 (microtype)                `† (= †)'
@@ -4173,15 +4173,15 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.19998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.19998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.19998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -4353,27 +4353,27 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.11594> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.93997> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.11594> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.93997> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.11594> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.93997> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -4545,27 +4545,27 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.05797> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.46999> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.05797> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.46999> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.05797> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.46999> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -4653,15 +4653,15 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.88113> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.88113> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.88113> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -4833,27 +4833,27 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.44057> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.02898> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.44057> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.02898> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.44057> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.02898> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -5025,27 +5025,27 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.72028> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.51448> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.72028> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.51448> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.72028> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.51448> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -5301,39 +5301,39 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.59998> not available
-(Font)              size <6> substituted on input line 56.
+(Font)              size <6> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.91995> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.79999> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.59998> not available
-(Font)              size <6> substituted on input line 56.
+(Font)              size <6> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.91995> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.79999> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.59998> not available
-(Font)              size <6> substituted on input line 56.
+(Font)              size <6> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.91995> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.79999> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -5505,27 +5505,27 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.74394> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.95998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.74394> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.95998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.74394> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.95998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -5697,27 +5697,27 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.37196> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.97998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.37196> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.97998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.37196> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.97998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -5805,15 +5805,15 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.92075> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.92075> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.92075> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -5985,27 +5985,27 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.96036> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.68597> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.96036> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.68597> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.96036> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.68597> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -6177,27 +6177,27 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.48018> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.34299> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.48018> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.34299> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.48018> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.34299> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -6285,15 +6285,15 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.09999> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.09999> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.09999> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -6381,15 +6381,15 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.73499> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.73499> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.73499> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -6561,27 +6561,27 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.36012> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.25723> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.36012> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.25723> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.36012> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.25723> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -6837,39 +6837,39 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.49998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.44997> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.74998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.49998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.44997> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.74998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.49998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.44997> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.74998> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -7041,27 +7041,27 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.71497> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.22498> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.71497> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.22498> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.71497> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.22498> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -7233,27 +7233,27 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.85747> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.61249> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.85747> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.61249> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.85747> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.61249> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -7425,27 +7425,27 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.20047> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.85748> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.20047> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.85748> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.20047> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.85748> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -7617,27 +7617,27 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.60023> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.42874> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.60023> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.42874> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.60023> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.42874> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -7809,27 +7809,27 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.60022> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.42873> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.60022> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.42873> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.60022> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.42873> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 Package microtype Warning: Unknown slot number of character
@@ -8001,59 +8001,63 @@ Package microtype Warning: Unknown slot number of character
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.3001> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.21436> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.3001> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.21436> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.3001> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.21436> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 57.
 
-
-Overfull \hbox (13.7203pt too wide) in paragraph at lines 56--57
-\TU/lmr/m/n/12 Stei-gung $\OML/cmm/m/it/12 b$ \TU/lmr/m/n/12 und Glei-chung []2
-.3[] folgt durch Ko-eff-zi-en-ten-ver-gleich $\OML/cmm/m/it/12 D[] \OT1/cmr/m/n
-/12 = [] []$ 
+Package cleveref Info: loaded `ngerman' language definitions on input line 58.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 58.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 58.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 58.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 58.
+[3<./auswertung/hantel/HantelD.pdf>]
+Overfull \hbox (13.58609pt too wide) in paragraph at lines 76--77
+\TU/lmr/m/n/12 Glei-chung []2.4[] für das Träg-heits-mo-ment des Han-tel-sta-
+bes $\OML/cmm/m/it/12 J[] \OT1/cmr/m/n/12 = [] []$\TU/lmr/m/n/12 . 
  []
 
-Package cleveref Info: loaded `ngerman' language definitions on input line 68.
+
+Overfull \hbox (6.6661pt too wide) in paragraph at lines 93--94
+\TU/lmr/m/n/12 der Han-tel-schei-ben mit Schwer-punkt auf der Ro-ta-ti-ons-ach-
+se $\OML/cmm/m/it/12 J[] \OT1/cmr/m/n/12 = [] []$\TU/lmr/m/n/12 . 
+ []
+
+Package cleveref Info: loaded `ngerman' language definitions on input line 118.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 68.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 68.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 68.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 68.
-[3<./auswertung/hantel/HantelD.pdf>]
-Package cleveref Info: loaded `ngerman' language definitions on input line 117.
+(babel)             in language  on input line 118.
+[4]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 121.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 117.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 117.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 117.
- [4]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 120.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 120.
+(babel)             in language  on input line 121.
 ) (./tex/19_Fazit.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
@@ -8074,8 +8078,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 86.
-
-(./tex/20_Anhang.tex
+ (./tex/20_Anhang.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
@@ -8118,7 +8121,7 @@ Here is how much of LuaTeX's memory you used:
  608 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 4 glue, 1 kern, 9 attribute, 75 glue_spec, 9 attrib
 ute_list, 1 write nodes
-   avail lists: 1:1,2:1277,3:116,4:58,5:215,6:2326,7:690,8:102,9:518,10:24,11:31
+   avail lists: 1:1,2:1269,3:116,4:58,5:215,6:2327,7:689,8:102,9:500,10:24,11:31
 5
  52580 multiletter control sequences out of 65536+600000
  359 fonts using 23313107 bytes
@@ -8140,7 +8143,7 @@ texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/201
 t/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy8.pfb>
-Output written on protokollM3.pdf (8 pages, 135477 bytes).
+Output written on protokollM3.pdf (8 pages, 135343 bytes).
 
 PDF statistics: 241 PDF objects out of 1000 (max. 8388607)
  186 compressed objects within 2 object streams
