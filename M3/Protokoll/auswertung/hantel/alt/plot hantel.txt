@@ -6,13 +6,13 @@ set xlabel 'Produkt aus Masse und Abstandsquadrat der aufgelegten Scheiben [kg m
 #set yrange [0:0.45]
 set key reverse top left
 set samples 400
-set output 'HantelF.pdf'
+set output 'HantelD.pdf'
 f(x)=a*x+b
 #a=0.15
 #b=0.01
 #e=0.55
-fit f(x) 'datahantelA.txt' using 3:1 via a,b
-plot  f(x) title 'Anpassung' lw 2 lc rgb 'red', 'datahantel.txt' using 3:1:4:2 with xyerrorbars lc rgb 'blue' title 'Periodendauerquadrat der Hantelkonfigurationen'
+fit f(x) 'data hantel.txt' using 7:5 via a,b
+plot  f(x) title 'Anpassung' lw 2 lc rgb 'red', 'data hantel.txt' using 7:5 lc rgb 'blue' title 'Periodendauerquadrat der Hantelkonfigurationen'
 
 #with xerrorbars
 
