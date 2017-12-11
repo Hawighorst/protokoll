@@ -9,7 +9,7 @@ Nach jeder Messung wurde wieder die Ruhelage des Stabes bestimmt damit bei auftr
 Bei den Stäben handelte es sich um drei Runde und einen Rechteckigen Stab. Die Materialien wurden anhand der Farbe und dem Gewicht zunächst geschätzt.
 Nach dieser Schätzung erhielt man einen Runden Aluminium-, einen Runden Stahl-, einen Runden Messing- und einen eckigen Messingstab . Der Rechteckige Stab wurde einmal Flachkant und einmal Hochkant eingespannt um den Einfluss der Form eines Stabes auf die Durchbiegung und das Elastizitätsmodul zu untersuchen.
 
-\subsection{Daten und Analyse}
+\subsection{Daten und Analyse und Diskussion}
 Bei  den 15 Messungen der Dicke der Stäbe wurden Schwankungen um ca. \SI{+-0,1}{mm} gemessen. Dies ist darauf zurückzuführen das die Mikrometerschraube von Hand festgezogen wurde und dem entsprechend nicht immer mit der Gleichen Kraft.
 Die genauen Messungen sind in dem Laborbuch zu finden. Die Unsicherheiten der Dicke ergab sich nach den Gleichungen \ref{eq:sud}, \ref{eq:sunv} und \ref{eq:kombsu} aus der statistischen Unsicherheit und einer Ablesegenauigkeit von $\SI{\pm 2.5e-6}{m}$.   
 Die Länge der Stäbe wurde mit einer Genauigkeit von \SI{+-1}{mm} womit sich dann auch nach Gleichung \ref{eq:sud} die Unsicherheit für die Länge ergibt. Diese Abschätzung wurde auch bei der Durchbiegung verwendet.
@@ -21,15 +21,8 @@ Betrachtet man den einfluss der form bzw. der Dicke auf die Elastizität so erke
 
 \subsection{Elastizitätsmodul}
 
-Zur bestimmung des Elastizitätsmoduls
-
-Zunächst wurde die Durchbiegung von vier verschiedenen Stäben gegen das angehängte Gewicht aufgetragen.
-Bei den Stäben handelte es sich um einen Runden Stahlstab, einen Runden Aluminiumstab, einen Runden Messingstab und um einen Rechteckigen Messingstab.
-Der Rechteckige Messingstab besitzt zwei unterschiedlich lange Kantenlängen. Dieser Messingstab wurde jeweils einmal so eingespannt, sodass jeweils eine der beiden Kanten nach oben zeigt.
-Diese Durchbiegung in Abhängigkeit vom Gewicht ist in den Abbildungen \ref{fig:durchbiegungalu} bis \ref{fig:durchbiegungStahl} zu sehen. 
-Mithilfe von den aus den Abbildungen entnommenen Steigungen wurde nach Gleichung \ref{eq:Elast} mithilfe von den Gleichungen \ref{eq:TrägKreis} und \ref{eq:TrägRecht} das Elastizitätsmodul $E$ berechnet.
-Somit ergab sich unter einsetzen der in Tabelle \ref{tab:Ela} zu sehenden Werte, die ebenfalls in der Tabelle zu sehenden Werte, für das Elastizitätsmodul. 
-Vergleicht man diese Werte für das Elastizitätsmodul mit Literaturwerten\footnote{Entnommen aus "Physik: für Wissenschaftler und Ingenieure" von Paul A. Tpler und Gene Mosca in der 7. Ausgabe von 2014.} Tabelle \ref{tab:ElaLit}
+Zur Bestimmung des Elastizitätsmoduls nach Gleichung \ref{tab:Ela} werden die Gleichungen \ref{eq:TrägKreis} bzw. \ref{eq:TrägRecht} und \ref{eq:Kraft} erhält man unter einsetzen der in Tabelle \ref{tab:Ela} zu sehenden Werte die ebenfalls in der Tabelle zu sehenden Werte für das Elastizitätsmodul.
+Vergleicht man diese Werte für das Elastizitätsmodul mit Literaturwerten\footnote{Entnommen aus "Physik: für Wissenschaftler und Ingenieure" von Paul A. Tipler und Gene Mosca in der 7. Ausgabe von 2014.} Tabelle \ref{tab:ElaLit} so erkennt man, dass es sich bei der Runden Messingstange vermutlich eher um Kupfer handelt und nicht um Messing. Korrigiert man diese Annahme so weichen die Werte für das Elastizitätsmodul um \SI{1}{\percent} bis \SI{7}{\percent} von den Literaturwerten ab. Betrachtet man dann noch die Unsicherheiten die nach Gleichung \ref{eq:UElastRund} bzw. \ref{eq:UElastEckig} berechnet wurde so erkennt man das Die Werte sehr dicht an den Literaturwerten liegen. Hinzu kommt noch das diese Werte ebenfalls Experimentell bestimmt wurden und von Quelle zu Quelle schwanken. Weitere Faktoren die Hinzukommen sind mögliche andere Legierungenen (Messing) sowie andere Herstellungsprozesse die Einfluss auf das Elastizitätsmodul haben. 
 
 \begin{table}[h]
 	\caption{Elastizitätsmodul E berechnet nach \ref{eq:Elast} mit allen dazu nötigen Werten}
@@ -37,15 +30,15 @@ Vergleicht man diese Werte für das Elastizitätsmodul mit Literaturwerten\footn
 		\hline
 		& a $\left[ \frac{m}{g} \right]$& b[m]& c[m] & d[m] & L[m] & E $\left[\frac{N}{m^2}  \right]$ \\
 		\hline
-		Aluminium Rund & 0,305 & & & 0,00297 & 0,298 & 74921967405\\
+		Aluminium Rund & \SI{0,305+-0,006}{} & & & \SI{29,7+-0,002e-4}{} & \SI{0,2980+-0,0004}{} & \SI{74921967405+-1440630542}{}\\
 		\hline
-		Messing Hochkant & 0,041 & 0,0020 & 0,0050 && 0,287 & 94293095026\\
+		Messing Hochkant & \SI{0,041+-0,001}{} & \SI{20,0+-0,002e-4}{} & \SI{50+-0,002e-4}{} && \SI{0,2870+-0,0004}{} & \SI{94293095026+-1798864288}{}\\
 		\hline
-		Messing Quer & 0,264 & 0,0050 & 0,0020 && 0,287 & 93133852625\\
+		Messing Flachkant & \SI{0,264+-0,007}{} & \SI{50+-0,002e-4}{} & \SI{20,0+-0,002e-4}{} && \SI{0,2870+-0,0004}{} & \SI{93133852625+-2484888809}{}\\
 		\hline
-		Messing Rund & 0,202 &&& 0,00296 & 0,295 & 111186381240\\
+		Messing Rund & \SI{0,202+-0,006}{} &&& \SI{29,6+-0,002e-4}{} & \SI{0,2950+-0,00045}{} & \SI{111186381240+-3401703572}{}\\
 		\hline
-		Stahl Rund & 0,114 &&& 0,00297 & 0,290 & 181538008224\\
+		Stahl Rund & \SI{0,114+-0,004}{} &&& \SI{29,7+-0,002e-4}{} & \SI{0,290+-0,0004}{} & \SI{181538008224+-7171822848}{}\\
 		\hline
 	\end{tabular}
 \label{tab:Ela}
@@ -83,3 +76,4 @@ Vergleicht man diese Werte für das Elastizitätsmodul mit Literaturwerten\footn
 	\end{tabular}
 \label{tab:ElaLit}
 \end{table}
+%Fitfunktion Unsicherheit der Fitfunktion Warum die von Gnuplot?
