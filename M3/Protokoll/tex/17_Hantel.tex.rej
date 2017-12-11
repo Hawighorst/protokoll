@@ -1,0 +1,11 @@
+diff a/M3/Protokoll/tex/17_Hantel.tex b/M3/Protokoll/tex/17_Hantel.tex	(rejected hunks)
+@@ -57,8 +57,7 @@
+ 
+ %D^* exacter 0.0000243432
+ 
+-
+-
++%D^* aus 30 ist 0.000266??
+ 
+ %Fit daten
+ %b               = 1.62174e+006     +/- 1.316e+005   (8.117%)

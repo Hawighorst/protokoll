@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.21)  11 DEC 2017 01:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.21)  11 DEC 2017 01:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,46 +6,6 @@ entering extended mode
 (./protokollM3.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
-=======
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/W32TeX)  (format=lualatex 2017.10.1)  10 DEC 2017 22:26
- restricted system commands enabled.
-**protokollM3.tex
-(./protokollM3.tex
-LaTeX2e <2017-04-15>
-Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
-Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
-llection.(using write cache: C:/Users/hauke/.texlive2017/texmf-var/luatex-cache/
-generic)(using read cache: C:/texlive/2017/texmf-var/luatex-cache/generic C:/Use
-rs/hauke/.texlive2017/texmf-var/luatex-cache/generic)
-luaotfload | conf : Root cache directory is C:/Users/hauke/.texlive2017/texmf-va
-r/luatex-cache/generic/names.
-luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
--resolved path “c:/texlive/2017/texmf-dist/tex/luatex/luaotfload/fontloader-20
-17-02-11.lua”.
-Lua-only attribute luaotfload@state = 1
-Lua-only attribute luaotfload@noligature = 2
-Lua-only attribute luaotfload@syllabe = 3
-luaotfload | init : Context OpenType loader version “3.027”
-Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua-only attribute luaotfload_color_attribute = 4
-luaotfload | conf : Root cache directory is C:/Users/hauke/.texlive2017/texmf-va
-r/luatex-cache/generic/names.
-Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
-font'.
-Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
-_font'.
-Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
-t_unsafe'.
-Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
-'.
-Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
-.
-luaotfload | main : initialization completed in 0.205 seconds
-Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
->>>>>>> 31bb7c6e8f5b9ec0e7273db87ed07e0602d0cb1f
 (c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2017/04/13 v3.23 KOMA-Script document class (article)
 (c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrkbase.sty
@@ -2220,43 +2179,19 @@ ei-chung []2.3[] folgt durch Ko-eff-zi-en-ten-ver-gleich $\OML/lmm/m/it/12 D[]
 \OT1/lmr/m/n/12 (-20) = [] []$ 
  []
 
-
-Overfull \hbox (1.79851pt too wide) in paragraph at lines 76--77
-\T1/lmr/m/n/12 (-20) Glei-chung []2.4[] f�r das Tr�g-heits-mo-ment des Han-tel-
-sta-bes $\OML/lmm/m/it/12 J[] \OT1/lmr/m/n/12 (-20) = [] []$\T1/lmr/m/n/12 (-20
-) . 
- []
-
-<<<<<<< HEAD
-Package cleveref Info: loaded `ngerman' language definitions on input line 84.
+Package cleveref Info: loaded `ngerman' language definitions on input line 83.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 83.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 83.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 83.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 83.
 [6 <./res/DurchbiegungStahl.pdf>]
-Package cleveref Info: loaded `ngerman' language definitions on input line 115.
+Package cleveref Info: loaded `ngerman' language definitions on input line 117.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 115.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 115.
-=======
-Package cleveref Info: loaded `ngerman' language definitions on input line 68.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 68.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 68.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 68.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 68.
-[3<./auswertung/hantel/HantelD.pdf>]
-Package cleveref Info: loaded `ngerman' language definitions on input line 117.
-Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 117.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 117.
@@ -2264,21 +2199,11 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 117.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 117.
- [4]
->>>>>>> 31bb7c6e8f5b9ec0e7273db87ed07e0602d0cb1f
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 120.
-Package babel Info: Redefining ngerman shorthand "~
-<<<<<<< HEAD
-(babel)             in language  on input line 115.
  [7]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 118.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 118.
-=======
 (babel)             in language  on input line 120.
->>>>>>> 31bb7c6e8f5b9ec0e7273db87ed07e0602d0cb1f
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 120.
 ) (./tex/19_Fazit.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
@@ -2298,14 +2223,8 @@ Package babel Info: Redefining ngerman shorthand "~
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 87.
 Package babel Info: Redefining ngerman shorthand "~
-<<<<<<< HEAD
 (babel)             in language  on input line 87.
  (./tex/20_Anhang.tex
-=======
-(babel)             in language  on input line 86.
-
-(./tex/20_Anhang.tex
->>>>>>> 31bb7c6e8f5b9ec0e7273db87ed07e0602d0cb1f
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2342,16 +2261,15 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
 Package rerunfilecheck Info: File `protokollM3.out' has not changed.
 (rerunfilecheck)             Checksum: D161F7E2F30BABB917ECCB99C489750C;1056.
 Package logreq Info: Writing requests to 'protokollM3.run.xml'.
-<<<<<<< HEAD
 \openout1 = `protokollM3.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41412 strings out of 492995
- 797162 string characters out of 6136401
+ 41417 strings out of 492995
+ 797214 string characters out of 6136401
  1363623 words of memory out of 5000000
  44303 multiletter control sequences out of 15000+600000
- 475876 words of font info for 444 fonts, out of 8000000 for 9000
+ 476054 words of font info for 446 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
  68i,25n,106p,10403b,2148s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2017/tex
@@ -2371,50 +2289,10 @@ xlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2017/texmf
 -dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/
 public/lm/lmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.pf
 b>
-Output written on protokollM3.pdf (12 pages, 487741 bytes).
+Output written on protokollM3.pdf (12 pages, 489425 bytes).
 PDF statistics:
- 340 PDF objects out of 1000 (max. 8388607)
- 253 compressed objects within 3 object streams
- 52 named destinations out of 1000 (max. 500000)
+ 341 PDF objects out of 1000 (max. 8388607)
+ 254 compressed objects within 3 object streams
+ 53 named destinations out of 1000 (max. 500000)
  111207 words of extra memory for PDF output out of 128383 (max. 10000000)
-=======
-
-\openout1 = protokollM3.run.xml
-)
-
-Here is how much of LuaTeX's memory you used:
- 50570 strings out of 494481
- 100000,1977958 words of node,token memory allocated
- 608 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 4 glue, 1 kern, 9 attribute, 75 glue_spec, 9 attrib
-ute_list, 1 write nodes
-   avail lists: 1:1,2:1277,3:116,4:58,5:215,6:2326,7:690,8:102,9:518,10:24,11:31
-5
- 52580 multiletter control sequences out of 65536+600000
- 359 fonts using 23313107 bytes
- 89i,25n,106p,8821b,2206s stack positions out of 5000i,500n,10000p,200000b,100000s
-<c:/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf><c:/te
-xlive/2017/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf><c:/texlive/
-2017/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2017/
-texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf><c:/texlive/2017/texmf-di
-st/fonts/opentype/public/lm/lmroman8-regular.otf><c:/texlive/2017/texmf-dist/fon
-ts/opentype/public/lm/lmromanslant12-regular.otf><c:/texlive/2017/texmf-dist/fon
-ts/opentype/public/lm/lmmono12-regular.otf><c:/texlive/2017/texmf-dist/fonts/ope
-ntype/public/lm/lmroman12-regular.otf><c:/texlive/2017/texmf-dist/fonts/opentype
-/public/lm/lmroman17-regular.otf><c:/texlive/2017/texmf-dist/fonts/opentype/publ
-ic/lm/lmsans10-bold.otf><c:/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmr
-oman12-bold.otf><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
-0.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/
-texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/201
-7/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2017/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy8.pfb>
-Output written on protokollM3.pdf (8 pages, 135477 bytes).
-
-PDF statistics: 241 PDF objects out of 1000 (max. 8388607)
- 186 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 131072)
- 80 words of extra memory for PDF output out of 10000 (max. 100000000)
->>>>>>> 31bb7c6e8f5b9ec0e7273db87ed07e0602d0cb1f
 
