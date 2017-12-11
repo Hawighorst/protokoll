@@ -43,25 +43,19 @@ Hier wurde die Schwingungsdauer einer Hantel mit aufgelegten Scheiben beobachtet
 	\label{tab:dataTH}
 \end{table} 
 
-
+Der Steinersche Satz sagt einen linearen Zusammenhang für \cref{fig:hantel} vorher, daher wurde eine Anpassung des Typs $T^2(2m_2 a^2)=b (2m a^2)+c$ gewählt, da der letzte Messpunkt deutlich Abseits einer gedachten Grade durch die anderen Messpunkte lag, wurde hier von einem groben Fehler ausgegangen und er wurde bei der Anpassung ausgelassen.
 
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.7\linewidth]{auswertung/hantel/HantelD}
-	\caption{Dargestellt werden die Messung mit Anpassung der Schwingungsdauern der Hantel mit aufgelegten Scheiben in verschiedenen Abständen zur Rotationsachse. Die Einheiten der Achsen sind so gewählt, dass die Messpunkte nach dem Steinerschen Satz linear sind. Die Fehler sind innerhalb der Symbolgröße.  }
+	\includegraphics[width=0.7\linewidth]{auswertung/hantel/HantelF}
+	\caption{Dargestellt werden die Messung mit Anpassung der Schwingungsdauern der Hantel mit aufgelegten Scheiben in verschiedenen Abständen zur Rotationsachse. Die Einheiten der Achsen sind so gewählt, dass die Messpunkte nach dem Steinerschen Satz linear sind.  }
 	\label{fig:hantel}
 \end{figure}
 
 Der Steinersche Satz sagt einen linearen Zusammenhang für \cref{fig:hantel} vorher, daher wurde eine Anpassung des Typs $T^2(2m_2 a^2)=b (2m a^2)+c$ gewählt, da der letzte Messpunkt deutlich Abseits einer gedachten Grade durch die anderen Messpunkte lag, wurde hier von einem groben Fehler ausgegangen und er wurde bei der Anpassung ausgelassen.
-Man erhält nach der Anpassung\footnote{Die Anpassung wurde durch "Gnuplot" mit dem Levenberg–Marquardt Algorithmus vorgenommen.  } die Werte: $ b               = \SI{1.38 \pm 0.03 e+006}{\second \squared \per \kilogram \per \metre \squared} $ und $c               = \SI{ 1679+-7 }   {\second \squared}$. Aus der Steigung $b$ und Gleichung \ref{eq:hantelta} folgt durch Koeffzientenvergleich $D^*=\SI{9.098+-0.017e-6}{\kilogram \metre \squared \per \second \squared }$
-
-%D^* exacter 0.0000243432
-
-%D^* aus 30 ist 0.000266??
-
-%Fit daten b              = 1.38112e+006     +/- 2609         (0.1889%)
-%c               = 1679.31          +/- 7.345       
+Man erhält nach der Anpassung\footnote{Die Anpassung wurde durch "Gnuplot" mit dem Levenberg–Marquardt Algorithmus vorgenommen.  } die Werte:
+ $ b               = \SI{1.5346 \pm 0.003 e+005}{\second \squared \per \kilogram \per \metre \squared} $ und $c               = \SI{186.587\pm 0.8 }   {\second \squared}$. Aus der Steigung $b$ und Gleichung \ref{eq:hantelta} folgt durch Koeffzientenvergleich $D^*=\SI{8.189+-0.015e-5}{\kilogram \metre \squared \per \second \squared }$
 
 
 %t_p
@@ -73,7 +67,7 @@ Man erhält nach der Anpassung\footnote{Die Anpassung wurde durch "Gnuplot" mit 
 
 
 
-Die Schwingungsdauer der Hantel ohne Scheiben $T_0$  betrug \SI{39,03 \pm 0.08}{s}. Es folgt mit Gleichung \ref{eq:hantelJ} für das Trägheitsmoment des Hantelstabes $J_1 = \SI{3.5109+-0.0016e-4}{\kilogram \metre \squared}$.
+Die Schwingungsdauer der Hantel ohne Scheiben $T_0$  betrug \SI{13.01 \pm 0.03}{s}. Es folgt mit Gleichung \ref{eq:hantelJ} für das Trägheitsmoment des Hantelstabes $J_1 = \SI{3.511+-0.011e-4}{\kilogram \metre \squared}$.
 
 
 
@@ -90,7 +84,7 @@ Die Schwingungsdauer der Hantel ohne Scheiben $T_0$  betrug \SI{39,03 \pm 0.08}{
 
 
 
-Aus dem Parameter $c$ und der Gleichung \ref{eq:hantelta} und $a=0$  folgt für das Trägheitsmoment der Hantelscheiben mit Schwerpunkt auf der Rotationsachse $J_2=\SI{1.80+-0.12e-5 }{\kilogram \metre \squared}$.
+Aus dem Parameter $c$ und der Gleichung \ref{eq:hantelta} und $a=0$  folgt für das Trägheitsmoment der Hantelscheiben mit Schwerpunkt auf der Rotationsachse $J_2=\SI{1.80+-0.5e-5 }{\kilogram \metre \squared}$.
 
 
 \begin{align}
@@ -102,10 +96,20 @@ J_2=\frac{c D^*}{8 \pi ^2}-\frac{J_1}{2} \pm \sqrt{\left( \frac{c D^*}{8 \pi}\ri
 
 %Tabbel Werte vgl Theorie exp....
 
-
-
-
-
+\begin{table}
+\caption{Vergleich der Experimentellen Trägheitsmomente mit den theoretisch berechneten}
+\begin{tabular}{|c|c|c|}
+	\hline 
+Objekt &Theoretischer Wert	& Experimenteller Wert  \\ 
+	\hline 
+Hantelstange &$\SI{1.324\pm 0.004 e-3}{}$	& $\SI{3.51\pm 0.17e-4}{}$ \\ 
+	\hline 
+Scheibe&  $\SI{5.76\pm 0.07e-5}{}$	&$\SI{1.8 \pm 0.5  e-05}{}$ \\ 
+	\hline 
+Hantel &$ \SI{1.440 \pm 0.004e-3}{}$	& $\SI{3.870 \pm 0.009e-4}{}$ \\ 
+	\hline 
+\end{tabular} 
+\end{table}
 
 
 
