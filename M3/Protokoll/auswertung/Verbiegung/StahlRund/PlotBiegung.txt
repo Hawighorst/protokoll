@@ -10,6 +10,6 @@ f(x)=a*x
 
 set output 'Durchbiegung.pdf'
 
-fit f(x) 'Durchbiegung.txt' using 1:2:3 via a
+fit f(x) 'Durchbiegung.txt' using 1:2:3 via a 
 
-plot 'Durchbiegung.txt' using 1:2:3 title 'Biegung' with yerrorbar, f(x) 
+plot 'Durchbiegung.txt' using 1:2:3 title 'Biegung' with yerrorbar, f(x) title 'Anpassung f(x)=a*x'

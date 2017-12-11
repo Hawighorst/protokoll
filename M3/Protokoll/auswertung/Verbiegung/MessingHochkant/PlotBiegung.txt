@@ -12,4 +12,4 @@ set output 'Durchbiegung.pdf'
 
 fit f(x) 'Verbiegung.txt' using 1:2:3 via a
 
-plot 'Verbiegung.txt' using 1:2:3 title 'Biegung' with yerrorbar, f(x) 
+plot 'Verbiegung.txt' using 1:2:3 title 'Biegung' with yerrorbar, f(x) title 'Anpassung f(x)=a*x'
