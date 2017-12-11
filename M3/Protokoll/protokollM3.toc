@@ -2,36 +2,14 @@
 \defcounter {refsection}{0}\relax 
 \select@language {ngerman}
 \contentsline {section}{\numberline {1}Zusammenfassung}{1}{section.1}
-<<<<<<< HEAD
 \contentsline {section}{\numberline {2}St\IeC {\"a}be}{1}{section.2}
 \contentsline {subsection}{\numberline {2.1}Methoden}{1}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Daten und Analyse und Diskussion}{1}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.2}Daten und Analyse und Diskussion}{2}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Elastizit\IeC {\"a}tsmodul}{2}{subsection.2.3}
-\contentsline {section}{\numberline {3}Torsionsschwingung}{3}{section.3}
-\contentsline {subsection}{\numberline {3.1}Methoden}{3}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Daten und Analyse}{3}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Diskussion}{9}{subsection.3.3}
-\contentsline {section}{\numberline {4}Schlussfolgerung}{9}{section.4}
-\contentsline {section}{\numberline {A}Anhang}{10}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{10}{subsection.A.1}
-=======
-<<<<<<< HEAD
-\contentsline {subsection}{\numberline {1.1}Stäbe}{1}{subsection.1.1}
-\contentsline {section}{\numberline {2}Torsionsschwingung}{7}{section.2}
-\contentsline {subsection}{\numberline {2.1}Methoden}{7}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Daten und Analyse}{7}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Diskussion}{10}{subsection.2.3}
-\contentsline {section}{\numberline {3}Schlussfolgerung}{11}{section.3}
-\contentsline {section}{\numberline {A}Anhang}{12}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{12}{subsection.A.1}
-=======
-\contentsline {subsection}{\numberline {1.1}St\IeC {\"a}be}{1}{subsection.1.1}
-\contentsline {section}{\numberline {2}Torsionsschwingung}{2}{section.2}
-\contentsline {subsection}{\numberline {2.1}Methoden}{2}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Daten und Analyse}{3}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Diskussion}{7}{subsection.2.3}
-\contentsline {section}{\numberline {3}Schlussfolgerung}{7}{section.3}
-\contentsline {section}{\numberline {A}Anhang}{8}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{8}{subsection.A.1}
->>>>>>> 0ca451c68b5b52fe32781abe016ca162189b079b
->>>>>>> b5369b0ecc0fec2808b61f256b1f056ee0ff9dad
+\contentsline {section}{\numberline {3}Torsionsschwingung}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Methoden}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Daten und Analyse}{6}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Diskussion}{10}{subsection.3.3}
+\contentsline {section}{\numberline {4}Schlussfolgerung}{10}{section.4}
+\contentsline {section}{\numberline {A}Anhang}{11}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{11}{subsection.A.1}
