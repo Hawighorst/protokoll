@@ -1,0 +1,17 @@
+set terminal pdf
+set grid
+set xlabel 'Gewicht [g]'
+set ylabel 'Durchbiegung[cm]'
+set xrange [0:160]
+set yrange [0:1]
+set samples 10000
+
+f(x)=a*x
+a(x) = b*x
+b(x)=c*x
+set output 'Eckig.pdf'
+
+fit f(x) 'Eckig.txt' using 1:2 via a
+fit a(x) 'Eckig.txt' using 1:3 via b
+
+plot 'Eckig.txt' using 1:2:4 title 'Messing Hochkant' with yerrorbar, 'Eckig.txt' using 1:3:4 title 'Messing Quer' with yerrorbar, f(x) title 'Anpassung Messing Hochkant', a(x) title 'Anpassung Messing Quer'
