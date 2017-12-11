@@ -2,7 +2,7 @@
 \defcounter {refsection}{0}\relax 
 \select@language {ngerman}
 \contentsline {section}{\numberline {1}Zusammenfassung}{1}{section.1}
-\contentsline {subsection}{\numberline {1.1}St\IeC {\"a}be}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.1}Stäbe}{1}{subsection.1.1}
 \contentsline {section}{\numberline {2}Torsionsschwingung}{2}{section.2}
 \contentsline {subsection}{\numberline {2.1}Methoden}{2}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Daten und Analyse}{3}{subsection.2.2}
