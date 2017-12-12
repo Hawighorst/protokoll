@@ -5,11 +5,7 @@
 \contentsline {section}{\numberline {2}Stäbe}{1}{section.2}
 \contentsline {subsection}{\numberline {2.1}Methoden}{1}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Daten und Analyse und Diskussion}{2}{subsection.2.2}
-<<<<<<< HEAD
 \contentsline {subsection}{\numberline {2.3}Elastizitätsmodul}{3}{subsection.2.3}
-=======
-\contentsline {subsection}{\numberline {2.3}Elastizit\IeC {\"a}tsmodul}{3}{subsection.2.3}
->>>>>>> 3a55c88da677aba14322d7ba36846b810e90b802
 \contentsline {section}{\numberline {3}Torsionspendel}{6}{section.3}
 \contentsline {subsection}{\numberline {3.1}Methoden}{6}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Daten und Analyse}{6}{subsection.3.2}
