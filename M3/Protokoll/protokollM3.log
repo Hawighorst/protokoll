@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is LuaTeX, Version 1.0.4 (TeX Live 2017/W32TeX)  (format=lualatex 2017.10.1)  12 DEC 2017 19:04
  restricted system commands enabled.
 **protokollM3.tex
@@ -36,6 +37,16 @@ Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
 luaotfload | main : initialization completed in 0.239 seconds
 Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.21)  12 DEC 2017 18:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./protokollM3.tex
+(./protokollM3.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+>>>>>>> 3a55c88da677aba14322d7ba36846b810e90b802
 (c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2017/04/13 v3.23 KOMA-Script document class (article)
 (c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrkbase.sty
@@ -2251,91 +2262,306 @@ Package microtype Warning: Unknown slot number of character
 (microtype)                `LMR-default'.
 
 
+<<<<<<< HEAD
 Package microtype Warning: Unknown slot number of character
 (microtype)                `÷ (= ÷)'
 (microtype)                in font encoding `TU' in protrusion list
 (microtype)                `LMR-default'.
+=======
+(c:/texlive/2017/texmf-dist/tex/latex/lm/ot1lmss.fd
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+\c__siunitx_mathtt_int=\count396
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 43.
+>>>>>>> 3a55c88da677aba14322d7ba36846b810e90b802
 
 
-Package microtype Warning: Unknown slot number of character
-(microtype)                `Γ (= Γ)'
-(microtype)                in font encoding `TU' in protrusion list
-(microtype)                `LMR-default'.
+(c:/texlive/2017/texmf-dist/tex/latex/lm/ot1lmtt.fd
+File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ (./tex/04_Titelseite.tex)
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 55.
+
+(c:/texlive/2017/texmf-dist/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 55.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 55.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 55.
+
+(c:/texlive/2017/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 55.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 55.
+ [1
+
+{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Package tocbasic Info: character protrusion at toc deactivated on input line 61
+.
+ (./protokollM3.toc
+Package cleveref Info: loaded `ngerman' language definitions on input line 3.
+)
+\tf@toc=\write6
+\openout6 = `protokollM3.toc'.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 61.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 61.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 61.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 61.
+ [2
+
+]
+(./tex/10_Zusammenfassung.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+) (./tex/15_Staebe.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+Package cleveref Info: loaded `ngerman' language definitions on input line 11.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 11.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 11.
+ [1
+
+]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 12.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 12.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 21.
+Package cleveref Info: loaded `ngerman' language definitions on input line 24.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 24.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 24.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 24.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 24.
+ [2]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 25.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 25.
+
+Overfull \hbox (48.3538pt too wide) in paragraph at lines 53--72
+[][]
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 75.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<res/Rund.pdf, id=124, 361.35pt x 216.81pt>
+File: res/Rund.pdf Graphic file (type pdf)
+ <use res/Rund.pdf>
+Package pdftex.def Info: res/Rund.pdf used on input line 95.
+(pdftex.def)             Requested size: 448.13095pt x 268.8813pt.
+Package cleveref Info: loaded `ngerman' language definitions on input line 98.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 98.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 98.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 98.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 98.
+ [3]
+<res/Eckig.pdf, id=148, 361.35pt x 216.81pt>
+File: res/Eckig.pdf Graphic file (type pdf)
+ <use res/Eckig.pdf>
+Package pdftex.def Info: res/Eckig.pdf used on input line 102.
+(pdftex.def)             Requested size: 448.13095pt x 268.8813pt.
 
 
-Package microtype Warning: Unknown slot number of character
-(microtype)                `Δ (= Δ)'
-(microtype)                in font encoding `TU' in protrusion list
-(microtype)                `LMR-default'.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./tex/16_Zylinder.tex
+Package cleveref Info: loaded `ngerman' language definitions on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+ [4 <./res/Rund.pdf>]
+Package cleveref Info: loaded `ngerman' language definitions on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+ [5 <./res/Eckig.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 5.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 10.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 10.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+Package cleveref Info: loaded `ngerman' language definitions on input line 43.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 43.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 43.
+[6
+
+]) (./tex/17_Hantel.tex
+Package cleveref Info: loaded `ngerman' language definitions on input line 47.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 47.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 47.
+ [7]
+<auswertung/hantel/HantelF.pdf, id=198, 361.35pt x 216.81pt>
+File: auswertung/hantel/HantelF.pdf Graphic file (type pdf)
+
+<use auswertung/hantel/HantelF.pdf>
+Package pdftex.def Info: auswertung/hantel/HantelF.pdf used on input line 51.
+(pdftex.def)             Requested size: 313.69029pt x 188.21625pt.
+LaTeX Font Info:    Calculating math sizes for size <8.39996> on input line 56.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8.39996> on input line 56.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5.87994> on input line 56.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <4.19998> on input line 56.
+Package cleveref Info: loaded `ngerman' language definitions on input line 85.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 85.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 85.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 85.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 85.
+ [8 <./auswertung/hantel/HantelF.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 114.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 114.
+Package cleveref Info: loaded `ngerman' language definitions on input line 122.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 122.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 122.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 122.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 122.
+
+[9]) (./tex/19_Fazit.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+)
+Package cleveref Info: loaded `ngerman' language definitions on input line 87.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 87.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 87.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 87.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 87.
+ [10]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 87.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 87.
+ (./tex/20_Anhang.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+Package cleveref Info: loaded `ngerman' language definitions on input line 53.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 53.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 53.
+ [11
+
+]
+
+LaTeX Warning: Reference `fig:durchbiegungRund' on page 12 undefined on input l
+ine 61.
 
 
-Package microtype Warning: Unknown slot number of character
-(microtype)                `Θ (= Θ)'
-(microtype)                in font encoding `TU' in protrusion list
-(microtype)                `LMR-default'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `Λ (= Λ)'
-(microtype)                in font encoding `TU' in protrusion list
-(microtype)                `LMR-default'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `Σ (= Σ)'
-(microtype)                in font encoding `TU' in protrusion list
-(microtype)                `LMR-default'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `Υ (= Υ)'
-(microtype)                in font encoding `TU' in protrusion list
-(microtype)                `LMR-default'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `Φ (= Φ)'
-(microtype)                in font encoding `TU' in protrusion list
-(microtype)                `LMR-default'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `Ψ (= Ψ)'
-(microtype)                in font encoding `TU' in protrusion list
-(microtype)                `LMR-default'.
-
-(load luc: C:/Users/hauke/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/
-lmroman6-regular.luc)
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `† (= †)'
-(microtype)                in font encoding `TU' in protrusion list
-(microtype)                `LMR-default'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `‡ (= ‡)'
-(microtype)                in font encoding `TU' in protrusion list
-(microtype)                `LMR-default'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `¬ (= ¬)'
-(microtype)                in font encoding `TU' in protrusion list
-(microtype)                `LMR-default'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `± (= ±)'
-(microtype)                in font encoding `TU' in protrusion list
-(microtype)                `LMR-default'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `× (= ×)'
-(microtype)                in font encoding `TU' in protrusion list
-(microtype)                `LMR-default'.
-
+<<<<<<< HEAD
 
 Package microtype Warning: Unknown slot number of character
 (microtype)                `÷ (= ÷)'
@@ -8198,6 +8424,10 @@ ne 61.
 
 LaTeX Warning: Reference `fig:durchbiegunEckig' on page 12 undefined on input li
 ne 61.
+=======
+LaTeX Warning: Reference `fig:durchbiegunEckig' on page 12 undefined on input l
+ine 61.
+>>>>>>> 3a55c88da677aba14322d7ba36846b810e90b802
 
 )
 Package cleveref Info: loaded `ngerman' language definitions on input line 95.
@@ -8228,6 +8458,7 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were undefined references.
 
 Package logreq Info: Writing requests to 'protokollM3.run.xml'.
+<<<<<<< HEAD
 
 \openout1 = protokollM3.run.xml
 )
@@ -8270,4 +8501,42 @@ PDF statistics: 372 PDF objects out of 1000 (max. 8388607)
  297 compressed objects within 3 object streams
  60 named destinations out of 1000 (max. 131072)
  112 words of extra memory for PDF output out of 10000 (max. 100000000)
+=======
+\openout1 = `protokollM3.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 41527 strings out of 492995
+ 798258 string characters out of 6136401
+ 1366115 words of memory out of 5000000
+ 44367 multiletter control sequences out of 15000+600000
+ 484746 words of font info for 471 fonts, out of 8000000 for 9000
+ 1145 hyphenation exceptions out of 8191
+ 68i,25n,106p,10403b,2148s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2017/tex
+mf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvip
+s/lm/lm-mathsy.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
+}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}<c:/texlive/2017/
+texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/t
+ype1/public/lm/lmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lme
+x10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texliv
+e/2017/texmf-dist/fonts/type1/public/lm/lmmi6.pfb><c:/texlive/2017/texmf-dist/f
+onts/type1/public/lm/lmmi8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/l
+m/lmr10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/tex
+live/2017/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2017/texmf-dis
+t/fonts/type1/public/lm/lmr5.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public
+/lm/lmr6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/tex
+live/2017/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2017/texmf-dist
+/fonts/type1/public/lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/publi
+c/lm/lmssbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+<c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy6.pfb><c:/texlive/2017/te
+xmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type
+1/public/lm/lmtt12.pfb>
+Output written on protokollM3.pdf (14 pages, 476106 bytes).
+PDF statistics:
+ 332 PDF objects out of 1000 (max. 8388607)
+ 283 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 115824 words of extra memory for PDF output out of 128383 (max. 10000000)
+>>>>>>> 3a55c88da677aba14322d7ba36846b810e90b802
 
