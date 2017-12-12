@@ -5,13 +5,8 @@
 \contentsline {section}{\numberline {2}St\IeC {\"a}be}{1}{section.2}
 \contentsline {subsection}{\numberline {2.1}Methoden}{1}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Daten und Analyse und Diskussion}{2}{subsection.2.2}
-<<<<<<< HEAD
 \contentsline {subsection}{\numberline {2.3}Elastizit\IeC {\"a}tsmodul}{3}{subsection.2.3}
-\contentsline {section}{\numberline {3}Torsionsschwingung}{6}{section.3}
-=======
-\contentsline {subsection}{\numberline {2.3}Elastizitätsmodul}{3}{subsection.2.3}
 \contentsline {section}{\numberline {3}Torsionspendel}{6}{section.3}
->>>>>>> 0727772ad3a5a1be2d5c43b9b63231a7a4e6916f
 \contentsline {subsection}{\numberline {3.1}Methoden}{6}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Daten und Analyse}{6}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}Diskussion}{9}{subsection.3.3}
