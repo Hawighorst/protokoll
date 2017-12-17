@@ -1,0 +1,1731 @@
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/W32TeX)  (format=lualatex 2017.10.1)  12 DEC 2017 20:57
+ restricted system commands enabled.
+**17_Hantel.tex
+(./17_Hantel.tex
+LaTeX2e <2017-04-15>
+Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
+Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
+llection.(using write cache: C:/Users/hauke/.texlive2017/texmf-var/luatex-cache/
+generic)(using read cache: C:/texlive/2017/texmf-var/luatex-cache/generic C:/Use
+rs/hauke/.texlive2017/texmf-var/luatex-cache/generic)
+luaotfload | conf : Root cache directory is C:/Users/hauke/.texlive2017/texmf-va
+r/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
+-resolved path “c:/texlive/2017/texmf-dist/tex/luatex/luaotfload/fontloader-20
+17-02-11.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.027”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is C:/Users/hauke/.texlive2017/texmf-va
+r/luatex-cache/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.216 seconds
+Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
+! Undefined control sequence.
+l.12 \subsubsection
+                 *{Torsionspendel mit Hantel}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \subsubsection*
+                  {Torsionspendel mit Hantel}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 13.
+luaotfload | db : Font names database loaded from C:/Users/hauke/.texlive2017/te
+xmf-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: C:/Users/hauke
+/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc)(lo
+ad luc: C:/Users/hauke/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmr
+oman10-bold.luc)
+! Undefined control sequence.
+<write> ...rning: Reference `tab:dataTH' on page \thepage 
+                                                  \space undefined\on@line .
+l.13 ...variiert wurde. Die Tabelle \ref{tab:dataTH}
+                                                   gibt hierbei die Abmessun...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `tab:dataTH' on page  undefined on input line 13.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 12--14
+[]*Torsionspendel
+ []
+
+
+Overfull \hbox (5.28589pt too wide) in paragraph at lines 12--14
+\OML/cmm/m/it/10 a$
+ []
+
+
+Overfull \hbox (10.85999pt too wide) in paragraph at lines 12--14
+[]
+ []
+
+
+! LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \begin{table}
+                [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \begin{table}[
+                 h]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 	\caption
+            {Messdaten des Torsionspendels mit Hantel und aufgelegten Scheib...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.24 		Länge des Drahtes $L_D$& \SI
+                                  {1.8150\pm 0.0004 } {m} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.26 		Masse der Achse $m_1$& \SI
+                               {0.21773}{kg} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 		Radius der Achse $R_1$ & \SI
+                                 {0.0599 \pm 0.0004}{m}  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.30 		Länge der Achse $H_1$ &	\SI
+                                 {0.27\pm 0.0004}	{\metre}	\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.30 ...er Achse $H_1$ &	\SI{0.27\pm 0.0004}	{\metre
+                                                  }	\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.32 		Radius des Drahtes $R_D$ & \SI
+                                   {2.50+-0.002 e-4} {m} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.34 		Masse der aufgelegten Scheibe $m_2$& \SI
+                                             {0.29728}{kg} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.36 		Radius der aufgelegten Scheibe $R_2$ & \SI
+                                               {0.0245 \pm 0.0004}{m}  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.38 		Höhe der aufgelegten Scheibe $H_2$ &\SI
+                                             {0.0204\pm0.00004 }{\metre}			\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.38 ...Scheibe $H_2$ &\SI{0.0204\pm0.00004 }{\metre
+                                                  }			\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 17--42
+ [][h] 
+ []
+
+
+Overfull \hbox (22.62448pt too wide) in paragraph at lines 17--42
+ [] 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \end{table}
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 D
+    er Steinersche Satz sagt einen linearen Zusammenhang für \cref{fig:hant...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.46 ... sagt einen linearen Zusammenhang für \cref
+                                                  {fig:hantel} vorher, daher...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 46--47
+[]Der
+ []
+
+
+Overfull \hbox (58.0904pt too wide) in paragraph at lines 46--47
+\OML/cmm/m/it/10 T[]\OT1/cmr/m/n/10 (2\OML/cmm/m/it/10 m[]a[]\OT1/cmr/m/n/10 ) 
+=
+ []
+
+
+Overfull \hbox (43.39943pt too wide) in paragraph at lines 46--47
+\OML/cmm/m/it/10 b\OT1/cmr/m/n/10 (2\OML/cmm/m/it/10 ma[]\OT1/cmr/m/n/10 ) +
+ []
+
+
+Overfull \hbox (4.32756pt too wide) in paragraph at lines 46--47
+\OML/cmm/m/it/10 c$
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \begin{figure}
+                 [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \begin{figure}[
+                  h]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.51 	\includegraphics
+                    [width=0.7\linewidth]{auswertung/hantel/HantelF}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+]
+l.51 	\includegraphics[width=0.7\linewidth]
+                                         {auswertung/hantel/HantelF}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+]
+l.51 	\includegraphics[width=0.7\linewidth]
+                                         {auswertung/hantel/HantelF}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 	\caption
+            {Dargestellt werden die Messung mit Anpassung der Schwingungsdau...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 \end{figure}
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 49--55
+[][h]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56  M
+     an erhält nach der Anpassung\footnote{Die Anpassung wurde durch "Gnupl...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(load luc: C:/Users/hauke/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/
+lmroman7-regular.luc)
+! Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.56 ...berg–Marquardt Algorithmus vorgenommen.  }
+                                                   die Werte: $ b           ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.56 ...berg–Marquardt Algorithmus vorgenommen.  }
+                                                   die Werte: $ b           ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (14.86pt too wide) in paragraph at lines 56--56
+[][]\TU/lmr/m/n/10 Die
+ []
+
+
+Overfull \hbox (16.39pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 An-
+ []
+
+
+Overfull \hbox (17.83pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 pas-
+ []
+
+
+Overfull \hbox (20.06pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 sung
+ []
+
+
+Overfull \hbox (26.7pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 wurde
+ []
+
+
+Overfull \hbox (24.76pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 durch
+ []
+
+
+Overfull \hbox (26.74pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 ”Gnu-
+ []
+
+
+Overfull \hbox (21.95pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 plot”
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 mit
+ []
+
+
+Overfull \hbox (18.33pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 dem
+ []
+
+
+Overfull \hbox (19.3pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 Lev-
+ []
+
+
+Overfull \hbox (13.33pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 en-
+ []
+
+
+Overfull \hbox (45.62pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 berg–Mar-
+ []
+
+
+Overfull \hbox (29.20999pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 quardt
+ []
+
+
+Overfull \hbox (13.61pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 Al-
+ []
+
+
+Overfull \hbox (13.33pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 go-
+ []
+
+
+Overfull \hbox (19.48pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 rith-
+ []
+
+
+Overfull \hbox (17.55pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 mus
+ []
+
+
+Overfull \hbox (45.58pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 vorgenom-
+ []
+
+
+Overfull \hbox (21.11pt too wide) in paragraph at lines 56--56
+\TU/lmr/m/n/10 men.| 
+ []
+
+! Undefined control sequence.
+l.56 ...ommen.  } die Werte: $ b               = \SI
+                                                  {1.62   \pm 0.13 e+006}{\s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...        = \SI{1.62   \pm 0.13 e+006}{\second
+                                                   \squared \per \kilogram \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ... \SI{1.62   \pm 0.13 e+006}{\second \squared
+                                                   \per \kilogram \per \metr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...1.62   \pm 0.13 e+006}{\second \squared \per
+                                                   \kilogram \per \metre \sq...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ... 0.13 e+006}{\second \squared \per \kilogram
+                                                   \per \metre \squared} $ u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ... e+006}{\second \squared \per \kilogram \per
+                                                   \metre \squared} $ und $c...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...{\second \squared \per \kilogram \per \metre
+                                                   \squared} $ und $c       ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...\squared \per \kilogram \per \metre \squared
+                                                  } $ und $c               =...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...metre \squared} $ und $c               = \SI
+                                                  { 1.3      +-0.5e3 }   {\s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...        = \SI{ 1.3      +-0.5e3 }   {\second
+                                                   \squared}$.  Aus der Stei...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ... \SI{ 1.3      +-0.5e3 }   {\second \squared
+                                                  }$.  Aus der Steigung $b$ ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<write> ...ning: Reference `eq:hantelta' on page \thepage 
+                                                  \space undefined\on@line .
+l.56 ...Steigung $b$ und Gleichung \ref{eq:hantelta}
+                                                   folgt durch Koeffizienten...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `eq:hantelta' on page  undefined on input line 56.
+
+! Undefined control sequence.
+l.56 ... folgt durch Koeffizientenvergleich $D^*=\SI
+                                                  {8.19+-0.02e-5}{\kilogram ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...nvergleich $D^*=\SI{8.19+-0.02e-5}{\kilogram
+                                                   \metre \squared \per \sec...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...ich $D^*=\SI{8.19+-0.02e-5}{\kilogram \metre
+                                                   \squared \per \second \sq...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...\SI{8.19+-0.02e-5}{\kilogram \metre \squared
+                                                   \per \second \squared }$....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ....19+-0.02e-5}{\kilogram \metre \squared \per
+                                                   \second \squared }$. Da j...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...2e-5}{\kilogram \metre \squared \per \second
+                                                   \squared }$. Da jedoch de...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...logram \metre \squared \per \second \squared
+                                                   }$. Da jedoch der letzte ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...n wir eine Unsicherheit von $\Delta D^*= \SI
+                                                  {\pm 2e-6}{\kilogram \metr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...eit von $\Delta D^*= \SI{\pm 2e-6}{\kilogram
+                                                   \metre \squared \per \sec...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ... $\Delta D^*= \SI{\pm 2e-6}{\kilogram \metre
+                                                   \squared \per \second \sq...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...D^*= \SI{\pm 2e-6}{\kilogram \metre \squared
+                                                   \per \second \squared }$ an.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...\SI{\pm 2e-6}{\kilogram \metre \squared \per
+                                                   \second \squared }$ an.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...2e-6}{\kilogram \metre \squared \per \second
+                                                   \squared }$ an.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...logram \metre \squared \per \second \squared
+                                                   }$ an.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 56--57
+[]Man
+ []
+
+
+Overfull \hbox (4.483pt too wide) in paragraph at lines 56--57
+Anpassung[]
+ []
+
+
+Overfull \hbox (14.84717pt too wide) in paragraph at lines 56--57
+\OML/cmm/m/it/10 b \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (79.65625pt too wide) in paragraph at lines 56--57
+[][]$
+ []
+
+
+Overfull \hbox (14.88307pt too wide) in paragraph at lines 56--57
+\OML/cmm/m/it/10 c \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (55.21185pt too wide) in paragraph at lines 56--57
+[][]$.
+ []
+
+
+Overfull \hbox (4.29166pt too wide) in paragraph at lines 56--57
+\OML/cmm/m/it/10 b$
+ []
+
+
+Overfull \hbox (10.85999pt too wide) in paragraph at lines 56--57
+[]
+ []
+
+
+Overfull \hbox (23.70969pt too wide) in paragraph at lines 56--57
+\OML/cmm/m/it/10 D[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (77.43402pt too wide) in paragraph at lines 56--57
+[][]$.
+ []
+
+
+Overfull \hbox (32.04305pt too wide) in paragraph at lines 56--57
+\OT1/cmr/m/n/10 \OML/cmm/m/it/10 D[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (34.65623pt too wide) in paragraph at lines 56--57
+[][]$
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 D
+    ie Schwingungsdauer der Hantel ohne Scheiben $T_0$  betrug \SI{13.01 \pm...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.65 ...r der Hantel ohne Scheiben $T_0$  betrug \SI
+                                                  {13.01 \pm 0.03}{s}. Es fo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<write> ...rning: Reference `eq:hantelJ' on page \thepage 
+                                                  \space undefined\on@line .
+l.65 ...{s}. Es folgt mit Gleichung \ref{eq:hantelJ}
+                                                   für das Trägheitsmoment...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `eq:hantelJ' on page  undefined on input line 65.
+
+! Undefined control sequence.
+l.65 ...Trägheitsmoment des Hantelstabes $J_1 = \SI
+                                                  {1.40+-0.04e-3}{\kilogram ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.65 ...elstabes $J_1 = \SI{1.40+-0.04e-3}{\kilogram
+                                                   \metre \squared}$.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.65 ...s $J_1 = \SI{1.40+-0.04e-3}{\kilogram \metre
+                                                   \squared}$.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.65 ...\SI{1.40+-0.04e-3}{\kilogram \metre \squared
+                                                  }$.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 65--66
+[]Die
+ []
+
+
+Overfull \hbox (10.32988pt too wide) in paragraph at lines 65--66
+\OML/cmm/m/it/10 T[]$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 65--66
+\OMS/cmsy/m/n/10 \nullfont 0.03s.
+ []
+
+
+Overfull \hbox (10.85999pt too wide) in paragraph at lines 65--66
+[]
+ []
+
+
+Overfull \hbox (20.58678pt too wide) in paragraph at lines 65--66
+\OML/cmm/m/it/10 J[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (77.43402pt too wide) in paragraph at lines 65--66
+[][]$. 
+ []
+
+
+! LaTeX Error: Environment align undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \begin{align}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 	J
+     =\frac{T^2 D^*}{4 \pi^2} \pm \frac{T^2 D^*}{4 \pi^2} \sqrt{
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.70 	J=\frac{T^2 D^*}{4 \pi^2}
+                              \pm \frac{T^2 D^*}{4 \pi^2} \sqrt{
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.70 	J=\frac{T^2 D^*}{4 \pi^2}
+                              \pm \frac{T^2 D^*}{4 \pi^2} \sqrt{
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.70 	J=\frac{T^2 D^*}{4 \pi^2}
+                              \pm \frac{T^2 D^*}{4 \pi^2} \sqrt{
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\frac #1#2->{\begingroup #1\endgroup \over #2}
+                                              
+l.70 	J=\frac{T^2 D^*}{4 \pi^2}
+                              \pm \frac{T^2 D^*}{4 \pi^2} \sqrt{
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 \end{align}
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.73 \end{align}
+              
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.73 \end{align}
+              
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (156.72917pt too wide) in paragraph at lines 70--74
+[]J=T$[][]\OML/cmm/m/it/10 D[]$$[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 A
+    us dem Parameter $c$ und der Gleichung \ref{eq:hantelta} und $a=0$  folg...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<write> ...ning: Reference `eq:hantelta' on page \thepage 
+                                                  \space undefined\on@line .
+l.78 ...eter $c$ und der Gleichung \ref{eq:hantelta}
+                                                   und $a=0$  folgt für das...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `eq:hantelta' on page  undefined on input line 78.
+
+! Undefined control sequence.
+<write> ...ning: Reference `eq:hantelJ2' on page \thepage 
+                                                  \space undefined\on@line .
+l.78 ...tationsachse die Gleichung \ref{eq:hantelJ2}
+                                                   und $J_2=\SI{5.1+-0.4e-5 ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `eq:hantelJ2' on page  undefined on input line 78.
+
+! Undefined control sequence.
+l.78 ...die Gleichung \ref{eq:hantelJ2} und $J_2=\SI
+                                                  {5.1+-0.4e-5 }{\kilogram \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.78 ...ntelJ2} und $J_2=\SI{5.1+-0.4e-5 }{\kilogram
+                                                   \metre \squared}$.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.78 ... und $J_2=\SI{5.1+-0.4e-5 }{\kilogram \metre
+                                                   \squared}$.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.78 ...=\SI{5.1+-0.4e-5 }{\kilogram \metre \squared
+                                                  }$.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 78--79
+[]Aus
+ []
+
+
+Overfull \hbox (4.32756pt too wide) in paragraph at lines 78--79
+\OML/cmm/m/it/10 c$
+ []
+
+
+Overfull \hbox (10.85999pt too wide) in paragraph at lines 78--79
+[]
+ []
+
+
+Overfull \hbox (15.8414pt too wide) in paragraph at lines 78--79
+\OML/cmm/m/it/10 a \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 78--79
+\OT1/cmr/m/n/10 0$
+ []
+
+
+Overfull \hbox (10.85999pt too wide) in paragraph at lines 78--79
+[]
+ []
+
+
+Overfull \hbox (20.58678pt too wide) in paragraph at lines 78--79
+\OML/cmm/m/it/10 J[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (67.43399pt too wide) in paragraph at lines 78--79
+[][]$. 
+ []
+
+
+! LaTeX Error: Environment align undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 \begin{align}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 		T
+      ^2&= \frac{4 \pi^2}{D^*}(J_1+2J_2+2m_2 a^2)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.82 		T^
+       2&= \frac{4 \pi^2}{D^*}(J_1+2J_2+2m_2 a^2)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.82 		T^2&
+         = \frac{4 \pi^2}{D^*}(J_1+2J_2+2m_2 a^2)
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.84 J_2&
+       =\frac{c D^*}{8 \pi ^2}-\frac{J_1}{2} \pm \sqrt{\left( \frac{c D^*}{8...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85 \end{align}
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.85 \end{align}
+              
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: Environment align undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \begin{align}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.87 	J_
+      {allg.}=\int r_{\perp}^2 \textrm{d}m
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 \end{align}
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.89 \end{align}
+              
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (35.04164pt too wide) in paragraph at lines 82--90
+[]T$[][] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (36.9144pt too wide) in paragraph at lines 82--90
+[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 J[] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (22.80908pt too wide) in paragraph at lines 82--90
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 J[] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (31.9272pt too wide) in paragraph at lines 82--90
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 m[]a[]\OT1/cmr/m/n/10 )[][] 
+ []
+
+
+Overfull \hbox (20.58678pt too wide) in paragraph at lines 82--90
+\OML/cmm/m/it/10 J[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (24.6859pt too wide) in paragraph at lines 82--90
+[] \OMS/cmsy/m/n/10  
+ []
+
+
+Overfull \hbox (18.50493pt too wide) in paragraph at lines 82--90
+[] \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (162.74902pt too wide) in paragraph at lines 82--90
+[][]$
+ []
+
+
+Overfull \hbox (27.05952pt too wide) in paragraph at lines 82--90
+J$[][] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (33.93503pt too wide) in paragraph at lines 82--90
+[] \OML/cmm/m/it/10 r[][]m[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 Z
+    um Vergleich wurden die theoretisch vorhergesagten Trägheitsmomente, au...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<write> ...rning: Reference `tab:dataTH' on page \thepage 
+                                                  \space undefined\on@line .
+l.91 ...ungen und Massen in Tabelle \ref{tab:dataTH}
+                                                  , nach Gleichung \ref{eq:J...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `tab:dataTH' on page  undefined on input line 91.
+
+! Undefined control sequence.
+<write> ...Warning: Reference `eq:Jallg' on page \thepage 
+                                                  \space undefined\on@line .
+l.91 ...f{tab:dataTH}, nach Gleichung \ref{eq:Jallg}
+                                                   bestimmt und in Tabelle \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `eq:Jallg' on page  undefined on input line 91.
+
+! Undefined control sequence.
+<write> ...Warning: Reference `tab:vglJ' on page \thepage 
+                                                  \space undefined\on@line .
+l.91 ...allg} bestimmt und in Tabelle \ref{tab:vglJ}
+                                                   mit den experimentell bes...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `tab:vglJ' on page  undefined on input line 91.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 91--92
+[]Zum
+ []
+
+
+Overfull \hbox (10.85999pt too wide) in paragraph at lines 91--92
+[],
+ []
+
+
+Overfull \hbox (10.85999pt too wide) in paragraph at lines 91--92
+[]
+ []
+
+
+Overfull \hbox (10.85999pt too wide) in paragraph at lines 91--92
+[]
+ []
+
+
+! LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 \begin{table}
+                [h!]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 \begin{table}[
+                 h!]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 	\caption
+            {Vergleich der experimentellen Trägheitsmomente mit den theoret...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<recently read> \SI 
+    
+l.99 		Hantelstange $J_1$ &$\SI
+                             {1.324\pm 0.004 e-3}{}$	& $\SI{1.40\pm 0.04e-3}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \SI 
+    
+l.99 ...ge $J_1$ &$\SI{1.324\pm 0.004 e-3}{}$	& $\SI
+                                                  {1.40\pm 0.04e-3}{}$ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \SI 
+    
+l.101 		Scheibe $J_2$&  $\SI
+                          {5.76\pm 0.07e-5}{}$	&$\SI{5.1 \pm 0.5  e-04}{}$ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \SI 
+    
+l.101 ...eibe $J_2$&  $\SI{5.76\pm 0.07e-5}{}$	&$\SI
+                                                  {5.1 \pm 0.5  e-04}{}$ \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105 \end{table}
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 93--106
+[][h!]
+ []
+
+
+Overfull \hbox (159.34373pt too wide) in paragraph at lines 93--106
+[]
+ []
+
+! Undefined control sequence.
+l.114 \subsection
+               {Diskussion}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114 \subsection{D
+                 iskussion}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 114--116
+[]Diskussion
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 I
+     m Vergleich mit den Literaturwerten erscheint eine Stahllegierung wahrs...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.118 ...ote{entnommen: Gerthsen Physik, Vogel 1977}
+                                                   $G=\SI{8.0 e10}{kg \per  ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.118 ...ote{entnommen: Gerthsen Physik, Vogel 1977}
+                                                   $G=\SI{8.0 e10}{kg \per  ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (16.94pt too wide) in paragraph at lines 118--118
+[][]\TU/lmr/m/n/10 ent-
+ []
+
+
+Overfull \hbox (22.22pt too wide) in paragraph at lines 118--118
+\TU/lmr/m/n/10 nom-
+ []
+
+
+Overfull \hbox (21.11pt too wide) in paragraph at lines 118--118
+\TU/lmr/m/n/10 men:
+ []
+
+
+Overfull \hbox (28.99pt too wide) in paragraph at lines 118--118
+\TU/lmr/m/n/10 Gerth-
+ []
+
+
+Overfull \hbox (13.94pt too wide) in paragraph at lines 118--118
+\TU/lmr/m/n/10 sen
+ []
+
+
+Overfull \hbox (32.15pt too wide) in paragraph at lines 118--118
+\TU/lmr/m/n/10 Physik,
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 118--118
+\TU/lmr/m/n/10 Vo-
+ []
+
+
+Overfull \hbox (12.22pt too wide) in paragraph at lines 118--118
+\TU/lmr/m/n/10 gel
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 118--118
+\TU/lmr/m/n/10 1977| 
+ []
+
+! Undefined control sequence.
+l.118 ...nommen: Gerthsen Physik, Vogel 1977} $G=\SI
+                                                  {8.0 e10}{kg \per  \second...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.118 ...Physik, Vogel 1977} $G=\SI{8.0 e10}{kg \per
+                                                    \second \squared \metre}$.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.118 ...ogel 1977} $G=\SI{8.0 e10}{kg \per  \second
+                                                   \squared \metre}$.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.118 ...} $G=\SI{8.0 e10}{kg \per  \second \squared
+                                                   \metre}$.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.118 ...I{8.0 e10}{kg \per  \second \squared \metre
+                                                  }$.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 118--119
+[]Im
+ []
+
+
+Overfull \hbox (4.483pt too wide) in paragraph at lines 118--119
+Schubmodul[]
+ []
+
+
+Overfull \hbox (18.418pt too wide) in paragraph at lines 118--119
+\OML/cmm/m/it/10 G \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (38.08342pt too wide) in paragraph at lines 118--119
+[][]$. 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.120 G
+     enauso wahrscheinlich sind jedoch auch andere Stahllegierungen, da die ...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 120--121
+[]Genauso
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 A
+     n den Werten in \cref{tab:vglJ} erkennt man, dass der theoretische Wert...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.122 An den Werten in \cref
+                          {tab:vglJ} erkennt man, dass der theoretische Wert...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 122--123
+[]An
+ []
+
+
+Overfull \hbox (11.07292pt too wide) in paragraph at lines 122--123
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 $\nullfont -Umgebung
+ []
+
+
+Overfull \hbox (5.28589pt too wide) in paragraph at lines 122--123
+\OML/cmm/m/it/10 a$
+ []
+
+
+Overfull \hbox (10.03127pt too wide) in paragraph at lines 122--123
+\OML/cmm/m/it/10 J[]$
+ []
+
+
+Overfull \hbox (13.15417pt too wide) in paragraph at lines 122--123
+\OML/cmm/m/it/10 D[]$\nullfont ,
+ []
+
+)
+! Emergency stop.
+<*> 17_Hantel.tex
+              
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 41 strings out of 494481
+ 100000,89155 words of node,token memory allocated 34198 words of node memory still in use:
+   379 hlist, 16 vlist, 82 rule, 2 ins, 14 disc, 17 local_par, 1 dir, 61 math, 9
+97 glue, 62 kern, 94 penalty, 3404 glyph, 1 page_insert, 256 attribute, 35 glue_
+spec, 256 attribute_list, 8 write nodes
+   avail lists: 2:2,3:44,4:44,5:7,7:134,8:34,10:43
+ 4274 multiletter control sequences out of 65536+600000
+ 27 fonts using 1130499 bytes
+ 23i,8n,16p,987b,115s stack positions out of 5000i,500n,10000p,200000b,100000s
+!  ==> Fatal error occurred, no output PDF file produced!
