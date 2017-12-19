@@ -3,16 +3,10 @@
 \select@language {ngerman}
 \contentsline {section}{\numberline {1}Zusammenfassung}{1}{section.1}
 \contentsline {section}{\numberline {2}Methoden}{1}{section.2}
-<<<<<<< HEAD
-\contentsline {section}{\numberline {3}Ballistisches Pendel}{2}{section.3}
-\contentsline {section}{\numberline {4}Rollende Kugel}{3}{section.4}
-\contentsline {section}{\numberline {5}Schlussfolgerung}{4}{section.5}
-\contentsline {section}{\numberline {A}Anhang}{6}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{6}{subsection.A.1}
-\contentsline {section}{\nonumberline Literatur}{7}{section*.10}
-=======
-\contentsline {section}{\numberline {3}Ballistisches Pendel}{1}{section.3}
-\contentsline {section}{\numberline {4}Schlussfolgerung}{4}{section.4}
-\contentsline {section}{\numberline {A}Anhang}{5}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{5}{subsection.A.1}
->>>>>>> c542f34647adcdd349f66f1c0d4c326d47bb894f
+\contentsline {section}{\numberline {3}Ballistisches Pendel}{3}{section.3}
+\contentsline {section}{\numberline {4}Rollende Kugel}{5}{section.4}
+\contentsline {section}{\numberline {5}Schlussfolgerung}{7}{section.5}
+\contentsline {section}{\numberline {A}Anhang}{8}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Verwendete Programme}{8}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Verwendete Gleichungen}{8}{subsection.A.2}
+\contentsline {section}{\nonumberline Literatur}{10}{section*.12}
