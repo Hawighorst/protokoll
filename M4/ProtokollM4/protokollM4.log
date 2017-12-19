@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  19 DEC 2017 15:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.21)  19 DEC 2017 15:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./protokollM4.tex
 (./protokollM4.tex
 LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 41 language(s) loaded.
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2017/04/13 v3.23 KOMA-Script document class (article)
 (c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrkbase.sty
@@ -2163,12 +2163,12 @@ Package logreq Info: Writing requests to 'protokollM4.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40580 strings out of 494187
- 778266 string characters out of 6159430
- 1357325 words of memory out of 5000000
- 43322 multiletter control sequences out of 15000+600000
+ 40580 strings out of 492995
+ 778266 string characters out of 6136401
+ 1360212 words of memory out of 5000000
+ 43502 multiletter control sequences out of 15000+600000
  98649 words of font info for 115 fonts, out of 8000000 for 9000
- 402 hyphenation exceptions out of 8191
+ 1145 hyphenation exceptions out of 8191
  68i,20n,106p,10403b,2127s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2017
 /texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2017/texmf-dist/fonts/
