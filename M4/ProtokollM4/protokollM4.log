@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  19 DEC 2017 18:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  19 DEC 2017 19:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2044,28 +2044,29 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 16.
 [1
 
-]) (./tex/12_Ballistisch.tex
+]
+Package cleveref Info: loaded `ngerman' language definitions on input line 24.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 24.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 24.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 24.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 24.
+ [2 <./res/FallrinneSkizze.png>]) (./tex/12_Ballistisch.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
-Package cleveref Info: loaded `ngerman' language definitions on input line 4.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 4.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 4.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 4.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 4.
- [2 <./res/FallrinneSkizze.png>]
-<res/GrosKlein.pdf, id=96, 361.35pt x 216.81pt>
+
+<res/GrosKlein.pdf, id=92, 361.35pt x 216.81pt>
 File: res/GrosKlein.pdf Graphic file (type pdf)
  <use res/GrosKlein.pdf>
 Package pdftex.def Info: res/GrosKlein.pdf used on input line 7.
 (pdftex.def)             Requested size: 358.50612pt x 215.10571pt.
 
-<res/KleinGros.pdf, id=97, 361.35pt x 216.81pt>
+<res/KleinGros.pdf, id=93, 361.35pt x 216.81pt>
 File: res/KleinGros.pdf Graphic file (type pdf)
  <use res/KleinGros.pdf>
 Package pdftex.def Info: res/KleinGros.pdf used on input line 13.
@@ -2074,10 +2075,21 @@ Package pdftex.def Info: res/KleinGros.pdf used on input line 13.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+Package cleveref Info: loaded `ngerman' language definitions on input line 20.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 20.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 20.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 20.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 20.
+[3 <./res/GrosKlein.pdf>]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 24.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 24.
+
 
 Package hyperref Warning: Ignoring empty anchor on input line 24.
 
@@ -2090,43 +2102,41 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 28.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 28.
-[3 <./res/GrosKlein.pdf>]
-Package cleveref Info: loaded `ngerman' language definitions on input line 33.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 33.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 33.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 33.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 33.
- [4 <./res/KleinGros.pdf>]) (./tex/13_Rinne.tex
+[4 <./res/KleinGros.pdf>]) (./tex/13_Rinne.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 
-<res/Rinne.pdf, id=148, 722.7pt x 433.62pt>
+<res/Rinne.pdf, id=147, 722.7pt x 433.62pt>
 File: res/Rinne.pdf Graphic file (type pdf)
  <use res/Rinne.pdf>
 Package pdftex.def Info: res/Rinne.pdf used on input line 7.
 (pdftex.def)             Requested size: 313.69029pt x 188.21295pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 8.
-Package cleveref Info: loaded `ngerman' language definitions on input line 34.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package cleveref Info: loaded `ngerman' language definitions on input line 36.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 34.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 34.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 34.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 34.
- [5 <./res/Rinne.pdf>]) (./tex/19_Fazit.tex
+(babel)             in language  on input line 36.
+[5]) (./tex/19_Fazit.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 3.
+
+
+LaTeX Warning: Reference `kap:roll' on page 1 undefined on input line 4.
+
 Package cleveref Info: loaded `ngerman' language definitions on input line 7.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 7.
@@ -2136,7 +2146,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 7.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 7.
- [6])
+[6 <./res/Rinne.pdf>])
 Package cleveref Info: loaded `ngerman' language definitions on input line 84.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 84.
@@ -2232,16 +2242,20 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
 Package rerunfilecheck Info: File `protokollM4.out' has not changed.
 (rerunfilecheck)             Checksum: 8544AF62BAF9D9C1483E6F03830683DA;1082.
+
+
+LaTeX Warning: There were undefined references.
+
 Package logreq Info: Writing requests to 'protokollM4.run.xml'.
 \openout1 = `protokollM4.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40864 strings out of 494187
- 783206 string characters out of 6159430
- 1356562 words of memory out of 5000000
- 43546 multiletter control sequences out of 15000+600000
- 117886 words of font info for 145 fonts, out of 8000000 for 9000
+ 40871 strings out of 494187
+ 783289 string characters out of 6159430
+ 1358562 words of memory out of 5000000
+ 43547 multiletter control sequences out of 15000+600000
+ 118155 words of font info for 148 fonts, out of 8000000 for 9000
  402 hyphenation exceptions out of 8191
  68i,20n,106p,10403b,2139s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2017/tex
@@ -2262,10 +2276,10 @@ ist/fonts/type1/public/lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/pu
 blic/lm/lmssbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.p
 fb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2017
 /texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on protokollM4.pdf (12 pages, 420221 bytes).
+Output written on protokollM4.pdf (12 pages, 421459 bytes).
 PDF statistics:
- 317 PDF objects out of 1000 (max. 8388607)
- 226 compressed objects within 3 object streams
+ 319 PDF objects out of 1000 (max. 8388607)
+ 230 compressed objects within 3 object streams
  45 named destinations out of 1000 (max. 500000)
  40029 words of extra memory for PDF output out of 42996 (max. 10000000)
 
