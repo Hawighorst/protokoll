@@ -1,11 +1,11 @@
 \section{Ballistisches Pendel}\label{kap:Bal}
-\subsection*{Beobachtung und Analyse}
-Beobachtet wurde, dass die große Kugel beim Aufprall der kleinen Kugel ausgelenkt wurde und umgekehrt. Außerdem bewegte sich nur die zweite Kugel nach dem Zusammenstoß weiter. Die Kugel die Ausgelenkt wurde, stand nach dem Zusammenprall still. Dies ließ darauf schließen das es sich bei dem Stoßprozess um einen vollkommen elastischen Stoß handelte.
+%\subsection*{Beobachtung und Analyse}
+Beobachtet wurde, dass die große Kugel beim Aufprall der kleinen Kugel ausgelenkt wurde und umgekehrt. Außerdem bewegte sich nahezu nur die zweite Kugel nach dem Zusammenstoß weiter. Die Kugel die ausgelenkt wurde, stand nach dem Zusammenprall still. Dies ließ darauf schließen, dass es sich bei dem Stoßprozess um einen nahezu vollkommen elastischen Stoß handelte, welcher im folgenden als solcher behandelt wird.
 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.8\textwidth]{res/GrosKlein.pdf}
-	\caption{Zu sehen ist die Auslenkung der kleinen Kugel in Abhängigkeit von der Auslenkung der großen Kugel.}
+	\caption{Auslenkung der kleinen Kugel in Abhängigkeit der Auslenkung der großen Kugel.}
 	\label{fig:grosklein}
 \end{figure}
 \begin{figure}[h]
@@ -16,14 +16,16 @@ Beobachtet wurde, dass die große Kugel beim Aufprall der kleinen Kugel ausgelen
 \end{figure}
 
 Die bei den fünf Messreihen erhaltenen Messwerte wurden jeweils gemittelt und sind in den Abbildungen \ref{fig:grosklein} und \ref{fig:kleingros} zu sehen. Die Fehlerbalken ergeben sich aus den Gleichungen \ref{eq:sud}, \ref{eq:sunv} und \ref{eq:kombsu} wobei von einer Messungenauigkeit von \SI{+-3}{mm} ausgegangen wurde.
-Man erkennt das die Messwerte linear ansteigen. Da dies mit der Theorie übereinstimmt (Die Auslenkung nach dem Stoß ist durch
+Die theoretische Auslenkung nach dem Stoß ist durch
 \begin{align}
 	a_2= \frac{2m_1}{m_1+m_2} a_1\label{eq:Auslenkung}
 \end{align} 
-gegeben wobei $m_1$ die Masse der ausgelenkten Kugel ist und $a_1$ die Auslenkung von $m_1$.)
-wurden die Messwerte mit der Linearen Anpassung\footnotetext{Die Anpassung wurde durch „Gnuplot“ mit dem Levenberg–Marquardt Algorithmus vorgenommen.} $a_2=b*a_1$ angepasst und die Unsicherheit der Anpassung wurde aus Gnuplot übernommen.
-Um die Ergebnisse zu überprüfen wurde die Steigung $b$ aus den Massen der Kugeln bestimmt. Die Unsicherheit der Masse, ist durch die Anzeigeungenauigkeit der Digitalen Waage, die auf zwei Nachkommastellen genau anzeigt, gegeben. Und somit folgt mit den Gleichungen \ref{eq:sur} und \ref{eq:kombsu} die für die den Massen berechnete Steigung Unsicherheit. Der Vergleich der Werte ist in Tabelle \ref{tab:steigung} zu sehen.
-Man erkennt, dass die Werte zwar voneinander Abweichen jedoch nur um ca. $3\%$ (Groß gegen Klein) bzw. um ca. $2\%$ (Klein gegen Groß). Dies ist darauf zurückzuführen, dass es sich bei dem untersuchten Stoß nicht um einen perfekten elastischen Stoß handelte bzw. das die Pendel nicht immer tatsächlich vollkommen ruhig hingen.
+
+gegeben, wobei $m_1$ die Masse der ausgelenkten Kugel ist und $a_1$ die Auslenkung von $m_1$.\\
+Man erkennt in den Abbildungen, dass die Messwerte proportional ansteigen.
+Da dies ebenfalls den theoretischen Voraussagen entspricht, wurden die Messwerte mit der proportionalen Anpassung $a_2=b \cdot a_1$ angepasst und die Unsicherheit der Anpassung wurde aus Gnuplot übernommen.
+Um die Ergebnisse zu überprüfen wurde die Steigung $b$ aus den Massen der Kugeln bestimmt. Die Unsicherheit der Masse, ist durch die Anzeigeungenauigkeit der digitalen Waage, die auf \SI{0.01}{g} genau anzeigt, gegeben. Aus den Gleichungen \ref{eq:sur} und \ref{eq:kombsu} folgt die Unsicherheit für die aus den Massen berechnete Steigung. Die Werte sind in Tabelle \ref{tab:steigung} aufgeführt.
+Man erkennt, dass die Werte zwar voneinander Abweichen, jedoch nur um ca. $3\%$ (Groß gegen Klein) bzw. um ca. $2\%$ (Klein gegen Groß). Dies ist darauf zurückzuführen, dass es sich bei dem untersuchten Stoß nicht um einen perfekten elastischen Stoß handelte oder das die Pendel nicht immer in absoluter Ruhe war.
 Über das Verhältnis der Steigungen der Anpassungsfunktion erhält man ein auch das Gewichtsverhältnis, dass sich über: 
 \begin{align}
 \frac{b_1}{b_2}=\frac{m_1}{m_2}	
