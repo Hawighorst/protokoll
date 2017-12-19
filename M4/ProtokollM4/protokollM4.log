@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.21)  19 DEC 2017 15:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.21)  19 DEC 2017 16:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2047,15 +2047,15 @@ Package pdftex.def Info: res/KleinGros.pdf used on input line 13.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-Package cleveref Info: loaded `ngerman' language definitions on input line 22.
+Package cleveref Info: loaded `ngerman' language definitions on input line 20.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 20.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 20.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 20.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 20.
 [1
 
 ]
@@ -2067,15 +2067,15 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 Package hyperref Warning: Ignoring empty anchor on input line 24.
 
-Package cleveref Info: loaded `ngerman' language definitions on input line 30.
+Package cleveref Info: loaded `ngerman' language definitions on input line 28.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 30.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 30.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 30.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 30.
+(babel)             in language  on input line 28.
 [2 <./res/GrosKlein.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2162,13 +2162,13 @@ Package logreq Info: Writing requests to 'protokollM4.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40592 strings out of 492995
- 778395 string characters out of 6136401
+ 40596 strings out of 492995
+ 778437 string characters out of 6136401
  1359277 words of memory out of 5000000
  43504 multiletter control sequences out of 15000+600000
- 99104 words of font info for 120 fonts, out of 8000000 for 9000
+ 99286 words of font info for 122 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 68i,20n,106p,10403b,2131s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,20n,106p,10403b,2139s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2017
 /texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2017/texmf-dist/fonts/
 enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec
@@ -2185,7 +2185,7 @@ lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c
 :/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2017/tex
 mf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type1
 /public/lm/lmtt12.pfb>
-Output written on protokollM4.pdf (7 pages, 346790 bytes).
+Output written on protokollM4.pdf (7 pages, 346942 bytes).
 PDF statistics:
  192 PDF objects out of 1000 (max. 8388607)
  158 compressed objects within 2 object streams
