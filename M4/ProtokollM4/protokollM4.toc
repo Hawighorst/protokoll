@@ -5,8 +5,15 @@
 \contentsline {section}{\numberline {2}Methoden}{1}{section.2}
 \contentsline {section}{\numberline {3}Ballistisches Pendel}{3}{section.3}
 \contentsline {section}{\numberline {4}Rollende Kugel}{5}{section.4}
+<<<<<<< HEAD
 \contentsline {section}{\numberline {5}Schlussfolgerung}{7}{section.5}
 \contentsline {section}{\numberline {A}Anhang}{8}{appendix.A}
 \contentsline {subsection}{\numberline {A.1}Verwendete Programme}{8}{subsection.A.1}
 \contentsline {subsection}{\numberline {A.2}Verwendete Gleichungen}{8}{subsection.A.2}
 \contentsline {section}{\nonumberline Literatur}{10}{section*.12}
+=======
+\contentsline {section}{\numberline {5}Schlussfolgerung}{5}{section.5}
+\contentsline {section}{\numberline {A}Anhang}{7}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{7}{subsection.A.1}
+\contentsline {section}{\nonumberline Literatur}{8}{section*.10}
+>>>>>>> dd24ff0602127c75ad5f99b8026b3324213a4bcf
