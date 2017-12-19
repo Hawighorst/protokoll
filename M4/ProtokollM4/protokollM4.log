@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  19 DEC 2017 21:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  19 DEC 2017 22:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2108,15 +2108,15 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package cleveref Info: loaded `ngerman' language definitions on input line 36.
+Package cleveref Info: loaded `ngerman' language definitions on input line 34.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 36.
+(babel)             in language  on input line 34.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 36.
+(babel)             in language  on input line 34.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 36.
+(babel)             in language  on input line 34.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 36.
+(babel)             in language  on input line 34.
 [5]) (./tex/19_Fazit.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
@@ -2220,11 +2220,11 @@ Package logreq Info: Writing requests to 'protokollM4.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40851 strings out of 494187
- 782953 string characters out of 6159430
- 1358596 words of memory out of 5000000
- 43527 multiletter control sequences out of 15000+600000
- 105398 words of font info for 142 fonts, out of 8000000 for 9000
+ 40844 strings out of 494187
+ 782923 string characters out of 6159430
+ 1357852 words of memory out of 5000000
+ 43530 multiletter control sequences out of 15000+600000
+ 104959 words of font info for 137 fonts, out of 8000000 for 9000
  402 hyphenation exceptions out of 8191
  68i,20n,106p,10403b,2148s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2017/tex
@@ -2244,10 +2244,10 @@ texlive/2017/texmf-dist/fonts/type1/public/lm/lmro12.pfb><c:/texlive/2017/texmf
 -dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type
 1/public/lm/lmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy8.
 pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on protokollM4.pdf (11 pages, 404681 bytes).
+Output written on protokollM4.pdf (11 pages, 404475 bytes).
 PDF statistics:
- 310 PDF objects out of 1000 (max. 8388607)
- 223 compressed objects within 3 object streams
+ 311 PDF objects out of 1000 (max. 8388607)
+ 224 compressed objects within 3 object streams
  43 named destinations out of 1000 (max. 500000)
  35933 words of extra memory for PDF output out of 42996 (max. 10000000)
 
