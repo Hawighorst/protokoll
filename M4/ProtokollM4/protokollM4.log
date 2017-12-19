@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.21)  19 DEC 2017 15:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.21)  19 DEC 2017 15:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2028,54 +2028,73 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
-Package cleveref Info: loaded `ngerman' language definitions on input line 9.
+
+<res/GrosKlein.pdf, id=51, 361.35pt x 216.81pt>
+File: res/GrosKlein.pdf Graphic file (type pdf)
+ <use res/GrosKlein.pdf>
+Package pdftex.def Info: res/GrosKlein.pdf used on input line 7.
+(pdftex.def)             Requested size: 358.50612pt x 215.10571pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<res/KleinGros.pdf, id=52, 361.35pt x 216.81pt>
+File: res/KleinGros.pdf Graphic file (type pdf)
+ <use res/KleinGros.pdf>
+Package pdftex.def Info: res/KleinGros.pdf used on input line 13.
+(pdftex.def)             Requested size: 358.50612pt x 215.10571pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package cleveref Info: loaded `ngerman' language definitions on input line 22.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 9.
+(babel)             in language  on input line 22.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 9.
+(babel)             in language  on input line 22.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 9.
+(babel)             in language  on input line 22.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 9.
- [1
+(babel)             in language  on input line 22.
+[1
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 11.
+(Font)              <7> on input line 24.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 11.
+(Font)              <5> on input line 24.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 11.
+Package hyperref Warning: Ignoring empty anchor on input line 24.
 
-<res/GrosKlein.pdf, id=78, 361.35pt x 216.81pt>
-File: res/GrosKlein.pdf Graphic file (type pdf)
- <use res/GrosKlein.pdf>
-Package pdftex.def Info: res/GrosKlein.pdf used on input line 48.
-(pdftex.def)             Requested size: 358.50612pt x 215.10571pt.
-
-<res/KleinGros.pdf, id=79, 361.35pt x 216.81pt>
-File: res/KleinGros.pdf Graphic file (type pdf)
- <use res/KleinGros.pdf>
-Package pdftex.def Info: res/KleinGros.pdf used on input line 54.
-(pdftex.def)             Requested size: 358.50612pt x 215.10571pt.
-)
-(./tex/13_Rinne.tex
+Package cleveref Info: loaded `ngerman' language definitions on input line 30.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 30.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 30.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 30.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 30.
+[2 <./res/GrosKlein.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (./tex/19_Fazit.tex
+) (./tex/13_Rinne.tex) (./tex/19_Fazit.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 3.
-)
+Package cleveref Info: loaded `ngerman' language definitions on input line 7.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 7.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 7.
+ [3 <./res/KleinGros.pdf>])
 Package cleveref Info: loaded `ngerman' language definitions on input line 84.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 84.
@@ -2085,27 +2104,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 84.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 84.
- [2]
-Package cleveref Info: loaded `ngerman' language definitions on input line 84.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 84.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 84.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 84.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 84.
- [3 <./res/GrosKlein.pdf>]
-Package cleveref Info: loaded `ngerman' language definitions on input line 84.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 84.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 84.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 84.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 84.
- [4 <./res/KleinGros.pdf>]
+ [4]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 84.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2163,16 +2162,16 @@ Package logreq Info: Writing requests to 'protokollM4.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40580 strings out of 492995
- 778266 string characters out of 6136401
- 1360212 words of memory out of 5000000
- 43502 multiletter control sequences out of 15000+600000
- 98649 words of font info for 115 fonts, out of 8000000 for 9000
+ 40592 strings out of 492995
+ 778395 string characters out of 6136401
+ 1359277 words of memory out of 5000000
+ 43504 multiletter control sequences out of 15000+600000
+ 99104 words of font info for 120 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 68i,20n,106p,10403b,2127s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,20n,106p,10403b,2131s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2017
 /texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2017/texmf-dist/fonts/
-enc/dvips/lm/lm-ec.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathsy
+enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec
 .enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}<c:/texlive/2017/
 texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/t
 ype1/public/lm/lmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lme
@@ -2186,10 +2185,10 @@ lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c
 :/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2017/tex
 mf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type1
 /public/lm/lmtt12.pfb>
-Output written on protokollM4.pdf (7 pages, 344969 bytes).
+Output written on protokollM4.pdf (7 pages, 346790 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
+ 192 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
  27 named destinations out of 1000 (max. 500000)
  32315 words of extra memory for PDF output out of 35830 (max. 10000000)
 
