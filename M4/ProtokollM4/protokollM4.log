@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  19 DEC 2017 15:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  19 DEC 2017 16:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1444,7 +1444,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 
 (c:/texlive/2017/texmf-dist/tex/latex/biblatex/blx-dm.def)
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'verbose.dbx' not found.
+Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count299
@@ -1538,16 +1538,11 @@ File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
 \c@biburllcpenalty=\count370
 \c@smartand=\count371
 )
-Package biblatex Info: Trying to load bibliography style 'verbose'...
-Package biblatex Info: ... file 'verbose.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
 
-(c:/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/verbose.bbx
-File: verbose.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
-Package biblatex Info: Trying to load bibliography style 'authortitle'...
-Package biblatex Info: ... file 'authortitle.bbx' found.
-
-(c:/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/authortitle.bbx
-File: authortitle.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
+(c:/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
@@ -1555,19 +1550,23 @@ Package biblatex Info: ... file 'standard.bbx' found.
 File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
 \c@bbx:relatedcount=\count372
 \c@bbx:relatedtotal=\count373
-)))
-Package biblatex Info: Trying to load citation style 'verbose'...
-Package biblatex Info: ... file 'verbose.cbx' found.
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
 
-(c:/texlive/2017/texmf-dist/tex/latex/biblatex/cbx/verbose.cbx
-File: verbose.cbx 2016/12/05 v3.7 biblatex citation style (PK/JW/AB)
+(c:/texlive/2017/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2016/12/05 v3.7 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
 Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -1867,9 +1866,9 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `protokollM4.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'protokollM4.bbl' not found.
+Package biblatex Info: ... file 'protokollM4.bbl' found.
 
-No file protokollM4.bbl.
+(./protokollM4.bbl)
 Package biblatex Info: Reference section=0 on input line 43.
 Package biblatex Info: Reference segment=0 on input line 43.
 Package caption Info: Begin \AtBeginDocument code.
@@ -1877,7 +1876,7 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box61
 Package hyperref Info: Link coloring OFF on input line 43.
-(c:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+ (c:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (c:/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -2023,23 +2022,43 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 )
-(./tex/11_Rinnemethoden.tex) (./tex/12_Ballistisch.tex
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
-Package cleveref Info: loaded `ngerman' language definitions on input line 9.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 9.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 9.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 9.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 9.
- [1
+(./tex/11_Rinnemethoden.tex
+<res/FallrinneSkizze.png, id=61, 243.15843pt x 201.00093pt>
+File: res/FallrinneSkizze.png Graphic file (type png)
 
-]
+<use res/FallrinneSkizze.png>
+Package pdftex.def Info: res/FallrinneSkizze.png used on input line 5.
+(pdftex.def)             Requested size: 313.69029pt x 259.30453pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package cleveref Info: loaded `ngerman' language definitions on input line 17.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 17.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 17.
+[1
+
+]) (./tex/12_Ballistisch.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package cleveref Info: loaded `ngerman' language definitions on input line 7.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 7.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 7.
+ [2 <./res/FallrinneSkizze.png>]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 11.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -2048,13 +2067,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 Package hyperref Warning: Ignoring empty anchor on input line 11.
 
-<res/GrosKlein.pdf, id=78, 361.35pt x 216.81pt>
+<res/GrosKlein.pdf, id=106, 361.35pt x 216.81pt>
 File: res/GrosKlein.pdf Graphic file (type pdf)
  <use res/GrosKlein.pdf>
 Package pdftex.def Info: res/GrosKlein.pdf used on input line 48.
 (pdftex.def)             Requested size: 358.50612pt x 215.10571pt.
 
-<res/KleinGros.pdf, id=79, 361.35pt x 216.81pt>
+<res/KleinGros.pdf, id=107, 361.35pt x 216.81pt>
 File: res/KleinGros.pdf Graphic file (type pdf)
  <use res/KleinGros.pdf>
 Package pdftex.def Info: res/KleinGros.pdf used on input line 54.
@@ -2070,6 +2089,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
 ) (./tex/19_Fazit.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
@@ -2085,7 +2111,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 84.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 84.
- [2]
+ [3]
 Package cleveref Info: loaded `ngerman' language definitions on input line 84.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 84.
@@ -2095,7 +2121,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 84.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 84.
- [3 <./res/GrosKlein.pdf>]
+ [4]
 Package cleveref Info: loaded `ngerman' language definitions on input line 84.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 84.
@@ -2105,13 +2131,16 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 84.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 84.
- [4 <./res/KleinGros.pdf>]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 84.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 84.
+ [5 <./res/GrosKlein.pdf> <./res/KleinGros.pdf
 
-(./tex/20_Anhang.tex
+pdfTeX warning: pdflatex.exe (file ./res/KleinGros.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 84.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 84.
+ (./tex/20_Anhang.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2137,6 +2166,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
  []
 
 )
+Package cleveref Info: loaded `ngerman' language definitions on input line 90.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 90.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 90.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 90.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 90.
+ [6
+
+]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 90.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 90.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'anleitung-ws2017' on input line 90.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
 Package cleveref Info: loaded `ngerman' language definitions on input line 92.
 Package babel Info: Redefining ngerman shorthand "|
@@ -2147,7 +2197,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 92.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 92.
- [5
+[7
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
@@ -2156,40 +2206,48 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 27.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
-Package rerunfilecheck Info: File `protokollM4.out' has not changed.
-(rerunfilecheck)             Checksum: 0A399BCE1ED777090191026958DE2F6B;715.
+
+
+Package rerunfilecheck Warning: File `protokollM4.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `protokollM4.out':
+(rerunfilecheck)             Before: 66D8F4C392ABC74585DDD630FBFA4E81;1086
+(rerunfilecheck)             After:  32CE5FE73B16D4B4C97B6DCCFC12573C;921.
 Package logreq Info: Writing requests to 'protokollM4.run.xml'.
 \openout1 = `protokollM4.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40580 strings out of 494187
- 778266 string characters out of 6159430
- 1357325 words of memory out of 5000000
- 43322 multiletter control sequences out of 15000+600000
- 98649 words of font info for 115 fonts, out of 8000000 for 9000
+ 40800 strings out of 494187
+ 782263 string characters out of 6159430
+ 1357150 words of memory out of 5000000
+ 43514 multiletter control sequences out of 15000+600000
+ 103882 words of font info for 125 fonts, out of 8000000 for 9000
  402 hyphenation exceptions out of 8191
- 68i,20n,106p,10403b,2127s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2017
-/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2017/texmf-dist/fonts/
-enc/dvips/lm/lm-ec.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathsy
-.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}<c:/texlive/2017/
+ 68i,20n,106p,10403b,2139s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2017/tex
+mf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2017/texmf-dist/fonts/enc/
+dvips/lm/lm-mathsy.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
+}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}<c:/texlive/2017/
 texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/t
 ype1/public/lm/lmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lme
 x10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texliv
 e/2017/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2017/texmf-dist/f
 onts/type1/public/lm/lmr10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/l
 m/lmr12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/tex
-live/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2017/texmf-dist
-/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/
-lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c
-:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2017/tex
-mf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type1
-/public/lm/lmtt12.pfb>
-Output written on protokollM4.pdf (7 pages, 344969 bytes).
+live/2017/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/texlive/2017/texmf-dist
+/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/
+lm/lmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/te
+xlive/2017/texmf-dist/fonts/type1/public/lm/lmro12.pfb><c:/texlive/2017/texmf-d
+ist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/
+public/lm/lmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy8.pf
+b><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on protokollM4.pdf (9 pages, 392824 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 32315 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 231 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 34384 words of extra memory for PDF output out of 35830 (max. 10000000)
 

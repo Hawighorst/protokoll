@@ -1,0 +1,17 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'protokollM4.blg'
+[41] biber-MSWIN32:303> INFO - === 
+[88] Biber.pm:359> INFO - Reading 'protokollM4.bcf'
+[193] Biber.pm:835> INFO - Found 1 citekeys in bib section 0
+[210] Biber.pm:3670> INFO - Processing section 0
+[238] Biber.pm:3840> INFO - Looking for bibtex format file 'res/literatur.bib' for section 0
+[242] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[251] bibtex.pm:1292> INFO - Found BibTeX data source 'res/literatur.bib'
+[254] Utils.pm:164> WARN - month field 'Oktober' in entry 'anleitung-ws2017' is not an integer - this will probably not sort properly.
+[266] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[266] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[266] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'de-DE'
+[266] Biber.pm:3505> INFO - No sort tailoring available for locale 'de-DE'
+[274] bbl.pm:608> INFO - Writing 'protokollM4.bbl' with encoding 'UTF-8'
+[274] bbl.pm:712> INFO - Output to protokollM4.bbl
+[275] Biber.pm:109> INFO - WARNINGS: 1
