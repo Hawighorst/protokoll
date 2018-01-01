@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  19 DEC 2017 23:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  1 JAN 2018 18:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2016,7 +2016,22 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
 ) (./tex/11_Methoden.tex
+Overfull \hbox (4051.73335pt too wide) in paragraph at lines 14--1
+[]\T1/lmr/m/n/12 (-20) Fehler J: $\OT1/lmr/m/n/12 (-20) ^^A\OML/lmm/m/it/12 f \
+OT1/lmr/m/n/12 (-20) = [][]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--1
+
+ []
+
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2036,8 +2051,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 82.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 82.
-
-[1
+ [1
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
@@ -2115,29 +2129,31 @@ Package logreq Info: Writing requests to 'protokollM5.run.xml'.
 Here is how much of TeX's memory you used:
  40631 strings out of 494187
  779656 string characters out of 6159430
- 1351354 words of memory out of 5000000
+ 1356316 words of memory out of 5000000
  43429 multiletter control sequences out of 15000+600000
  75744 words of font info for 84 fonts, out of 8000000 for 9000
  402 hyphenation exceptions out of 8191
  68i,19n,106p,10403b,2121s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2017/tex
-mf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvip
-s/lm/lm-mathex.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
-}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}<c:/texlive/2017/
+mf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2017/texmf-dist/fonts/enc/
+dvips/lm/lm-mathit.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
+}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}<c:/texlive/2017/
 texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/t
 ype1/public/lm/lmex10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmm
-i12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive
-/2017/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2017/texmf-dist/fo
-nts/type1/public/lm/lmr17.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm
-/lmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texl
-ive/2017/texmf-dist/fonts/type1/public/lm/lmro12.pfb><c:/texlive/2017/texmf-dis
-t/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/pu
-blic/lm/lmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.pfb
->
-Output written on protokollM5.pdf (5 pages, 216508 bytes).
+i12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi6.pfb><c:/texlive
+/2017/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2017/texmf-dist/fo
+nts/type1/public/lm/lmr12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm
+/lmr17.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/texli
+ve/2017/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2017/texmf-dist/f
+onts/type1/public/lm/lmri12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/
+lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c
+:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2017/tex
+mf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type1
+/public/lm/lmtt12.pfb>
+Output written on protokollM5.pdf (5 pages, 247432 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
+ 145 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
  19 named destinations out of 1000 (max. 500000)
  26169 words of extra memory for PDF output out of 29859 (max. 10000000)
 

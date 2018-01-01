@@ -1,0 +1,480 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  28 DEC 2017 13:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./10_Zusammenfassung.tex
+(./10_Zusammenfassung.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 41 language(s) loaded.
+! Undefined control sequence.
+l.3 \section
+            {Zusammenfassung}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \section{Z
+              usammenfassung}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no Z in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--4
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 $
+     V=f=\pi H_{A} R_{A}^{2} + \pi H_{k} \left(R_{a}^{2} - R_{i}^{2}\right) ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+
+Overfull \hbox (38.61107pt too wide) in paragraph at lines 6--7
+[]$\OML/cmm/m/it/10 V \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (16.52777pt too wide) in paragraph at lines 6--7
+\OML/cmm/m/it/10 f \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (42.77008pt too wide) in paragraph at lines 6--7
+\OML/cmm/m/it/10 ^^YH[]R[] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (74.71182pt too wide) in paragraph at lines 6--7
+\OML/cmm/m/it/10 ^^YH[] [] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (34.13753pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ^^YR[]R[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 M
+     esswerte:
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no : in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--9
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 $
+      H_k=1\pm 0.1$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (43.78818pt too wide) in paragraph at lines 10--11
+[]$\OML/cmm/m/it/10 H[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10 ^^F
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 $
+      R_a=2\pm 0.2$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (42.98605pt too wide) in paragraph at lines 12--13
+[]$\OML/cmm/m/it/10 R[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 12--13
+\OT1/cmr/m/n/10 2 \OMS/cmsy/m/n/10 ^^F
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 12--13
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 2$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 $
+      R_i=3\pm 0.3$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (41.47769pt too wide) in paragraph at lines 14--15
+[]$\OML/cmm/m/it/10 R[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 14--15
+\OT1/cmr/m/n/10 3 \OMS/cmsy/m/n/10 ^^F
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 14--15
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 $
+      R_s=4\pm 0.4$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (42.42273pt too wide) in paragraph at lines 16--17
+[]$\OML/cmm/m/it/10 R[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 16--17
+\OT1/cmr/m/n/10 4 \OMS/cmsy/m/n/10 ^^F
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 16--17
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 4$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 $
+      H_A=5\pm 0.5$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (45.38193pt too wide) in paragraph at lines 18--19
+[]$\OML/cmm/m/it/10 H[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 18--19
+\OT1/cmr/m/n/10 5 \OMS/cmsy/m/n/10 ^^F
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 18--19
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 $
+      R_A=6\pm 0.6$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (44.66232pt too wide) in paragraph at lines 20--21
+[]$\OML/cmm/m/it/10 R[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 20--21
+\OT1/cmr/m/n/10 6 \OMS/cmsy/m/n/10 ^^F
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 20--21
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 6$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 A
+      bsoluter Fehler:
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no : in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 22--23
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 $
+      \Delta f=\pi \sqrt{4 H_{A}^{2} R_{A}^{2} \Delta R_{A}^{2} + 4 H_{k}^{2...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (44.86113pt too wide) in paragraph at lines 24--25
+[]$\OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 f \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (438.055pt too wide) in paragraph at lines 24--25
+\OML/cmm/m/it/10 ^^Y[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 R
+      elativer Fehler:
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no : in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 26--27
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 $
+      \Delta f/f=\sqrt{\frac{1}{\left(H_{A} R_{A}^{2} + H_{k} \left(R_{a}^{2...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (55.8334pt too wide) in paragraph at lines 28--29
+[]$\OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 f=f \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (564.34958pt too wide) in paragraph at lines 28--29
+[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 $
+      f= 851.37 \pm 142.25$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (36.52777pt too wide) in paragraph at lines 30--31
+[]$\OML/cmm/m/it/10 f \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (35.55566pt too wide) in paragraph at lines 30--31
+\OT1/cmr/m/n/10 851\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 37 \OMS/cmsy/m/n/10 ^^F
+ []
+
+
+Overfull \hbox (27.77786pt too wide) in paragraph at lines 30--31
+\OT1/cmr/m/n/10 142\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 25$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 $
+      f= 851.37 \pm   16.7  \%$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 2 in font nullfont!
+
+Overfull \hbox (36.52777pt too wide) in paragraph at lines 32--34
+[]$\OML/cmm/m/it/10 f \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (35.55566pt too wide) in paragraph at lines 32--34
+\OT1/cmr/m/n/10 851\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 37 \OMS/cmsy/m/n/10 ^^F
+ []
+
+
+Overfull \hbox (26.11119pt too wide) in paragraph at lines 32--34
+\OT1/cmr/m/n/10 16\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 7%$
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 $
+      \frac{M \left(2 H_{S} \left(\frac{H_{S}^{2} R_{S}^{2}}{12} + \frac{R_{...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+! Emergency stop.
+<*> ./10_Zusammenfassung.tex
+                            
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 7 strings out of 494187
+ 208 string characters out of 6159430
+ 53255 words of memory out of 5000000
+ 3480 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 398 hyphenation exceptions out of 8191
+ 18i,6n,12p,436b,56s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
