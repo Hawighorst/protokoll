@@ -15,7 +15,7 @@ Wobei $H$ die jeweilige Höhe und R den jeweiligen Radius des Zylinders beschrei
 \begin{align}
 	\varrho=\frac{M}{\pi(H_K  (R_a^2-R_i^2)+2 H_S  R_S^2+ H_A  R_A^2)}. \label{eq:dichtefall}
 \end{align} 
-Mit einsetzten Gleichungen \ref{eq:dichtefall} in Gleichung \ref{eq:taddfall} erhält man das Trägheitsmoment
+Durch einsetzten der Gleichungen \ref{eq:dichtefall} in Gleichung \ref{eq:taddfall} erhält man das Trägheitsmoment
 \begin{align}
 J_s=\frac{M \left(2 H_{S} \left(\frac{H_{A} R_{A}^{4}}{2} + \frac{H_{S}^{2} R_{S}^{2}}{12} + \frac{R_{S}^{4}}{4}\right) + \frac{ H_{k}}{2} \left(R_{a}^{4} - R_{i}^{4}\right)\right)}{H_{A} R_{A}^{2} + H_{k} \left(R_{a}^{2} - R_{i}^{2}\right) + 2 R_{S}^{2} R_{i}} \label{eq:Jfall}.
 \end{align}
@@ -47,7 +47,7 @@ J_s=\frac{M \left(2 H_{S} \left(\frac{H_{A} R_{A}^{4}}{2} + \frac{H_{S}^{2} R_{S
 
 
 
-Mit den Messwerten aus Tabelle \ref{tab:datafall} folgt aus den Gleichungen \ref{eq:Jfall} und \ref{eq:uJfall} bezüglich der Symmetrieachse $J=\SI{0.003702 \pm 0.000008}{kg\cdot m^2}$
+Mit den Messwerten aus Tabelle \ref{tab:datafall} folgt aus den Gleichungen \ref{eq:Jfall} und \ref{eq:uJfall} bezüglich der Symmetrieachse $J=\SI{0.003702 \pm 0.000008}{kg\cdot m^2}$. Der relative Fehler ist $\frac{\Delta J}{J}=0.2\%$. 
 
 
 
@@ -56,35 +56,61 @@ Mit den Messwerten aus Tabelle \ref{tab:datafall} folgt aus den Gleichungen \ref
 
 
 
-\subsubsection{Bestimmung $g^*$ }
+\subsubsection{Bestimmung der effektiven Beschleunigung }
+Um abschließend den gemessenen Abrollradius mit dem Abrollradius nach steinerschem Satz vergleichen zu können, wird neben dem Trägheitsmoment die effektive Beschleunigung $g^*$ benötigt.
+
+
 
 
 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.7\linewidth]{auswertung/Fallrad/h,t}
-	\caption{}
+	\caption{Die Höhe $h$ des Fallrades in Abhängigkeit der jeweiligen Fallzeiten $t$.}
 	\label{fig:ht}
 \end{figure}
 
 
 
-
-\begin{figure}[h]
+\begin{figure}%[h]
 	\centering
 	\includegraphics[width=0.7\linewidth]{auswertung/Fallrad/h,t^2}
-	\caption{}
+	\caption{Die Messpunkte nach \cref{fig:ht} in Einheiten von $t^2$. }
 	\label{fig:ht2}
 \end{figure}
 
 
 
 
+
+Die Abbildung \ref{fig:ht} stellt die Messwerte dar. Da die theoretischen Betrachtungen und der Graph eine quadratische Abhängigkeit suggerieren, werden diese Messwerte anschließend in Abbildung \ref{fig:ht2} linearisiert dargestellt. Abbildung \ref{fig:tht-2} stellt die jeweilige Steigung einer gerade durch Ursprung und Messpunkt der Abbildung \ref{fig:ht2} dar. \\
+
+
+
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.7\linewidth]{auswertung/Fallrad/T,ht^-2}
-	\caption{}
+	\caption{Messpunkte aus \cref{fig:ht} in Einheiten von $\frac{h}{t^2}$}
 	\label{fig:tht-2}
 \end{figure}
 
 
+
+
+Anschließend wurde das arithmetische Mittel $c$ der Datenpunkte aus Abbildung \ref{fig:tht-2} gebildet. Aus der zugehörigen Bewegungsgleichung ist abzulesen, dass $\frac{g^*}{2}=\frac{h}{T^2}=c$. Es folgt: $g^*=\SI{0.0410 \pm  0.0019}{m \per s \squared}$.
+
+
+
+
+
+\subsubsection{Vergleich der Abrollradien}
+
+
+Aus der Zusammenhang zwischen der effektiven Beschleunigung und  dem Abrollradius nach Gleichung \ref{eq:gs} folgt für den Abrollradius Gleichung \ref{eq:R}.
+
+\begin{align}
+g^*  &= g \frac{mR^2}{J_s + m R^2}= 2c \label{eq:gs}\\
+R&=\sqrt{\frac{2 c J_s}{M (g-2c)}} \label{eq:R}
+\end{align}
+
+Mit den Messwerten aus Tabelle \ref{tab:datafall}, der effektiven Beschleunigung $g^*$ aus Abbildung \ref{fig:tht-2} sowie der Fallbeschleunigung g aufgrund des Erdschwerefeldes und der Unsicherheit nach Gleichung \ref{eq:uR} folgt $R=\SI{0.00460\pm 0.00011}{m}$. Die Messung der Durchmesser von Faden und Aufhängeachse mit dem Messschieber ergab einen Radius $R_{geometrisch}=\SI{0.00455 \pm 0.00004}{m}$. Der direkt gemessene Radius bestätigt den zuvor errechneten Wert. Des weiteren liefert die direkte Messung erwartungsgemäß die kleinere Unsicherheit.  

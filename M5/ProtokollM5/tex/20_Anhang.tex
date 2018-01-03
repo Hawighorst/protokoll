@@ -27,17 +27,14 @@ Standardunsicherheit der Rechteckverteilung u für die Intervallbreite a:
 \begin{align}
 	u=\frac{a}{2\sqrt{3}}\label{eq:sur}
 \end{align} \\
-
 Standardunsicherheit der Dreieckverteilung u: \begin{align}
 	u=\frac{a}{2\sqrt{6}}\label{eq:sud}
 \end{align}\\
-
 Standardunsicherheit des Mittelwertes der Normalverteilung u für die Messwerte $x_i$ und den Mittelwert$\bar{x}$:
 \begin{align}
 	u(\bar{x})=  t_p  \sqrt{  \frac{\sum_{i=1}^{n}  (x_i-\bar{x})^2} {n (n-1)} }
 	\label{eq:sunv}       
 \end{align} \\
-
 Kominierte Standartunsicherheit der Messgröße $g(x_i)$
 
 \begin{align}
@@ -45,17 +42,25 @@ Kominierte Standartunsicherheit der Messgröße $g(x_i)$
 	\label{eq:kombsu}       
 \end{align}\\
 
-
-
-
-
-
+\subsection*{}
 Unsicherheit des Trägheitsmomentes :\\
 $\Delta J_S= \frac{1}{6} [ ((H_{A} R_{A}^{2} + H_{k} (R_{a}^{2} - R_{i}^{2}) + 2 R_{S}^{2} R_{i})^{4})^{-1} (4 M^{2} R_{S}^{2} \Delta R_{S}^{2} (H_{S} (H_{S}^{2} + 6 R_{S}^{2}) (H_{A} R_{A}^{2} + H_{k} (R_{a}^{2} - R_{i}^{2}) + 2 R_{S}^{2} R_{i}) - 2 R_{i} (H_{S} (6 H_{A} R_{A}^{4} + H_{S}^{2} R_{S}^{2} + 3 R_{S}^{4}) + 3 H_{k} (R_{a}^{4} - R_{i}^{4})))^{2} +$ \\
 $M^{2} (4 H_{A}^{2} R_{A}^{2} \Delta R_{A}^{2} (12 H_{S} R_{A}^{2} (H_{A} R_{A}^{2} + H_{k} (R_{a}^{2} - R_{i}^{2}) + 2 R_{S}^{2} R_{i}) - H_{S} (6 H_{A} R_{A}^{4} + H_{S}^{2} R_{S}^{2} + 3 R_{S}^{4}) - 3 H_{k} (R_{a}^{4} - R_{i}^{4}))^{2} + 4 H_{k}^{2} R_{a}^{2} \Delta R_{a}^{2} (- H_{S} (6 H_{A} R_{A}^{4} + H_{S}^{2} R_{S}^{2} + 3 R_{S}^{4}) - 3 H_{k} (R_{a}^{4} - R_{i}^{4}) + 6.0 R_{a}^{2} (H_{A} R_{A}^{2} + H_{k} (R_{a}^{2} - R_{i}^{2}) + 2 R_{S}^{2} R_{i}))^{2} + R_{A}^{4} \Delta H_{A}^{2} (6 H_{S} R_{A}^{2} (H_{A} R_{A}^{2} + H_{k} (R_{a}^{2} - R_{i}^{2}) + 2 R_{S}^{2} R_{i}) - H_{S}  (6 H_{A} R_{A}^{4} + H_{S}^{2} R_{S}^{2} + 3 R_{S}^{4} ) - 3 H_{k}  (R_{a}^{4} - R_{i}^{4} ) )^{2} + \Delta H_{k}^{2}  ( (R_{a}^{2} - R_{i}^{2} )  (H_{S}  (6 H_{A} R_{A}^{4} + H_{S}^{2} R_{S}^{2} + 3 R_{S}^{4} ) + 3 H_{k}  (R_{a}^{4} - R_{i}^{4} ) ) - 3  (R_{a}^{4} - R_{i}^{4} )  (H_{A} R_{A}^{2} + H_{k}  (R_{a}^{2} - R_{i}^{2} ) + 2 R_{S}^{2} R_{i} ) )^{2} + \Delta R_{i}^{2}  (12.0 H_{k} R_{i}^{3}  (H_{A} R_{A}^{2} + H_{k}  (R_{a}^{2} - R_{i}^{2} ) + 2 R_{S}^{2} R_{i} ) - 2  (H_{S}  (6 H_{A} R_{A}^{4} + H_{S}^{2} R_{S}^{2} + 3 R_{S}^{4} ) + 3 H_{k}  (R_{a}^{4} - R_{i}^{4} ) )  (H_{k} R_{i} - R_{S}^{2} ) )^{2} ) +  (9 M^{2} \Delta H_{S}^{2}  (2 H_{A} R_{A}^{4} + H_{S}^{2} R_{S}^{2} + R_{S}^{4} )^{2} + \Delta M^{2}  (H_{S}  (6 H_{A} R_{A}^{4} + H_{S}^{2} R_{S}^{2} + 3 R_{S}^{4} ) + 3 H_{k}  (R_{a}^{4} - R_{i}^{4} ) )^{2} )  (H_{A} R_{A}^{2} + H_{k}  (R_{a}^{2} - R_{i}^{2} ) + 2 R_{S}^{2} R_{i} )^{2} )  ]^{\frac{1}{2}} $
 \begin{align}
 \label{eq:uJfall}
 \end{align}
+Unsicherheit des Abrollradius:\\
+$
+\Delta R =\left[ 
+(\frac{\Delta M c J}{\sqrt{2} (-2 c+g) \sqrt{(c J)/((g-2c) M)} M^2})^2
++(\frac{\Delta J c}{\sqrt{2} (-2 c+g) \sqrt{\frac{J c}{(g-2c) M}} M})^2
++(\frac{\Delta c g \sqrt{J c}}{ c (g-2 c)\sqrt{2 g M-4 M c}})^2 
+\right]^{\frac{1}{2}}	
+$
+\begin{align}
+	\label{eq:uR}
+\end{align}
+
 
 
 
