@@ -7,9 +7,9 @@
 \contentsline {subsection}{\numberline {2.2}Daten und Analyse}{2}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {2.2.1}Bestimmung Tr\IeC {\"a}gheitsmoment im Schwerpunkt}{2}{subsubsection.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.2}Bestimmung der effektiven Beschleunigung}{3}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.3}Vergleich der Abrollradien}{4}{subsubsection.2.2.3}
-\contentsline {section}{\numberline {3}Schlussfolgerung}{7}{section.3}
-\contentsline {section}{\numberline {A}Anhang}{8}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Programme}{8}{subsection.A.1}
-\contentsline {subsection}{\numberline {A.2}Verwendete Gleichungen}{8}{subsection.A.2}
-\contentsline {section}{\nonumberline Literatur}{9}{section*.8}
+\contentsline {subsubsection}{\numberline {2.2.3}Vergleich der Abrollradien}{5}{subsubsection.2.2.3}
+\contentsline {section}{\numberline {3}Schlussfolgerung}{6}{section.3}
+\contentsline {section}{\numberline {A}Anhang}{7}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Verwendete Programme}{7}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Verwendete Gleichungen}{7}{subsection.A.2}
+\contentsline {section}{\nonumberline Literatur}{8}{section*.8}
