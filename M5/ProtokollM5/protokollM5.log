@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  6 JAN 2018 22:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.21)  7 JAN 2018 17:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./protokollM5.tex
 (./protokollM5.tex
 LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 41 language(s) loaded.
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2017/04/13 v3.23 KOMA-Script document class (article)
 (c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrkbase.sty
@@ -2016,6 +2016,10 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 3.
+
+
+LaTeX Warning: Reference `fig:Kreisel' on page 1 undefined on input line 25.
+
 ) (./tex/13_MethodeFallrad.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
@@ -2026,15 +2030,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-<res/Fallrad.png, id=82, 180.675pt x 212.29312pt>
+Package cleveref Info: loaded `ngerman' language definitions on input line 6.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 6.
+[1
+
+] <res/Fallrad.png, id=96, 180.675pt x 212.29312pt>
 File: res/Fallrad.png Graphic file (type png)
  <use res/Fallrad.png>
 Package pdftex.def Info: res/Fallrad.png used on input line 9.
 (pdftex.def)             Requested size: 224.06548pt x 263.27962pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 22.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2048,9 +2059,8 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 25.
-[1
 
-]) (./tex/15_AuswertungFallrad.tex
+[2 <./res/Fallrad.png>]) (./tex/15_AuswertungFallrad.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2059,22 +2069,21 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 3.
-Package cleveref Info: loaded `ngerman' language definitions on input line 13.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 13.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 13.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 13.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 13.
- [2 <./res/Fallrad.png>]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 59.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 59.
-
-<auswertung/Fallrad/h,t.pdf, id=112, 722.7pt x 433.62pt>
+Package cleveref Info: loaded `ngerman' language definitions on input line 61.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 61.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 61.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 61.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 61.
+ [3]
+<auswertung/Fallrad/h,t.pdf, id=124, 722.7pt x 433.62pt>
 File: auswertung/Fallrad/h,t.pdf Graphic file (type pdf)
 
 <use auswertung/Fallrad/h,t.pdf>
@@ -2083,10 +2092,7 @@ Package pdftex.def Info: auswertung/Fallrad/h,t.pdf used on input line 68.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 69.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<auswertung/Fallrad/h,t^2.pdf, id=113, 722.7pt x 433.62pt>
+<auswertung/Fallrad/h,t^2.pdf, id=125, 722.7pt x 433.62pt>
 File: auswertung/Fallrad/h,t^2.pdf Graphic file (type pdf)
 
 <use auswertung/Fallrad/h,t^2.pdf>
@@ -2097,16 +2103,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
-Package cleveref Info: loaded `ngerman' language definitions on input line 87.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 87.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 87.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 87.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 87.
-[3] <auswertung/Fallrad/T,ht^-2.png, id=132, 355.3275pt x 208.78pt>
+<auswertung/Fallrad/T,ht^-2.png, id=132, 355.3275pt x 208.78pt>
 File: auswertung/Fallrad/T,ht^-2.png Graphic file (type png)
 
 <use auswertung/Fallrad/T,ht^-2.png>
@@ -2116,21 +2113,23 @@ Package pdftex.def Info: auswertung/Fallrad/T,ht^-2.png used on input line 92.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+Package cleveref Info: loaded `ngerman' language definitions on input line 106.
+
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 106.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 106.
-) (./tex/19_Fazit.tex
-Package cleveref Info: loaded `ngerman' language definitions on input line 2.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 2.
+(babel)             in language  on input line 106.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 2.
+(babel)             in language  on input line 106.
+[4 <./auswertung/Fallrad/h,t.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 2.
+(babel)             in language  on input line 106.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 2.
- [4 <./auswertung/Fallrad/h,t.pdf>]
+(babel)             in language  on input line 106.
+) (./tex/16_MethodeKreisel.tex)
+(./tex/17_AuswertungKreisel.tex) (./tex/19_Fazit.tex
 Package cleveref Info: loaded `ngerman' language definitions on input line 2.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
@@ -2156,22 +2155,22 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 3.
 )
-Package cleveref Info: loaded `ngerman' language definitions on input line 84.
+Package cleveref Info: loaded `ngerman' language definitions on input line 86.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 86.
  [7
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 86.
  (./tex/20_Anhang.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
@@ -2199,42 +2198,46 @@ Package babel Info: Redefining ngerman shorthand "~
 
 ])
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 90.
+(babel)             in language  on input line 92.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 90.
+(babel)             in language  on input line 92.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
-Package cleveref Info: loaded `ngerman' language definitions on input line 92.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
+Package cleveref Info: loaded `ngerman' language definitions on input line 94.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 92.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 92.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 92.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 92.
+(babel)             in language  on input line 94.
  [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
  (./protokollM5.aux
 Package cleveref Info: loaded `ngerman' language definitions on input line 27.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
 Package rerunfilecheck Info: File `protokollM5.out' has not changed.
 (rerunfilecheck)             Checksum: 2A4F901800FD5B8EAD070105FD2FFB63;1893.
+
+
+LaTeX Warning: There were undefined references.
+
 Package logreq Info: Writing requests to 'protokollM5.run.xml'.
 \openout1 = `protokollM5.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40828 strings out of 494187
- 782827 string characters out of 6159430
- 1359725 words of memory out of 5000000
- 43534 multiletter control sequences out of 15000+600000
- 109913 words of font info for 130 fonts, out of 8000000 for 9000
- 402 hyphenation exceptions out of 8191
+ 40845 strings out of 492995
+ 783234 string characters out of 6136401
+ 1362577 words of memory out of 5000000
+ 43721 multiletter control sequences out of 15000+600000
+ 110095 words of font info for 132 fonts, out of 8000000 for 9000
+ 1145 hyphenation exceptions out of 8191
  68i,20n,106p,10403b,2137s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2017/tex
 mf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2017/texmf-dist/fonts/enc/
@@ -2256,7 +2259,7 @@ public/lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10
 017/texmf-dist/fonts/type1/public/lm/lmsy6.pfb><c:/texlive/2017/texmf-dist/font
 s/type1/public/lm/lmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/l
 mtt12.pfb>
-Output written on protokollM5.pdf (11 pages, 413930 bytes).
+Output written on protokollM5.pdf (11 pages, 416627 bytes).
 PDF statistics:
  343 PDF objects out of 1000 (max. 8388607)
  242 compressed objects within 3 object streams
