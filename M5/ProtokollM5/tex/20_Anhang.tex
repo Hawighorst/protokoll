@@ -35,13 +35,18 @@ Standardunsicherheit des Mittelwertes der Normalverteilung u für die Messwerte 
 	u(\bar{x})=  t_p  \sqrt{  \frac{\sum_{i=1}^{n}  (x_i-\bar{x})^2} {n (n-1)} }
 	\label{eq:sunv}       
 \end{align} \\
-Kominierte Standartunsicherheit der Messgröße $g(x_i)$
+Kombinierte Standartunsicherheit der Messgröße $g(x_i)$
 
 \begin{align}
 	u(g(x_i))=   \sqrt{  \sum_{i=1}^{n} \left( \frac{\partial g}{\partial x_i} u(x_i) \right)^2  }
 	\label{eq:kombsu}       
 \end{align}\\
 
+Standardunsicherheit eines Wertes die sich aus mehreren Messgrößen mit Unsicherheiten zusammensetzt:
+\begin{align}
+	u(f(x_1,...,x_n))=\sqrt{\sum_{i=1}^{n}\left(\frac{\partial f}{\partial x_i}\right)^2 u(x_i)^2}
+	\label{eq:suw}
+\end{align}
 \subsection*{}
 Unsicherheit des Trägheitsmomentes :\\
 $\Delta J_S= \frac{1}{6} [ ((H_{A} R_{A}^{2} + H_{k} (R_{a}^{2} - R_{i}^{2}) + 2 R_{S}^{2} R_{i})^{4})^{-1} (4 M^{2} R_{S}^{2} \Delta R_{S}^{2} (H_{S} (H_{S}^{2} + 6 R_{S}^{2}) (H_{A} R_{A}^{2} + H_{k} (R_{a}^{2} - R_{i}^{2}) + 2 R_{S}^{2} R_{i}) - 2 R_{i} (H_{S} (6 H_{A} R_{A}^{4} + H_{S}^{2} R_{S}^{2} + 3 R_{S}^{4}) + 3 H_{k} (R_{a}^{4} - R_{i}^{4})))^{2} +$\\

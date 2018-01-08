@@ -1,8 +1,9 @@
 \subsection{Daten und Analyse}
-\begin{table}[h]
 	Die in den Abbildungen \ref{fig:Kreiselunten},\ref{fig:Kreiselmitte} und \ref{fig:Kreiseloben} zu sehenden Steigungen der linearen Anpassung ist in \ref{tab:Kreisel} zusehen.
-	Man erkennt in den Abbildungen das einige Werte zum teil sehr Stark von der Anpassung abweichen, dies ist vermutlich auf Fehler bei der Durchführung zurückzuführen.
-	\caption{Zu sehen sind die Werte für Die Steigung die Kraft für die drei unterschiedlichen Positionen sowie die Masse der Kugel, Radius der Kugel sowie die Länge l.}
+Man erkennt in den Abbildungen das einige Werte zum teil sehr Stark von der Anpassung abweichen, dies ist vermutlich auf Fehler bei der Durchführung zurückzuführen.
+\begin{table}[h]
+		\caption{Zu sehen sind die Werte für Die Steigung die Kraft für die drei unterschiedlichen Positionen sowie die Masse der Kugel, Radius der Kugel sowie die Länge l.}
+	\scriptsize 
 	\begin{tabular}{|c|c|c|c|c|c|}
 		\hline
 		Position & $\frac{\Delta T_p}{\Delta \omega}$ & Kraft& Radius & Masse &Länge l\\
@@ -16,32 +17,40 @@
 		\end{tabular}
 	\label{tab:Kreisel}
 \end{table}
+\normalsize
 \begin{figure}[h]
-\centering
-\includegraphics[width=0.7\linewidth]{res/sproHzunten}
-\caption{{Aufgetragen ist die die Präzessionzeit $T_p$ gegen die Kreisfrequenz $\omega$ bei Positionierung des Zusatzgewichtes bei Position 1.}
+	\centering
+	\includegraphics[width=0.7\textwidth]{res/sproHzunten.pdf}
+	\caption{Aufgetragen ist die die Präzessionzeit $T_p$ gegen die Kreisfrequenz $\omega$ bei Positionierung des Zusatzgewichtes bei Position 1.}
 	\label{fig:Kreiselunten}
 \end{figure}
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.7\linewidth]{res/sproHzmitte}
+	\includegraphics[width=0.7\textwidth]{res/sproHzmitte.pdf}
 	\caption{Aufgetragen ist die die Präzessionzeit $T_p$ gegen die Kreisfrequenz $\omega$ bei Positionierung des Zusatzgewichtes bei Position 2.}
 	\label{fig:Kreiselmitte}
 \end{figure}
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.7\linewidth]{res/sproHzoben}
-	\caption{{Aufgetragen ist die die Präzessionzeit $T_p$ gegen die Kreisfrequenz $\omega$ bei Positionierung des Zusatzgewichtes bei Position 3.}
+	\includegraphics[width=0.7\textwidth]{res/sproHzoben.pdf}
+	\caption{Aufgetragen ist die die Präzessionzeit $T_p$ gegen die Kreisfrequenz $\omega$ bei Positionierung des Zusatzgewichtes bei Position 3.}
 		\label{fig:Kreiseloben}
 	\end{figure}
 Im nächsten Schritt wurde das Produkt der Länge l un der Kräfte F gegen den Kehrwert der Steigung aus den Abbildungen \ref{fig:Kreiselunten},\ref{fig:Kreiselmitte} und \ref{fig:Kreiseloben} aufgetragen. 
-Daraus resultierte die Abbildung \ref{Kegel}.
+Daraus resultierte die Abbildung \ref{fig:Kreisel}.
 Man erkennt das die lineare Anpassung die drei Messwerte nicht besonders gut Approximiert da keiner der Punkte auf der Geraden liegt. Dies ist wie schon vorher erwähnt auf Fehler bei der Durchführung zurückzuführen.
-Über den in Kapitel 
+Über den in Kapitel \ref{kap:KreiselMethoden} bereits genannten Zusammenhang zwischen der Steigung aus der Abbildung und dem Trägheitsmoment.
+Dieser Zusammenhang lautet: $\frac{a}{1\pi}=J$ wobei es sich bei a um die Steigung handelt. Somit erhält man für $J_{exp.}$ den folgenden Wert: $J_{exp.}=\SI{1,0194+-0,0319e-4}{kg \cdot m^2}$. Dieser Wert wurde dann mit dem $J_{theo.}$ verglichen der mithilfe der folgender Gleichungen berechnet wurde:
+\begin{align}
+	J_{Kugel}=\frac{2}{5}mr^2\\
+	J_{exp}=J_{Kugel}+J_{Zusatz}
+	\label{eq:J}
+\end{align}
+Die Masse und der Radius der Kugel wurden wie in Kapitel \ref{kap:KreiselMethoden} beschrieben gemessen und das Trägheitsmoment der Stange und des Zusatzgewichtes war mit $J_{Zusatz}=\SI{15}{g \cdot cm^2}$ angeben. Somit ergab sich dann folgender Wert: $J_{theo.}=\SI{1,3356+-0,0004e-4}{kg \cdot m^2}$. Wie man erkennt unterscheiden die beiden Werte für das Trägheitsmoment um ca. 30 \%.
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.7\linewidth]{res/wtgegenlF}
-	\caption{Aufgetragen ist das Produkt l mal F gegen $\frac{\Delta \omega}_{\Delta T_p}$}
+	\includegraphics[width=0.7\textwidth]{res/wtgegenlF.pdf}
+	\caption{Aufgetragen ist das Produkt l mal F gegen $\frac{\Delta \omega}{\Delta T_p }$.} 
 	\label{fig:Kreisel}
 \end{figure}
