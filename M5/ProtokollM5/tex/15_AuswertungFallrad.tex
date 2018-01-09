@@ -1,5 +1,5 @@
 \subsection{Daten und Analyse} %Fallrad\begin{figure}
-Im folgenden soll nun zunächst das Tägheitsmoment $J_s$ bestimmt werden. Anschließend wird die effektive Beschleunigung aus den Daten der Fallzeiten ermittelt und Abschließend werden die Abrollradien mit Hilfe des Steinerschen Satzes verglichen. 
+Im Folgenden soll nun zunächst das Trägheitsmoment bezüglich des Schwerpunktes $J_s$ bestimmt werden. Anschließend wird die effektive Beschleunigung aus den Fallzeiten für verschiedene Höhen ermittelt und abschließend werden die Abrollradien mit Hilfe des Steinerschen Satzes verglichen.
 
 \subsubsection{Bestimmung Trägheitsmoment im Schwerpunkt}
 
@@ -7,23 +7,26 @@ Allgemein ist das Trägheitsmoment J definiert durch:
 \begin{align}
 J= \int_{V} \vec{r}_{\perp} \varrho (\vec{r}) \mathrm{d}V.
 \end{align}
-Angewandt auf die vorliegende Geometrie bei Annahme einer konstanten Massenverteilung folgt bezüglich der Symmetrieachse: 
+Angewandt auf die vorliegende Geometrie bei Annahme einer konstanten Massenverteilung folgt bezüglich der Symmetrieachse folgt: 
 \begin{align}
 J_s&= J_{K}+2J_{S}+J_{A}\\
-&=\varrho \pi \left[\frac{H_K}{2} (R_a^4-R_i^4)+  2 H_S(\frac{H_S^2}{12} R_S^2+\frac{R_S^4}{4})+  \frac{H_A}{2}R_A^4  \right] \label{eq:taddfall}
+&=\varrho \pi \left[\frac{H_K}{2} (R_a^4-R_i^4)+  2 H_S(\frac{H_S^2}{12} R_S^2+\frac{R_S^4}{4})+  \frac{H_A}{2}R_A^4  \right] \label{eq:taddfall}.
 \end{align}	
-Wobei $H$ die jeweilige Höhe und R den jeweiligen Radius des Zylinders beschreiben. $R_a$ und $R_i$ stehen für Außen- bzw. Innenradius des äußeren Kreisrings. Die Dichte $\varrho$ ist als Masse pro Volumen gegeben:
+Wobei $H$ die jeweilige Höhe und R den jeweiligen Radius des Zylinders beschreiben. $R_a$ und $R_i$ stehen für Außen- bzw. Innenradius des äußeren Kreisrings. Die Dichte $\varrho$ ist als Masse pro Volumen gegeben mit
 \begin{align}
 	\varrho=\frac{M}{\pi(H_K  (R_a^2-R_i^2)+2 H_S  R_S^2+ H_A  R_A^2)}. \label{eq:dichtefall}
 \end{align} 
-Durch einsetzten der Gleichungen \ref{eq:dichtefall} in Gleichung \ref{eq:taddfall} erhält man das Trägheitsmoment
+Durch Einsetzten der Gleichungen \ref{eq:dichtefall} in Gleichung \ref{eq:taddfall} erhält man das Trägheitsmoment
 \begin{align}
 J_s=\frac{M \left(2 H_{S} \left(\frac{H_{A} R_{A}^{4}}{2} + \frac{H_{S}^{2} R_{S}^{2}}{12} + \frac{R_{S}^{4}}{4}\right) + \frac{ H_{k}}{2} \left(R_{a}^{4} - R_{i}^{4}\right)\right)}{H_{A} R_{A}^{2} + H_{k} \left(R_{a}^{2} - R_{i}^{2}\right) + 2 R_{S}^{2} R_{i}} \label{eq:Jfall}.
 \end{align}
+Die Abmessungen welche mehrfach gemessen wurden, wurden arithmetisch gemittelt ihre Unsicherheit wurde nach Gleichung \ref{eq:kombsu} unter Berücksichtigung der Ableseungenauigkeit($\SI{0.02}{mm}$)  und der statistischen Unsicherheit berechnet, die Ergebnisse sind in Tabelle \ref{tab:datafall} notiert.
+Mit den Messwerten aus Tabelle \ref{tab:datafall} folgt aus den Gleichungen \ref{eq:Jfall} und \ref{eq:uJfall} bezüglich der Symmetrieachse $J_s=\SI{0.003702 \pm 0.000008}{kg\cdot m^2}$. Der relative Fehler ist $\frac{\Delta J_s}{J_s}=0.2\%$. 
 
 
 
 \begin{table}
+	\centering
 	\caption{Abmessungen des Fallrades}
 	\begin{tabular}{|l|c|}
 	\hline 
@@ -45,10 +48,6 @@ J_s=\frac{M \left(2 H_{S} \left(\frac{H_{A} R_{A}^{4}}{2} + \frac{H_{S}^{2} R_{S
 \end{tabular}
 \label{tab:datafall} 
 \end{table}
-
-
-
-Mit den Messwerten aus Tabelle \ref{tab:datafall} folgt aus den Gleichungen \ref{eq:Jfall} und \ref{eq:uJfall} bezüglich der Symmetrieachse $J=\SI{0.003702 \pm 0.000008}{kg\cdot m^2}$. Der relative Fehler ist $\frac{\Delta J}{J}=0.2\%$. 
 
 
 
