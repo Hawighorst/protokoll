@@ -7,13 +7,13 @@
 \contentsline {subsection}{\numberline {2.2}Daten und Analyse}{3}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {2.2.1}Bestimmung Tr\IeC {\"a}gheitsmoment im Schwerpunkt}{3}{subsubsection.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.2}Bestimmung der effektiven Beschleunigung}{4}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.3}Vergleich der Abrollradien}{5}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.3}Vergleich der Abrollradien}{6}{subsubsection.2.2.3}
 \contentsline {section}{\numberline {3}Kreisel}{6}{section.3}
 \contentsline {subsection}{\numberline {3.1}Methoden}{6}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Unsicherheiten Kreisel}{7}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.2}Unsicherheiten des Kreisel}{8}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}Daten und Analyse}{9}{subsection.3.3}
-\contentsline {section}{\numberline {4}Schlussfolgerung}{12}{section.4}
-\contentsline {section}{\numberline {A}Anhang}{13}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Programme}{13}{subsection.A.1}
-\contentsline {subsection}{\numberline {A.2}Verwendete Gleichungen}{13}{subsection.A.2}
-\contentsline {section}{\nonumberline Literatur}{14}{section*.14}
+\contentsline {section}{\numberline {4}Schlussfolgerung}{13}{section.4}
+\contentsline {section}{\numberline {A}Anhang}{14}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Verwendete Programme}{14}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Verwendete Gleichungen}{14}{subsection.A.2}
+\contentsline {section}{\nonumberline Literatur}{15}{section*.14}
