@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  14 JAN 2018 14:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  14 JAN 2018 14:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2062,14 +2062,14 @@ Package babel Info: Redefining ngerman shorthand "~
 [1
 
 ]
-<"auswertung/Auswertung Innenwiderstand/Batterie Gesamt P".pdf, id=86, 722.7pt 
+<"auswertung/Auswertung Innenwiderstand/Batterie Gesamt P".pdf, id=82, 722.7pt 
 x 433.62pt>
 File: "auswertung/Auswertung Innenwiderstand/Batterie Gesamt P".pdf Graphic fil
 e (type pdf)
 
 <use "auswertung/Auswertung Innenwiderstand/Batterie Gesamt P".pdf>
 Package pdftex.def Info: "auswertung/Auswertung Innenwiderstand/Batterie Gesamt
- P".pdf used on input line 62.
+ P".pdf used on input line 54.
 (pdftex.def)             Requested size: 403.31511pt x 241.99187pt.
 
 
@@ -2157,11 +2157,11 @@ Package logreq Info: Writing requests to 'protokoll.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40776 strings out of 494187
- 782740 string characters out of 6159430
- 1354887 words of memory out of 5000000
+ 40778 strings out of 494187
+ 782760 string characters out of 6159430
+ 1355887 words of memory out of 5000000
  43519 multiletter control sequences out of 15000+600000
- 105662 words of font info for 115 fonts, out of 8000000 for 9000
+ 105745 words of font info for 116 fonts, out of 8000000 for 9000
  402 hyphenation exceptions out of 8191
  68i,20n,106p,10401b,2131s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2017/tex
@@ -2179,7 +2179,7 @@ t/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb
 ><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2017/
 texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on protokoll.pdf (7 pages, 330426 bytes).
+Output written on protokoll.pdf (7 pages, 330690 bytes).
 PDF statistics:
  298 PDF objects out of 1000 (max. 8388607)
  167 compressed objects within 2 object streams

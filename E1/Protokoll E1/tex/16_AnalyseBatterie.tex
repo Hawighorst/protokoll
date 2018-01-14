@@ -33,7 +33,7 @@ Aus den Messpunkten $U(R_a)$ folgt mit dem Ohmschen Gesetz \cref{fig:batt-ges-u}
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.9\linewidth]{"auswertung/Auswertung Innenwiderstand/Batterie Gesamt U"}
-	\caption{Spannungsverläufe der Monozelle $U_E$, der Parallelschaltung von drei Monozellen $U_P$ und der Reihenschaltung von drei Monozellen $U_R$ in Abhängigkeit der Stromstärke $I$.}
+	\caption{Spannungsverläufe der Monozelle~$U_E$, der Parallelschaltung von drei Monozellen~$U_P$ und der Reihenschaltung von drei Monozellen~$U_R$ in Abhängigkeit der Stromstärke~$I$.}
 	\label{fig:batt-ges-u}
 \end{figure}
 
@@ -47,15 +47,7 @@ Aus den Messpunkten $U(R_a)$ folgt mit dem Ohmschen Gesetz \cref{fig:batt-ges-u}
 
 
 \FloatBarrier
-
-
 %Leistung
-In analoger Weise zu \cref{fig:batt-ges-u} wurde \cref{fig:batt-ges-p} erstellt. Die Leistung am äußeren Widerstand beträgt 
-\begin{align}
- P &=\frac{U_{Kl}^2}{R_a} \label{eq:puk}\\
- &= U_0^2 \frac{R_a}{(R_a+R_i)^2} \label{eq:pu0}.
-\end{align} 
-Gleichung~\ref{eq:puk} wurde verwendet um die Leistungen zu berechnen, die Ausgleichskurve wurde nach Gleichung~\ref{eq:pu0} erstellt.
 
 \begin{figure}[h]
 	\centering
@@ -84,3 +76,13 @@ Gleichung~\ref{eq:puk} wurde verwendet um die Leistungen zu berechnen, die Ausgl
 	\label{tab:batt-U-P}
 	
 \end{table}
+
+
+%In analoger Weise zu \cref{fig:batt-ges-u} wurde \cref{fig:batt-ges-p} erstellt. 
+Die Leistung am äußeren Widerstand ist gegeben durch 
+\begin{align}
+ P &=\frac{U_{Kl}^2}{R_a} \label{eq:puk}\\
+ &= U_0^2 \frac{R_a}{(R_a+R_i)^2} \label{eq:pu0}.
+\end{align} 
+Gleichung~\ref{eq:puk} wurde verwendet um die Leistungen zu berechnen, die Ausgleichskurve wurde nach Gleichung~\ref{eq:pu0} erstellt.
+Die Werte für $U_0$ und $R_i$ ergeben sich aus der Ausgleichskurve und sind in \cref{tab:batt-U-P} dargestellt. Die Maximale Leistung ergibt sich, bedingt durch den gewählten Ansatz in Gleichung~\ref{eq:pu0}, für $R_a=R_i$. 
