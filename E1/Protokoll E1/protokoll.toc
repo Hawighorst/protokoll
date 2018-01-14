@@ -2,7 +2,10 @@
 \defcounter {refsection}{0}\relax 
 \select@language {ngerman}
 \contentsline {section}{\numberline {1}Zusammenfassung}{1}{section.1}
-\contentsline {section}{\numberline {2}Schlussfolgerung}{1}{section.2}
-\contentsline {section}{\numberline {A}Anhang}{2}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{2}{subsection.A.1}
-\contentsline {section}{\nonumberline Literatur}{3}{section*.2}
+\contentsline {section}{\numberline {2}Innenwiederstand einer Batterie}{1}{section.2}
+\contentsline {subsection}{\numberline {2.1}Methoden}{1}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Daten und Analyse}{1}{subsection.2.2}
+\contentsline {section}{\numberline {3}Schlussfolgerung}{3}{section.3}
+\contentsline {section}{\numberline {A}Anhang}{4}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{4}{subsection.A.1}
+\contentsline {section}{\nonumberline Literatur}{5}{section*.4}
