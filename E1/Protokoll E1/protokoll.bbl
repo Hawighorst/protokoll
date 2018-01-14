@@ -19,7 +19,7 @@
 
 \refsection{0}
   \sortlist[entry]{nty/global/}
-    \entry{anleitung-ss2015}{manual}{}
+    \entry{lw}{online}{}
       \name{author}{2}{}{%
         {{hash=6f6719d0c6c2cf792aa79a0a1b189be2}{%
            family={Donath},
@@ -32,12 +32,6 @@
            given={Anke},
            giveni={A\bibinitperiod}}}%
       }
-      \list{organization}{1}{%
-        {Westfälische Wilhelms-Universität Münster}%
-      }
-      \list{publisher}{1}{%
-        {Physikalisches Institut}%
-      }
       \strng{namehash}{54f9f8b49fa093177cf5f3dc99c08730}
       \strng{fullhash}{54f9f8b49fa093177cf5f3dc99c08730}
       \strng{authornamehash}{54f9f8b49fa093177cf5f3dc99c08730}
@@ -46,9 +40,15 @@
       \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{Auflage Sommersemester 2015}
-      \field{title}{Anleitung zu den Experimentellen Übungen zur Optik, Wärmelehre und Atomphysik}
-      \field{year}{2015}
+      \field{title}{Begleitkurs zu den Experientellen Übungen I}
+      \field{urlday}{13}
+      \field{urlmonth}{1}
+      \field{urlyear}{2018}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://sso.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=28561
+      \endverb
     \endentry
   \endsortlist
 \endrefsection
