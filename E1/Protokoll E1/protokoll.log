@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  14 JAN 2018 11:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.21)  14 JAN 2018 14:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./protokoll.tex
 (./protokoll.tex
 LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 41 language(s) loaded.
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2017/04/13 v3.23 KOMA-Script document class (article)
 (c:/texlive/2017/texmf-dist/tex/latex/koma-script/scrkbase.sty
@@ -2035,7 +2035,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 
-<"auswertung/Auswertung Innenwiderstand/Batterie Gesamt U".pdf, id=64, 722.7pt 
+<"auswertung/Auswertung Innenwiderstand/Batterie Gesamt U".pdf, id=79, 722.7pt 
 x 433.62pt>
 File: "auswertung/Auswertung Innenwiderstand/Batterie Gesamt U".pdf Graphic fil
 e (type pdf)
@@ -2049,7 +2049,7 @@ Package pdftex.def Info: "auswertung/Auswertung Innenwiderstand/Batterie Gesamt
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<"auswertung/Auswertung Innenwiderstand/Batterie Gesamt P".pdf, id=65, 722.7pt 
+<"auswertung/Auswertung Innenwiderstand/Batterie Gesamt P".pdf, id=80, 722.7pt 
 x 433.62pt>
 File: "auswertung/Auswertung Innenwiderstand/Batterie Gesamt P".pdf Graphic fil
 e (type pdf)
@@ -2062,29 +2062,28 @@ Package pdftex.def Info: "auswertung/Auswertung Innenwiderstand/Batterie Gesamt
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./tex/11_MethodenSpuleKondensator.tex) (./tex/12_AnalyseSpule.tex)
-(./tex/13AnalyseKondesator.tex) (./tex/19_Fazit.tex
-Package cleveref Info: loaded `ngerman' language definitions on input line 3.
+) (./tex/11_MethodenSpule.tex
+Package cleveref Info: loaded `ngerman' language definitions on input line 1.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 1.
  [1
 
 ]
-Package cleveref Info: loaded `ngerman' language definitions on input line 3.
+Package cleveref Info: loaded `ngerman' language definitions on input line 1.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 1.
  [2 <./auswertung/Auswertung Innenwiderstand/Batterie Gesamt U.pdf> <./auswertu
 ng/Auswertung Innenwiderstand/Batterie Gesamt P.pdf
 
@@ -2093,96 +2092,200 @@ erie Gesamt P.pdf): PDF inclusion: multiple pdfs with page group included in a
 single page
 >]
 Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 4.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 4.
+
+
+LaTeX Warning: Reference `label' on page 3 undefined on input line 5.
+
+) (./tex/13_AnalyseSpule.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+ <res/UgegenI_GL.pdf, id=219, 722.7pt x 433.62pt>
+File: res/UgegenI_GL.pdf Graphic file (type pdf)
+
+<use res/UgegenI_GL.pdf>
+Package pdftex.def Info: res/UgegenI_GL.pdf used on input line 4.
+(pdftex.def)             Requested size: 403.31511pt x 241.99187pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 5.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<res/UgegenI_W.pdf, id=220, 722.7pt x 433.62pt>
+File: res/UgegenI_W.pdf Graphic file (type pdf)
+ <use res/UgegenI_W.pdf>
+Package pdftex.def Info: res/UgegenI_W.pdf used on input line 10.
+(pdftex.def)             Requested size: 403.31511pt x 241.99187pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<res/PgegenUI.pdf, id=221, 722.7pt x 433.62pt>
+File: res/PgegenUI.pdf Graphic file (type pdf)
+ <use res/PgegenUI.pdf>
+Package pdftex.def Info: res/PgegenUI.pdf used on input line 16.
+(pdftex.def)             Requested size: 403.31511pt x 241.99187pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package cleveref Info: loaded `ngerman' language definitions on input line 33.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 33.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 33.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 33.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 33.
+[3
+
+]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./tex/12_MethodenKondensator.tex) (./tex/14_AnalyseKondesator.tex)
+(./tex/19_Fazit.tex
+Package cleveref Info: loaded `ngerman' language definitions on input line 3.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+ [4 <./res/UgegenI_GL.pdf>]
+Package cleveref Info: loaded `ngerman' language definitions on input line 3.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+ [5 <./res/UgegenI_W.pdf>]
+Package cleveref Info: loaded `ngerman' language definitions on input line 3.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+
+[6 <./res/PgegenUI.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 3.
 )
-Package cleveref Info: loaded `ngerman' language definitions on input line 87.
+Package cleveref Info: loaded `ngerman' language definitions on input line 88.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 87.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 87.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 87.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 87.
- [3
+(babel)             in language  on input line 88.
+ [7
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 87.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 87.
+(babel)             in language  on input line 88.
  (./tex/20_Anhang.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 3.
 )
-Package cleveref Info: loaded `ngerman' language definitions on input line 93.
+Package cleveref Info: loaded `ngerman' language definitions on input line 94.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 93.
- [4
+(babel)             in language  on input line 94.
+ [8
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 93.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
-Package cleveref Info: loaded `ngerman' language definitions on input line 95.
+(babel)             in language  on input line 94.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
+Package cleveref Info: loaded `ngerman' language definitions on input line 96.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 95.
- [5
+(babel)             in language  on input line 96.
+ [9
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
  (./protokoll.aux
 Package cleveref Info: loaded `ngerman' language definitions on input line 27.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 96.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 96.
 Package rerunfilecheck Info: File `protokoll.out' has not changed.
-(rerunfilecheck)             Checksum: 7F4B3CEAE869B18305A150EEEA44AD3D;1024.
+(rerunfilecheck)             Checksum: D0FDD5214A2B51C7AE6C1B9EB7E5C281;1389.
+
+
+LaTeX Warning: There were undefined references.
+
 Package logreq Info: Writing requests to 'protokoll.run.xml'.
 \openout1 = `protokoll.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40698 strings out of 494187
- 781607 string characters out of 6159430
- 1350290 words of memory out of 5000000
- 43473 multiletter control sequences out of 15000+600000
- 81895 words of font info for 88 fonts, out of 8000000 for 9000
- 402 hyphenation exceptions out of 8191
- 68i,19n,106p,10401b,2135s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40824 strings out of 492995
+ 783547 string characters out of 6136401
+ 1358745 words of memory out of 5000000
+ 43724 multiletter control sequences out of 15000+600000
+ 106113 words of font info for 118 fonts, out of 8000000 for 9000
+ 1145 hyphenation exceptions out of 8191
+ 68i,20n,106p,10401b,2139s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2017/tex
-mf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvip
-s/lm/lm-mathit.enc}<c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
-><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2017/
-texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2017/texmf-dist/fonts/t
-ype1/public/lm/lmmi8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr1
-2.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2
-017/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2017/texmf-dist/fonts
-/type1/public/lm/lmri12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/l
-mro12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/te
-xlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on protokoll.pdf (7 pages, 262123 bytes).
+mf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2017/texmf-dist/fonts/enc/
+dvips/lm/lm-mathex.enc}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
+}{c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}<c:/texlive/2017/
+texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/t
+ype1/public/lm/lmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lme
+x10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texliv
+e/2017/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2017/texmf-dist/
+fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/
+lm/lmr10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/te
+xlive/2017/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2017/texmf-di
+st/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/publi
+c/lm/lmri12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmro12.pfb><c
+:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2017/t
+exmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/ty
+pe1/public/lm/lmtt12.pfb>
+Output written on protokoll.pdf (11 pages, 354235 bytes).
 PDF statistics:
- 265 PDF objects out of 1000 (max. 8388607)
- 138 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 28747 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 469 PDF objects out of 1000 (max. 8388607)
+ 227 compressed objects within 3 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 36466 words of extra memory for PDF output out of 42996 (max. 10000000)
 

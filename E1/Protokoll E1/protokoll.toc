@@ -5,7 +5,10 @@
 \contentsline {section}{\numberline {2}Innenwiederstand einer Batterie}{1}{section.2}
 \contentsline {subsection}{\numberline {2.1}Methoden}{1}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Daten und Analyse}{1}{subsection.2.2}
-\contentsline {section}{\numberline {3}Schlussfolgerung}{3}{section.3}
-\contentsline {section}{\numberline {A}Anhang}{4}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{4}{subsection.A.1}
-\contentsline {section}{\nonumberline Literatur}{5}{section*.4}
+\contentsline {section}{\numberline {3}Eigenschaften einer Spule}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Methoden}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Analyse}{3}{subsection.3.2}
+\contentsline {section}{\numberline {4}Schlussfolgerung}{7}{section.4}
+\contentsline {section}{\numberline {A}Anhang}{8}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{8}{subsection.A.1}
+\contentsline {section}{\nonumberline Literatur}{9}{section*.8}
