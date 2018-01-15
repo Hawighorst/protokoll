@@ -35,7 +35,21 @@ $A_{eff}=\sqrt{\frac{1}{T}\int_{0}^{T} A^2(t)dt}$\\
 Für $A(t)=I_0\sin (\omega t)$:
 \begin{align*}
 	I_{eff}&=\sqrt{\frac{1}{T}\int_{0}^{T} A^2(t)dt}	\\
-		   &=\sqrt{\frac{\omega}{2\pi}I_0^2\sin^2 (\omega t)\text{d}t}\\
-		   &=I_0\sqrt{\frac{\omega}{2\pi}\left[  \frac{\sin(\omega)\cos(\omega)}{4\omega}+\frac{t}{2} \right]_0^{\frac{\pi}{\omega}}\text{d}t}\\
-		   &=I_0\sqrt{\frac{\pi}{\omega}}
+		   &=\sqrt{\frac{\omega}{2\pi}\int_{0}^{\frac{2\pi}{\omega}}I_0^2\sin^2 (\omega t)\text{d}t}\\
+		   &=I_0\sqrt{\frac{\omega}{2\pi}\left[  \frac{-\sin(\omega)\cos(\omega)}{4\omega}+\frac{t}{2} \right]_0^{\frac{2\pi}{\omega}}\text{d}t}\\
+		   &=I_0\sqrt{\frac{1}{2}}
 \end{align*}
+\subsection{Unsicherheiten}\label{kap:Unsich}
+Kapazität $C$:
+\begin{align*}
+	u(C)=\frac{1}{\omega} \sqrt{\frac{- R^{2} u(R)^{2} - Z^{2} u(Z)^{2} + \omega^2 u(L)^{2} \left(R^{2} - Z^{2}\right)}{\left(R^{2} - Z^{2}\right) \left(\omega L + \sqrt{- R^{2} + Z^{2}}\right)^{4}}}	
+\end{align*}
+Induktivität $L$:
+\begin{align*}
+	u(L)=\frac{1}{\omega} \sqrt{\frac{- R^{2} u(R)^{2} - Z^{2} u(Z)^{2}}{R^{2} - Z^{2}}}
+\end{align*}
+Phasenwinkel $\phi$: 
+\begin{align*}
+	u(\phi)=\sqrt{\frac{-u\left(\frac{\Delta P}{\Delta UI}\right)^2}{\phi^2-1}}
+\end{align*}
+Werte die sich aus  den Steigungen der Abbildungen entnehmen lassen, sind auch mit der Unsicherheit dieser Anpassung versehen.
