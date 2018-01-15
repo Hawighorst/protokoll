@@ -1,4 +1,4 @@
-\subsection{Analyse von Schaltkreis b)}\ref{kap:Spule}
+\subsection{Analyse von Schaltkreis b)}\label{kap:Spule}
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.9\textwidth]{res/UgegenI_GL.pdf}
@@ -19,25 +19,27 @@
 \end{figure}
 Die gemessenen Werte wurden in den Abbildungen \ref{fig:UgegenIw},\ref{fig:UgegenIgl} und \ref{fig:PgegenUI} dargestellt.
 Die für die weitere Auswertung wichtigen Gleichungen lauten:
+\begin{itemize}
+ \item Für Wechselstrom mit $\omega=2\pi \cdot \SI{50}{Hz}.$:
 \begin{align}
-	|Z|=\sqrt{R_W + \omega^2L^2}\\
-	L=\frac{\sqrt{|Z|^2-R^2}}{\omega}\\
+	|Z&|=\sqrt{R_W + \omega^2L^2}\\
+	L&=\frac{\sqrt{|Z|^2-R^2}}{\omega}\\
 	\label{eq:Indukt}
-	|Z|=\frac{U_{eff.}}{I_{eff.}}\\
-	\phi = \arccos\left(\frac{\bar{P}}{U_{eff.}I_{eff.}}\right)\\
-	R_W=|Z|\cdot \cos(\phi)	\label{eq:R_W}.
+	|Z|&=\frac{U_{eff.}}{I_{eff.}}\\
+	\phi &= \arccos\left(\frac{\bar{P}}{U_{eff.}I_{eff.}}\right)\\
+	R_W&=|Z|\cdot \cos(\phi)	\label{eq:R_W}.
 \end{align}
-(Alle oben genannten Gleichungen Gelten für Wechselstrom mit $\omega=2\pi \cdot \SI{50}{Hz}.$)
+\item Für Gleichstrom:
 \begin{align}
 	R_i=\frac{U}{I}
 \end{align}
-(Gilt für Gleichstrom.)\\
-Entnimmt man die Steigungen aus den Abbildungen \ref{fig:UgegenIw},\ref{fig:UgegenIgl} und \ref{fig:PgegenUI} und setzt sie in die oben genannten Gleichungen ein so erhält man die unten zu sehenden Werte. Hierbei wurde jedoch in Gleichung \ref{eq:Indukt} $R_i$ eingesetzt, da $R_i$ direkt aus der Steigung der Abb. \ref{fig:UgegenIgl} bagelesen wurde während $R_W$ durch Gleichung \ref{eq:R_W} berechnet werden musste. Vergleicht man die beiden Werte von $R_w$ und $R_i$ miteinander so erkennt man das  $R_W$ in der $2\sigma$-Umgebung von $R_i$ liegt. 
+\end{itemize}
+Entnimmt man die Steigungen aus den Abbildungen \ref{fig:UgegenIw},\ref{fig:UgegenIgl} und \ref{fig:PgegenUI} und setzt sie in die oben genannten Gleichungen ein, so erhält man die unten zu sehenden Werte. Hierbei wurde jedoch in Gleichung \ref{eq:Indukt} $R_i$ eingesetzt, da $R_i$ direkt aus der Steigung der Abb. \ref{fig:UgegenIgl} abgelesen wurde während $R_W$ durch Gleichung \ref{eq:R_W} berechnet werden musste. Vergleicht man die beiden Werte von $R_w$ und $R_i$ miteinander so erkennt man das  $R_W$ in der $2\sigma$-Umgebung von $R_i$ liegt. 
 
 \begin{align}
 		Z &= \SI{29.4+-0.4}{\ohm}\\
 		\phi &= \SI{0.7548+-0.0003}{rad}\\
 		R_W &= \SI{21.4+-0.3}{\ohm}\\
 		R_i &= \SI{22.7+-0.8}{\ohm}\\
-		L &= \SI{0,060+-0,004}{H}\\
+		L &= \SI{0,060+-0,004}{H}
 \end{align}
