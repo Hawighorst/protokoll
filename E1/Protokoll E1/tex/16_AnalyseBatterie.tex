@@ -1,7 +1,7 @@
 \subsection{Daten und Analyse}
 
 
-Aus den Messpunkten $U(R_a)$ folgt mit dem Ohmschen Gesetz \cref{fig:batt-ges-u}. Aus $U_{Kl}=U_0-R_a I$ folgt, dass die Steigung des Ausgleichsgerade dem negativen des Innenwiderstandes entspricht. Ohne Stromfluss gilt $U_0=U_{Kl}$, deswegen entspricht der Y-Achsenabschnitt der Leerlaufspannung $U_0$ der "idealen Spannungsquelle" \cite{lw}. Die aus den Parametern der Anpassungsgerade gefundenen Werte sind in \cref{tab:batt-U-R} dargestellt.
+Aus den Messpunkten $U(R_a)$ folgt mit dem Ohmschen Gesetz \cref{fig:batt-ges-u}. Mit $U_{Kl}=U_0-R_a I$ folgt, dass die Steigung des Ausgleichsgerade dem negativen des Innenwiderstandes entspricht. Ohne Stromfluss gilt $U_0=U_{Kl}$, deswegen entspricht der Y-Achsenabschnitt der Leerlaufspannung $U_0$ der "idealen Spannungsquelle" \cite{lw}. Die aus den Parametern der Anpassungsgerade gefundenen Werte sind in \cref{tab:batt-U-R} dargestellt.
 
 
 
@@ -85,15 +85,17 @@ Die Leistung am äußeren Widerstand ist gegeben durch
  &= U_0^2 \frac{R_a}{(R_a+R_i)^2} \label{eq:pu0}.
 \end{align} 
 Gleichung~\ref{eq:puk} wurde verwendet um die Leistungen zu berechnen, die Ausgleichskurve wurde nach Gleichung~\ref{eq:pu0} erstellt.
-Die Werte für $U_0$ und $R_i$ ergeben sich aus der Ausgleichskurve und sind in \cref{tab:batt-U-P} dargestellt. Die Maximale Leistung ergibt sich, bedingt durch den gewählten Ansatz in Gleichung~\ref{eq:pu0}, für $R_a=R_i$. 
+Die Werte für $U_0$ und $R_i$ ergeben sich aus der Ausgleichskurve und sind in \cref{tab:batt-U-P} dargestellt. Die Maximale Leistung ergibt sich, bedingt durch den gewählten Ansatz in Gleichung~\ref{eq:pu0}, für $R_a=R_i$.\\
 
 
 
 
 
 
-%Reflektion
-%R_i nach beschrieftung \SI{18}{\ohm}
-%Unterschiede im Toleranzramen?
-%Theoriewerte
-%Ri eigentlich größenordnung 1 Ohm
+
+Die Werte aus den Tabellen~\ref{tab:batt-U-R} und \ref{tab:batt-U-P} sind in sich, innerhalb der  $2\sigma$-Umgebung konsistent. 
+Die theoretische Vorhersage, dass die Spannungen $U_E$ und $U_P$ gleich sind wird ebenfalls bestätigt. Die Leerlaufspannung $U_R$ entspricht im Rahmen der Unsicherheiten dem Erwartungwert $3U_E$, mögliche Ursache für die stärkeren Abweichungen, als bei den vorherigen Messwerten, könnte ein unterschiedliche Leerlaufspannungen der einzelnen Batterien, bedingt durch vorherige Verwendung sein. Aus den Regeln zur Berechnung von Ersatzwiderständen folgen: $R_P=\frac{R_E}{3}$ und $R_R=3R_E$.
+Die gemessenen Widerstände bestätigen, innerhalb der $2\sigma$-Umgebung, die theoretischen Erwartungen und sind in sich konsistent. Die Größenordnung der Widerstände ist plausibel, da der vorgeschaltete "Innenwiderstand" laut Hersteller $\SI{18.0+-1.8}{\ohm}$ und der tatsächliche Innenwiderstand in der Regel  deutlich unter $\SI{1}{\ohm}$ liegt. %Quelle!!!
+
+
+
