@@ -1,6 +1,5 @@
 \subsection{Analyse} 
 
-In \cref{fig:widerstand-r2} ist zu erkennen, dass Spannung und Stromstärke proportional zueinander sind. Die Steigung der Ausglichsgeraden gibt den Widerstand an. Bei Gleichstrom betrug der Wiederstand \SI{27.8+-0.7}{\ohm}, bei Wechselstrom \SI{26.1+- 0.5}{\ohm}. Der Wiederstand hat laut Hersteller \SI{27}{\ohm}. Folglich stimmen alle drei Angaben im Rahmen des $2\sigma-$Intervalls überein.
 
 
 \begin{figure}[h]
@@ -11,8 +10,20 @@ In \cref{fig:widerstand-r2} ist zu erkennen, dass Spannung und Stromstärke prop
 \end{figure}
 
 
-In \cref{fig:widerstand-r2} ist zu erkennen, dass Spannung und Stromstärke proportional zueinander sind. Die Steigung der Ausglichsgeraden gibt den Widerstand an. Bei Gleichstrom betrug der Wiederstand \SI{27.8+-0.7}{\ohm}, bei Wechselstrom \SI{26.1+- 0.5}{\ohm}. Der Wiederstand hat laut Hersteller \SI{27}{\ohm}. Folglich stimmen alle drei Angaben im Rahmen des $2\sigma-$Intervalls überein.
 
+\begin{figure}
+	\centering
+	\includegraphics[width=0.9\linewidth]{"auswertung/Auswertung Innenwiderstand/WiderstandR2 A"}
+	\caption{Widerstand $R=\frac{U}{I}$ gegen Spannung $U$ bei Gleich- bzw. Wechselstrom.}
+	\label{fig:widerstandr2-a}
+\end{figure}
+
+
+In \cref{fig:widerstand-r2} ist zu erkennen, dass Spannung und Stromstärke proportional zueinander sind. Die Steigung der Ausgleichsgeraden gibt den Widerstand an. Bei Gleichstrom betrug der Widerstand \SI{27.8+-0.7}{\ohm}, bei Wechselstrom \SI{26.1+- 0.5}{\ohm}. Der Widerstand hat laut Hersteller \SI{27}{\ohm}. Folglich stimmen alle drei Angaben im Rahmen des $2\sigma-$Intervalls überein. Um die Abweichungen detailierter betrachten zu können, sind die Widerstände $R_a$ in \cref{fig:widerstandr2-a} gegen die Spannung $U$ aufgetragen. Zu erkennen ist, dass die ersten Messpunkte jeweils unterhalb des Mittelwertes lagen, dies lässt vermuten dass der Widerstand bei Beginn der Messung noch kälter war. Der Messpunkt bei  $U_{eff}= \SI{10}{V}$ ist auf einen groben Fehler bei der Messung oder Laborbuchführung zurückzuführen.\\
+
+
+
+%Leistung
 
 
 
@@ -20,6 +31,26 @@ In \cref{fig:widerstand-r2} ist zu erkennen, dass Spannung und Stromstärke prop
 \begin{figure}
 	\centering
 	\includegraphics[width=0.9\linewidth]{"auswertung/Auswertung Innenwiderstand/Leistung 2"}
-	\caption{}
+	\caption{Zusammenhang zwischen Leistung $P$ und dem Produkt aus Spannung und Stromstärke $UI$ für Gleich- und Wechselstrom.}
 	\label{fig:leistung-r2}
 \end{figure}
+
+
+
+
+Die Leistung ist bei Gleichstrom definiert als $P=UI$ folglich sollte die Steigung der Ausgleichsgeraden eins sein. Die Anpassung beziffert die Steigung der Ausgleichsgeraden für Gleichstrom in \cref{fig:leistung-r2} mit $S_{G}=\SI{ 95.0+-0.8}{\percent}$. Analog gilt für Wechselstrom $P_{eff}=U_{eff}  I_{eff} \cos(\phi)$ mit $\phi=0$, da ein Ohmscher Widerstand verwendet wurde. Die Steigung der Ausgleichsgeraden für Wechselstrom in \cref{fig:leistung-r2} beträgt $S_W=\SI{93.5+-0.8}{\percent}$. Beide Werte weichen um mehr als $6\sigma$ von dem theoretisch vorhergesagten Wert ab. Da jedoch bei der Messung der Leerlaufleistung des Voltmeters festgestellt wurde, dass diese negativ war und mit zunehmender Spannung weiter sank, ist es in sich konsistent, dass die gemessenen Leistungen unterhalb der Erwartungen liegen.
+
+
+
+%Dies lässt vermuten das die Geräte neben der Ableseungenauigkeit weitere Unsicherheiten aufweisen, die jedoch im folgenden nicht berücksichtigt werden können, da weder Herstellerangaben vorlagen, noch die Unsicherheiten einem spezifischen Gerät zugeordnet werden können. %Lassen wir raus weil sonst deine Unsicherheiten neu
+
+
+
+
+
+
+
+
+
+
+
