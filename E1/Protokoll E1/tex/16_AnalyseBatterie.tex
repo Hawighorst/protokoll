@@ -10,15 +10,15 @@ Aus den Messpunkten $U(R_a)$ folgt mit dem Ohmschen Gesetz \cref{fig:batt-ges-u}
 \begin{table}
 	\caption{Leerlaufspannung und Innenwiderstand der Spannungsquellen aus den Kennlinien}
 	\centering
-	\begin{tabular}{|l l||c|c|}
+	\begin{tabular}{|l||c|c|}
 		\hline 
-		Schaltung & Index	& Leerlaufspannung $U_0$ & Innenwiederstand $R_i$ \\ 
+		Schaltung 	& Leerlaufspannung $U_0$ & Innenwiderstand $R_i$ \\ 
 		\hline \hline
-		Einzelne Monozelle	&E& \SI{1.28+-0.01}{V}  & \SI{17.7+-0.4}{\ohm } \\ 
+		Einzelne Monozelle	& \SI{1.28+-0.01}{V}  & \SI{17.7+-0.4}{\ohm } \\ 
 		\hline  
-		Parrallelschaltung	&P& \SI{1.289+-0.003}{V } &\SI{5.99+-0.06}{\ohm }  \\ 
+		Parrallelschaltung	& \SI{1.289+-0.003}{V } &\SI{5.99+-0.06}{\ohm }  \\ 
 		\hline   
-		Reihenschaltung	&R& \SI{4.03+-0.12}{V } &\SI{57+-3}{\ohm }  \\ 
+		Reihenschaltung	& \SI{4.03+-0.12}{V } &\SI{57+-3}{\ohm }  \\ 
 		\hline 
 	\end{tabular} 
 	
@@ -33,7 +33,7 @@ Aus den Messpunkten $U(R_a)$ folgt mit dem Ohmschen Gesetz \cref{fig:batt-ges-u}
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.9\linewidth]{"auswertung/Auswertung Innenwiderstand/Batterie Gesamt U"}
-	\caption{Spannungsverläufe der Monozelle $U_E$, der Parallelschaltung von drei Monozellen $U_P$ und der Reihenschaltung von drei Monozellen $U_R$ in Abhängigkeit der Stromstärke $I$.}
+	\caption{Spannungsverläufe der Monozelle~$U_E$, der Parallelschaltung von drei Monozellen~$U_P$ und der Reihenschaltung von drei Monozellen~$U_R$ in Abhängigkeit der Stromstärke~$I$.}
 	\label{fig:batt-ges-u}
 \end{figure}
 
@@ -47,15 +47,7 @@ Aus den Messpunkten $U(R_a)$ folgt mit dem Ohmschen Gesetz \cref{fig:batt-ges-u}
 
 
 \FloatBarrier
-
-
 %Leistung
-In analoger Weise zu \cref{fig:batt-ges-u} wurde \cref{fig:batt-ges-p} erstellt. Die Leistung am äußeren Widerstand beträgt 
-\begin{align}
- P &=\frac{U_{Kl}^2}{R_a} \label{eq:puk}\\
- &= U_0^2 \frac{R_a}{(R_a+R_i)^2} \label{eq:pu0}.
-\end{align} 
-Gleichung~\ref{eq:puk} wurde verwendet um die Leistungen zu berechnen, die Ausgleichskurve wurde nach Gleichung~\ref{eq:pu0} erstellt.
 
 \begin{figure}[h]
 	\centering
@@ -69,18 +61,39 @@ Gleichung~\ref{eq:puk} wurde verwendet um die Leistungen zu berechnen, die Ausgl
 \begin{table}
 	\caption{Leerlaufspannung und Innenwiderstand der Spannungsquellen aus der Leistung}
 	\centering
-	\begin{tabular}{|l l||c|c|}
+	\begin{tabular}{|l||c|c|}
 		\hline 
-		Schaltung & Index	& Leerlaufspannung $U_0$ & Innenwiederstand $R_i$ \\ 
+		Schaltung & Leerlaufspannung $U_0$ & Innenwiderstand $R_i$ \\ 
 		\hline \hline
-		Einzelne Monozelle	&E& \SI{1.27+-0.02}{V}  & \SI{17.6+-0.6}{\ohm } \\ 
+		Einzelne Monozelle	& \SI{1.27+-0.02}{V}  & \SI{17.6+-0.6}{\ohm } \\ 
 		\hline  
-		Parrallelschaltung	&P& \SI{1.282+-0.007}{V } &\SI{5.91+-0.09}{\ohm }  \\ 
+		Parrallelschaltung	& \SI{1.282+-0.007}{V } &\SI{5.91+-0.09}{\ohm }  \\ 
 		\hline   
-		Reihenschaltung	&R& \SI{4.26+-0.21}{V } &\SI{63+-5}{\ohm }  \\ 
+		Reihenschaltung	& \SI{4.26+-0.21}{V } &\SI{63+-5}{\ohm }  \\ 
 		\hline 
 	\end{tabular} 
 	
 	\label{tab:batt-U-P}
 	
 \end{table}
+
+
+%In analoger Weise zu \cref{fig:batt-ges-u} wurde \cref{fig:batt-ges-p} erstellt. 
+Die Leistung am äußeren Widerstand ist gegeben durch 
+\begin{align}
+ P &=\frac{U_{Kl}^2}{R_a} \label{eq:puk}\\
+ &= U_0^2 \frac{R_a}{(R_a+R_i)^2} \label{eq:pu0}.
+\end{align} 
+Gleichung~\ref{eq:puk} wurde verwendet um die Leistungen zu berechnen, die Ausgleichskurve wurde nach Gleichung~\ref{eq:pu0} erstellt.
+Die Werte für $U_0$ und $R_i$ ergeben sich aus der Ausgleichskurve und sind in \cref{tab:batt-U-P} dargestellt. Die Maximale Leistung ergibt sich, bedingt durch den gewählten Ansatz in Gleichung~\ref{eq:pu0}, für $R_a=R_i$. 
+
+
+
+
+
+
+%Reflektion
+%R_i nach beschrieftung \SI{18}{\ohm}
+%Unterschiede im Toleranzramen?
+%Theoriewerte
+%Ri eigentlich größenordnung 1 Ohm
