@@ -4,31 +4,17 @@
 \contentsline {section}{\numberline {1}Zusammenfassung}{1}{section.1}
 \contentsline {section}{\numberline {2}Innenwiderstand einer Batterie}{1}{section.2}
 \contentsline {subsection}{\numberline {2.1}Methoden}{1}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Daten und Analyse}{1}{subsection.2.2}
-<<<<<<< HEAD
-\contentsline {section}{\numberline {3}Leistungsaufname eines Wiederstandes}{3}{section.3}
-\contentsline {subsection}{\numberline {3.1}Methoden}{4}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Analyse}{4}{subsection.3.2}
-\contentsline {section}{\numberline {4}Eigenschaften mehrerer Schaltungen}{5}{section.4}
-\contentsline {subsection}{\numberline {4.1}Methoden}{6}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Analyse von Schaltkreis b)}{6}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Analyse von Schaltkreis c)}{9}{subsection.4.3}
-\contentsline {section}{\numberline {5}Schlussfolgerung}{10}{section.5}
-\contentsline {section}{\numberline {A}Anhang}{11}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{11}{subsection.A.1}
-\contentsline {subsection}{\numberline {A.2}Gleichungen aus der Einf\IeC {\"u}hrung}{11}{subsection.A.2}
-\contentsline {subsection}{\numberline {A.3}Unsicherheiten}{12}{subsection.A.3}
-=======
-\contentsline {section}{\numberline {3}Leistungsaufnahme eines Widerstandes}{4}{section.3}
-\contentsline {subsection}{\numberline {3.1}Methoden}{4}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Analyse}{4}{subsection.3.2}
-\contentsline {section}{\numberline {4}Eigenschaften einer Spule}{6}{section.4}
-\contentsline {subsection}{\numberline {4.1}Methoden}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {2.2}Daten und Analyse}{2}{subsection.2.2}
+\contentsline {section}{\numberline {3}Leistungsaufnahme eines Widerstandes}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Methoden}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Analyse}{5}{subsection.3.2}
+\contentsline {section}{\numberline {4}Eigenschaften mehrerer Schaltungen}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Methoden}{8}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}Analyse von Schaltkreis b)}{8}{subsection.4.2}
 \contentsline {subsection}{\numberline {4.3}Analyse von Schaltkreis c)}{10}{subsection.4.3}
-\contentsline {section}{\numberline {5}Schlussfolgerung}{11}{section.5}
-\contentsline {section}{\numberline {A}Anhang}{12}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{12}{subsection.A.1}
-\contentsline {subsection}{\numberline {A.2}Gleichungen aus der Einf\IeC {\"u}hrung}{12}{subsection.A.2}
-\contentsline {section}{\nonumberline Literatur}{13}{section*.12}
->>>>>>> 99d142138fdf9da97649e799295528f9bc7e4e33
+\contentsline {section}{\numberline {5}Schlussfolgerung}{13}{section.5}
+\contentsline {section}{\numberline {A}Anhang}{14}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Verwendete Gleichungen}{14}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Gleichungen aus der Einf\IeC {\"u}hrung}{14}{subsection.A.2}
+\contentsline {subsection}{\numberline {A.3}Unsicherheiten}{15}{subsection.A.3}
+\contentsline {section}{\nonumberline Literatur}{16}{section*.14}

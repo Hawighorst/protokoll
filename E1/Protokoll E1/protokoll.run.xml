@@ -41,11 +41,7 @@
   >
 ]>
 <requests version="1.0">
-<<<<<<< HEAD
-  <internal package="biblatex" priority="9" active="1">
-=======
   <internal package="biblatex" priority="9" active="0">
->>>>>>> 99d142138fdf9da97649e799295528f9bc7e4e33
     <generic>latex</generic>
     <provides type="dynamic">
       <file>protokoll.bcf</file>
@@ -66,11 +62,7 @@
       <file>english.lbx</file>
     </requires>
   </internal>
-<<<<<<< HEAD
-  <external package="biblatex" priority="5" active="1">
-=======
   <external package="biblatex" priority="5" active="0">
->>>>>>> 99d142138fdf9da97649e799295528f9bc7e4e33
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
@@ -88,11 +80,8 @@
     <requires type="dynamic">
       <file>protokoll.bcf</file>
     </requires>
-<<<<<<< HEAD
-=======
     <requires type="editable">
       <file>literatur.bib</file>
     </requires>
->>>>>>> 99d142138fdf9da97649e799295528f9bc7e4e33
   </external>
 </requests>
