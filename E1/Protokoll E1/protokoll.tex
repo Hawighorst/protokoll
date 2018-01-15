@@ -52,7 +52,7 @@
 %     eingefügt
 \IfFileExists{tex/04_Titelseite.tex}{
 	\input{tex/04_Titelseite.tex}
-}{}
+i}{}
 
 % --- Inhaltsverzeichnis einbinden
 \ifthenelse{\boolean{showTOC}}{
@@ -69,6 +69,8 @@
 \input{tex/10_Zusammenfassung.tex}
 \input{tex/15_MethodenBatterie.tex}
 \input{tex/16_AnalyseBatterie.tex}
+\input{tex/17_MethodenWiderstand.tex}
+\input{tex/18_AnalyseWiderstand.tex}
 \input{tex/11_MethodenSpule.tex}
 \input{tex/13_AnalyseSpule.tex}
 \input{tex/12_MethodenKondensator.tex}
