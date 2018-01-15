@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  15 JAN 2018 23:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.1)  15 JAN 2018 23:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2389,11 +2389,11 @@ Package logreq Info: Writing requests to 'protokoll.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40974 strings out of 494187
- 786662 string characters out of 6159430
+ 40972 strings out of 494187
+ 786640 string characters out of 6159430
  1356812 words of memory out of 5000000
  43621 multiletter control sequences out of 15000+600000
- 110909 words of font info for 138 fonts, out of 8000000 for 9000
+ 110818 words of font info for 137 fonts, out of 8000000 for 9000
  402 hyphenation exceptions out of 8191
  68i,20n,106p,10401b,2228s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2017/tex
@@ -2415,7 +2415,7 @@ lic/lm/lmri12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
 <c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2017
 /texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmtt12.pfb>
-Output written on protokoll.pdf (15 pages, 459557 bytes).
+Output written on protokoll.pdf (15 pages, 459559 bytes).
 PDF statistics:
  713 PDF objects out of 1000 (max. 8388607)
  348 compressed objects within 4 object streams
