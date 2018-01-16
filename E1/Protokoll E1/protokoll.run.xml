@@ -81,7 +81,7 @@
       <file>protokoll.bcf</file>
     </requires>
     <requires type="editable">
-      <file>literatur.bib</file>
+      <file>res/literatur.bib</file>
     </requires>
   </external>
 </requests>

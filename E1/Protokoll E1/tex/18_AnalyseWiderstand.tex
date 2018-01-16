@@ -1,8 +1,8 @@
-\subsection{Analyse Widerstand} 
+\subsection{Daten und Analyse Widerstand} 
 
 
 
-\begin{figure}[h]
+\begin{figure}
 	\centering
 	\includegraphics[width=0.9\linewidth]{"auswertung/Auswertung Innenwiderstand/Widerstand R2 B"}
 	\caption{Relation von Spannung und Stromstärke an dem Verbrauchswiderstand $R_2$.}
@@ -11,7 +11,7 @@
 
 
 
-\begin{figure}[h]
+\begin{figure}
 	\centering
 	\includegraphics[width=0.9\linewidth]{"auswertung/Auswertung Innenwiderstand/WiderstandR2 A"}
 	\caption{Widerstand $R=\frac{U}{I}$ gegen Spannung $U$ bei Gleich- bzw. Wechselstrom.}
@@ -22,13 +22,13 @@
 In \cref{fig:widerstand-r2} ist zu erkennen, dass Spannung und Stromstärke proportional zueinander sind. Die Steigung der Ausgleichsgeraden gibt den Widerstand an. Bei Gleichstrom beträgt der Widerstand \SI{27.8+-0.7}{\ohm}, bei Wechselstrom \SI{26.1+- 0.5}{\ohm}. Der Widerstand hat laut Hersteller \SI{27}{\ohm}. Folglich stimmen alle drei Angaben im Rahmen des $2\sigma-$Intervalls überein. Um die Abweichungen detaillierter betrachten zu können, sind die Widerstände $R_a$ in \cref{fig:widerstandr2-a} gegen die Spannung $U$ aufgetragen. Zu erkennen ist, dass die ersten Messpunkte jeweils unterhalb des Mittelwertes lagen, dies lässt vermuten, dass der Widerstand bei Beginn der Messung noch kälter war. Der Messpunkt bei  $U_{eff}= \SI{10}{V}$ ist auf einen groben Fehler bei der Messung oder Laborbuchführung zurückzuführen.\\
 
 
-\FloatBarrier
+%\FloatBarrier
 %Leistung
 
 
 
 
-\begin{figure}[h]
+\begin{figure}
 	\centering
 	\includegraphics[width=0.9\linewidth]{"auswertung/Auswertung Innenwiderstand/Leistung 2"}
 	\caption{Zusammenhang zwischen Leistung $P$ und dem Produkt aus Spannung und Stromstärke $UI$ für Gleich- und Wechselstrom.}
@@ -38,7 +38,7 @@ In \cref{fig:widerstand-r2} ist zu erkennen, dass Spannung und Stromstärke prop
 
 
 
-Die Leistung ist bei Gleichstrom definiert als $P=UI$, folglich sollte die Steigung der Ausgleichsgeraden eins sein. Die Anpassung beziffert die Steigung der Ausgleichsgeraden für Gleichstrom in \cref{fig:leistung-r2} mit $S_{G}=\SI{ 95.0+-0.8}{\percent}$. Analog gilt für Wechselstrom $P_{eff}=U_{eff}  I_{eff} \cos(\phi)$ mit $\phi=0$, da ein Ohmscher Widerstand verwendet wurde. Die Steigung der Ausgleichsgeraden für Wechselstrom in \cref{fig:leistung-r2} beträgt $S_W=\SI{93.5+-0.8}{\percent}$. Beide Werte weichen um mehr als $6\sigma$ von dem theoretisch vorhergesagten Wert ab. Da jedoch bei der Messung der Leerlaufleistung des Voltmeters festgestellt wurde, dass diese negativ war und mit zunehmender Spannung weiter sank, begründet es, dass die gemessenen Leistungen unterhalb der Erwartungen liegen. In sofern bestätigt die Messung die Größenordnung, zeigt jedoch Mängel in den Messgeräten und wäre ggf. mit zuverlässigeren Instrumenten zu wiederholen.
+Die Leistung ist bei Gleichstrom definiert als $P=UI$, folglich sollte die Steigung der Ausgleichsgeraden eins sein. Die Anpassung beziffert die Steigung der Ausgleichsgeraden für Gleichstrom in \cref{fig:leistung-r2} mit $S_{G}=\SI{ 95.0+-0.8}{\percent}$. Analog gilt für Wechselstrom $P_{eff}=U_{eff}  I_{eff} \cos(|\phi|)$ mit $|\phi|=0$, da ein Ohmscher Widerstand verwendet wurde. Die Steigung der Ausgleichsgeraden für Wechselstrom in \cref{fig:leistung-r2} beträgt $S_W=\SI{93.5+-0.8}{\percent}$. Beide Werte weichen um mehr als $6\sigma$ von dem theoretisch vorhergesagten Wert ab. Da jedoch bei der Messung der Leerlaufleistung des Voltmeters festgestellt wurde, dass diese negativ war und mit zunehmender Spannung weiter sank, begründet es, dass die gemessenen Leistungen unterhalb der Erwartungen liegen. In sofern bestätigt die Messung die Größenordnung, zeigt jedoch Mängel in den Messgeräten und wäre ggf. mit zuverlässigeren Instrumenten zu wiederholen.
 
 
 

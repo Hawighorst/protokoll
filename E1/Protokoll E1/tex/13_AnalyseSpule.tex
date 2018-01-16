@@ -1,17 +1,22 @@
-\subsection{Analyse Spule}\label{kap:Spule}
+
+\subsection{Daten und Analyse Spule}\label{kap:Spule}
+
+\FloatBarrier
+
+
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.9\textwidth]{res/UgegenI_GL.pdf}
 	\caption{Die Spannung $U_{eff.}$ gegen den Strom $I_{eff.}$ für Gleichstrom.}
 	\label{fig:UgegenIgl}
 \end{figure}
-\begin{figure}[h]
+\begin{figure}
 	\centering
 	\includegraphics[width=0.9\linewidth]{res/UgegenI_W.pdf}
 	\caption{Die Spannung $U_{eff.}$ gegen den Strom $I_{eff.}$ für Wechselstrom.}
 	\label{fig:UgegenIw}
 \end{figure}
-\begin{figure}[h]
+\begin{figure}
 	\centering
 	\includegraphics[width=0.9\linewidth]{res/PgegenUI.pdf}
 	\caption{Die Leistung P$_\text{eff.}$ gegen $U_{eff.} \cdot I_{eff.}$ für Wechselstrom.}
@@ -26,8 +31,8 @@ Die für die weitere Auswertung wichtigen Gleichungen lauten:
 	L&=\frac{\sqrt{|Z|^2-R^2}}{\omega}\\
 	\label{eq:Indukt}
 	|Z|&=\frac{U_{eff.}}{I_{eff.}}\\
-	\phi &=\arccos\left(\frac{\bar{P}}{U_{eff.}I_{eff.}}\right)\\
-	R_W&=|Z|\cdot \cos(\phi)	\label{eq:R_W}.
+	|\phi| &=\arccos\left(\frac{\bar{P}}{U_{eff.}I_{eff.}}\right)\\
+	R_W&=|Z|\cdot \cos(|\phi|)	\label{eq:R_W}.
 \end{align}
 \item Für Gleichstrom:
 \begin{align}

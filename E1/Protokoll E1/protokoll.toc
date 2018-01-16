@@ -5,14 +5,14 @@
 \contentsline {section}{\numberline {2}Innenwiderstand einer Batterie}{1}{section.2}
 \contentsline {subsection}{\numberline {2.1}Methoden}{1}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Daten und Analyse}{2}{subsection.2.2}
-\contentsline {section}{\numberline {3}Leistungsaufnahme}{5}{section.3}
-\contentsline {subsection}{\numberline {3.1}Methoden}{5}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Analyse Widerstand}{6}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Analyse Spule}{8}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Analyse Kondensator}{10}{subsection.3.4}
-\contentsline {section}{\numberline {4}Schlussfolgerung}{13}{section.4}
-\contentsline {section}{\numberline {A}Anhang}{15}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Verwendete Programme}{15}{subsection.A.1}
-\contentsline {subsection}{\numberline {A.2}Unsicherheiten}{15}{subsection.A.2}
-\contentsline {subsection}{\numberline {A.3}Gleichungen aus der Einf\IeC {\"u}hrung}{16}{subsection.A.3}
-\contentsline {section}{\nonumberline Literatur}{17}{section*.15}
+\contentsline {section}{\numberline {3}Leistungsaufnahme}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Methoden}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Daten und Analyse Widerstand}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Daten und Analyse Spule}{8}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Daten und Analyse Kondensator}{10}{subsection.3.4}
+\contentsline {section}{\numberline {4}Schlussfolgerung}{12}{section.4}
+\contentsline {section}{\numberline {A}Anhang}{14}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Verwendete Hilfsmittel}{14}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Unsicherheiten}{14}{subsection.A.2}
+\contentsline {subsection}{\numberline {A.3}Gleichungen aus der Einf\IeC {\"u}hrung}{15}{subsection.A.3}
+\contentsline {section}{\nonumberline Literatur}{16}{section*.15}

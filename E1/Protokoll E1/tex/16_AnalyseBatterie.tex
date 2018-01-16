@@ -30,7 +30,7 @@ Aus den Messpunkten $U(R_a)$ folgt mit dem Ohmschen Gesetz \cref{fig:batt-ges-u}
  
 
 
-\begin{figure}[h]
+\begin{figure}
 	\centering
 	\includegraphics[width=0.9\linewidth]{"auswertung/Auswertung Innenwiderstand/Batterie Gesamt U"}
 	\caption{Spannungsverläufe der Monozelle~$U_E$, der Parallelschaltung von drei Monozellen~$U_P$ und der Reihenschaltung von drei Monozellen~$U_R$ in Abhängigkeit der Stromstärke~$I$.}
@@ -46,10 +46,10 @@ Aus den Messpunkten $U(R_a)$ folgt mit dem Ohmschen Gesetz \cref{fig:batt-ges-u}
 
 
 
-\FloatBarrier
+%\FloatBarrier
 %Leistung
 
-\begin{figure}[h]
+\begin{figure}
 	\centering
 	\includegraphics[width=0.9\linewidth]{"auswertung/Auswertung Innenwiderstand/Batterie Gesamt P"}
 	\caption{Leistung $P$ am Lastwiderstand $R_a$ in dessen Abhängigkeit}
@@ -79,7 +79,7 @@ Aus den Messpunkten $U(R_a)$ folgt mit dem Ohmschen Gesetz \cref{fig:batt-ges-u}
 
 
 %In analoger Weise zu \cref{fig:batt-ges-u} wurde \cref{fig:batt-ges-p} erstellt. 
-Die Leistung am äußeren Widerstand ist gegeben durch 
+Die Leistung am äußeren Widerstand ist gegeben durch: 
 \begin{align}
  P &=\frac{U_{Kl}^2}{R_a} \label{eq:puk}\\
  &= U_0^2 \frac{R_a}{(R_a+R_i)^2} \label{eq:pu0}.
@@ -95,7 +95,7 @@ Die Werte für $U_0$ und $R_i$ ergeben sich aus der Ausgleichskurve und sind in 
 
 Die Werte aus den Tabellen~\ref{tab:batt-U-R} und \ref{tab:batt-U-P} sind in sich, innerhalb der  $2\sigma$-Umgebung konsistent. 
 Die theoretische Vorhersage, dass die Spannungen $U_E$ und $U_P$ gleich sind wird ebenfalls bestätigt. Die Leerlaufspannung $U_R$ entspricht im Rahmen der Unsicherheiten dem Erwartungwert $3U_E$. Jedoch weicht er stärker ab als die vorherigen. Eine mögliche Ursache könnte eine unterschiedliche Leerlaufspannungen der einzelnen Batterien, bedingt durch vorherige Verwendung sein. Aus den Regeln zur Berechnung von Ersatzwiderständen folgen: $R_P=\frac{R_E}{3}$ und $R_R=3R_E$.
-Die gemessenen Widerstände bestätigen, innerhalb der $2\sigma$-Umgebung, die theoretischen Erwartungen und sind in sich konsistent. Die Größenordnung der Widerstände ist plausibel, da der vorgeschaltete "Innenwiderstand" laut Hersteller $\SI{18.0+-1.8}{\ohm}$ und der tatsächliche Innenwiderstand in der Regel  deutlich unter $\SI{1}{\ohm}$ liegt. %Quelle!!!
+Die gemessenen Widerstände bestätigen, innerhalb der $2\sigma$-Umgebung, die theoretischen Erwartungen. Die Größenordnung der Widerstände ist plausibel, da der vorgeschaltete "Innenwiderstand" laut Hersteller $\SI{18.0+-1.8}{\ohm}$ und der tatsächliche Innenwiderstand in der in der Größenordnung $\SI{40}{\milli \ohm}$ liegt \cite{battanl}. %Quelle!!!
 
 
 

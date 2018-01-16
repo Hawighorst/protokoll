@@ -19,6 +19,20 @@
 
 \refsection{0}
   \sortlist[entry]{nty/global/}
+    \entry{battanl}{online}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeltitlesource}{title}
+      \field{title}{Bedienungsanleitung Energizer NH15-2300}
+      \field{urlday}{15}
+      \field{urlmonth}{1}
+      \field{urlyear}{2018}
+      \field{year}{}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://data.energizer.com/pdfs/nh15-2300.pdf
+      \endverb
+    \endentry
     \entry{lw}{online}{}
       \name{author}{2}{}{%
         {{hash=6f6719d0c6c2cf792aa79a0a1b189be2}{%
@@ -41,7 +55,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Begleitkurs zu den Experientellen Übungen I}
-      \field{urlday}{13}
+      \field{urlday}{9}
       \field{urlmonth}{1}
       \field{urlyear}{2018}
       \field{year}{2017}
