@@ -1,59 +1,48 @@
 
 
-\subsection{Verwendete Gleichungen}\label{VGuD}
-%und Definition der Variablen
+
+\subsection{Verwendete Programme}
+Die Plots wurden mit Python erstellt. Für Anpassungen wurde der  Levenberg–Marquardt Algorithmus verwendet. Die Fehler wurden nach Empfehlung des "GUM", insbesondere mit Hilfe der gaußschen Fehlerfortpflanzung berechnet.
 
 
-%Zusammenhang zwischen Kreisfrequenz $\omega$ und Schwingungsdauer $T$:
-
-%\begin{align}
-%	T=\frac{2 \pi}{\omega} \pm \Delta t
-%	\label{eq:T}
-%\end{align} 
-
-
-%Alle anderen Unsicherheiten sind gemäß Kapitel \ref{sec:einzeln} so klein, dass sie zu vernachlässigen sind. Es sei $\Delta t={ 0,006} {s}$.\\
-%\frac{2 \pi}{\omega^2} \cdot\Delta \omega  \label{eq:T}
-
-
-%Standardunsicherheit der Rechteckverteilung u für die Intervallbreite a:
-	%\begin{align}
-	%	u=\frac{a}{2\sqrt{3}}\label{eq:SR}
-	%\end{align} 
+\subsection{Unsicherheiten}\label{kap:Unsich}
+Kapazität $C$:
+\begin{align*}
+	u(C)=\frac{1}{\omega} \sqrt{\frac{- R^{2} u(R)^{2} - Z^{2} u(Z)^{2} + \omega^2 u(L)^{2} \left(R^{2} - Z^{2}\right)}{\left(R^{2} - Z^{2}\right) \left(\omega L + \sqrt{- R^{2} + Z^{2}}\right)^{4}}}	.
+\end{align*}
+Induktivität $L$:
+\begin{align*}
+	u(L)=\frac{1}{\omega} \sqrt{\frac{- R^{2} u(R)^{2} - Z^{2} u(Z)^{2}}{R^{2} - Z^{2}}}.
+\end{align*}
+Phasenwinkel $\phi$: 
+\begin{align*}
+	u(\phi)=\sqrt{\frac{-u\left(\frac{\Delta P}{\Delta UI}\right)^2}{\phi^2-1}}.
+\end{align*}
+Wirkwiderstand $R_W$:
+\begin{align*}
+	u(R_W)=\sqrt{\frac{1}{\phi^2-1}\cdot(-Z^2u(\phi)^2+u(Z)^2\cdot(\phi^22-1)\cdot \arccos(\phi)^2))}.
+\end{align*}
+Werte die sich aus  den Steigungen der Abbildungen entnehmen lassen, sind auch mit der Unsicherheit dieser Anpassung versehen.\\
+Rechteckverteilung:
+\begin{align}
+	u=\frac{a}{2\sqrt{3}}\label{eq:sur}
+\end{align}
 
 \subsection{Gleichungen aus der Einführung}
 $A_= =\frac{1}{T}\int_{0}^{T}|A(t)|\text{d}t$\\
 Für $A(t)=I_0\sin (\omega t)$:
 \begin{align*}
-	I_=  &=\frac{1}{T}\int_{0}^{T}|I_0\sin (\omega t|\text{d}t\\
-		&=\frac{\omega}{2\pi}\int_{0}^{\frac{2\pi}{\omega}}|I_0\sin (\omega t)| \text{d}t\\
-		&=\frac{\omega}{\pi}\int_{0}^{\frac{\pi}{\omega}}I_0\sin (\omega t) dt\\
-		&=\frac{1}{\pi}\left[ I_0\cos(\omega t) \right]_0^{\frac{\pi}{\omega}}\\
-		&=\frac{2I_0}{\pi}
+I_=  &=\frac{1}{T}\int_{0}^{T}|I_0\sin (\omega t|\text{d}t\\
+&=\frac{\omega}{2\pi}\int_{0}^{\frac{2\pi}{\omega}}|I_0\sin (\omega t)| \text{d}t\\
+&=\frac{\omega}{\pi}\int_{0}^{\frac{\pi}{\omega}}I_0\sin (\omega t) dt\\
+&=\frac{1}{\pi}\left[ I_0\cos(\omega t) \right]_0^{\frac{\pi}{\omega}}\\
+&=\frac{2I_0}{\pi}
 \end{align*}
 $A_{eff}=\sqrt{\frac{1}{T}\int_{0}^{T} A^2(t)dt}$\\
 Für $A(t)=I_0\sin (\omega t)$:
 \begin{align*}
-	I_{eff}&=\sqrt{\frac{1}{T}\int_{0}^{T} A^2(t)dt}	\\
-		   &=\sqrt{\frac{\omega}{2\pi}\int_{0}^{\frac{2\pi}{\omega}}I_0^2\sin^2 (\omega t)\text{d}t}\\
-		   &=I_0\sqrt{\frac{\omega}{2\pi}\left[  \frac{-\sin(\omega)\cos(\omega)}{4\omega}+\frac{t}{2} \right]_0^{\frac{2\pi}{\omega}}\text{d}t}\\
-		   &=I_0\sqrt{\frac{1}{2}}
+I_{eff}&=\sqrt{\frac{1}{T}\int_{0}^{T} A^2(t)dt}	\\
+&=\sqrt{\frac{\omega}{2\pi}\int_{0}^{\frac{2\pi}{\omega}}I_0^2\sin^2 (\omega t)\text{d}t}\\
+&=I_0\sqrt{\frac{\omega}{2\pi}\left[  \frac{-\sin(\omega)\cos(\omega)}{4\omega}+\frac{t}{2} \right]_0^{\frac{2\pi}{\omega}}\text{d}t}\\
+&=I_0\sqrt{\frac{1}{2}}
 \end{align*}
-\subsection{Unsicherheiten}\label{kap:Unsich}
-Kapazität $C$:
-\begin{align*}
-	u(C)=\frac{1}{\omega} \sqrt{\frac{- R^{2} u(R)^{2} - Z^{2} u(Z)^{2} + \omega^2 u(L)^{2} \left(R^{2} - Z^{2}\right)}{\left(R^{2} - Z^{2}\right) \left(\omega L + \sqrt{- R^{2} + Z^{2}}\right)^{4}}}	
-\end{align*}
-Induktivität $L$:
-\begin{align*}
-	u(L)=\frac{1}{\omega} \sqrt{\frac{- R^{2} u(R)^{2} - Z^{2} u(Z)^{2}}{R^{2} - Z^{2}}}
-\end{align*}
-Phasenwinkel $\phi$: 
-\begin{align*}
-	u(\phi)=\sqrt{\frac{-u\left(\frac{\Delta P}{\Delta UI}\right)^2}{\phi^2-1}}
-\end{align*}
-Werte die sich aus  den Steigungen der Abbildungen entnehmen lassen, sind auch mit der Unsicherheit dieser Anpassung versehen.
-Rechteckverteilung:
-\begin{align}
-	u=\frac{a}{2\sqrt{3}}\label{eq:sur}
-\end{align}

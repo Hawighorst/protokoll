@@ -1,4 +1,4 @@
-\subsection{Analyse von Schaltkreis b)}\label{kap:Spule}
+\subsection{Analyse Spule}\label{kap:Spule}
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.9\textwidth]{res/UgegenI_GL.pdf}
@@ -20,35 +20,25 @@
 Die gemessenen Werte wurden in den Abbildungen \ref{fig:UgegenIgl},  \ref{fig:UgegenIw} und \ref{fig:PgegenUI} dargestellt.
 Die für die weitere Auswertung wichtigen Gleichungen lauten:
 \begin{itemize}
- \item Für Wechselstrom mit $\omega=2\pi \cdot \SI{50}{Hz}.$:
+ \item Für Wechselstrom, im Experiment mit $\omega=2\pi \cdot \SI{50}{Hz}.$:
 \begin{align}
-	|Z&|=\sqrt{R_W + \omega^2L^2}\\
+	|Z|&=\sqrt{R_W + \omega^2L^2}\\
 	L&=\frac{\sqrt{|Z|^2-R^2}}{\omega}\\
 	\label{eq:Indukt}
 	|Z|&=\frac{U_{eff.}}{I_{eff.}}\\
-	\phi &= \arccos\left(\frac{\bar{P}}{U_{eff.}I_{eff.}}\right)\\
+	\phi &=\arccos\left(\frac{\bar{P}}{U_{eff.}I_{eff.}}\right)\\
 	R_W&=|Z|\cdot \cos(\phi)	\label{eq:R_W}.
 \end{align}
-<<<<<<< HEAD
 \item Für Gleichstrom:
 \begin{align}
 	R_i=\frac{U}{I}
 \end{align}
 \end{itemize}
-Entnimmt man die Steigungen aus den Abbildungen \ref{fig:UgegenIw},\ref{fig:UgegenIgl} und \ref{fig:PgegenUI} und setzt sie in die oben genannten Gleichungen ein, so erhält man die unten zu sehenden Werte. Hierbei wurde jedoch in Gleichung \ref{eq:Indukt} $R_i$ eingesetzt, da $R_i$ direkt aus der Steigung der Abb. \ref{fig:UgegenIgl} abgelesen wurde während $R_W$ durch Gleichung \ref{eq:R_W} berechnet werden musste. Vergleicht man die beiden Werte von $R_w$ und $R_i$ miteinander so erkennt man das  $R_W$ in der $2\sigma$-Umgebung von $R_i$ liegt. 
-=======
-(Alle oben genannten Gleichungen gelten für Wechselstrom mit $\omega=2\pi \cdot \SI{50}{Hz}.$)
+Entnimmt man die Steigungen aus den Abbildungen \ref{fig:UgegenIw}, \ref{fig:UgegenIgl} und \ref{fig:PgegenUI} und setzt sie in die oben genannten Gleichungen ein, so erhält man die unten zu sehenden Werte. Hierbei wurde jedoch in Gleichung \ref{eq:Indukt} $R_i$ eingesetzt, da $R_i$ direkt aus der Steigung der Abb. \ref{fig:UgegenIgl} abgelesen wurde während $R_W$ durch Gleichung \ref{eq:R_W} berechnet werden musste. Vergleicht man die beiden Werte von $R_w$ und $R_i$ miteinander so erkennt man das  $R_W$ in der $2\sigma$-Umgebung von $R_i$ liegt. 
 \begin{align}
-	R_i=\frac{U}{I}
-\end{align}
-(Gilt für Gleichstrom.)\\
-Entnimmt man die Steigungen aus den Abbildungen \ref{fig:UgegenIgl}, \ref{fig:UgegenIw} und \ref{fig:PgegenUI} und setzt sie in die oben genannten Gleichungen ein so erhält man die unten zu sehenden Werte. Hierbei wurde jedoch in Gleichung \ref{eq:Indukt} $R_i$ eingesetzt, da $R_i$ direkt aus der Steigung der Abb. \ref{fig:UgegenIgl} abgelesen wurde während $R_W$ durch Gleichung \ref{eq:R_W} berechnet werden musste. Vergleicht man die beiden Werte von $R_w$ und $R_i$ miteinander so erkennt man das  $R_W$ in der $2\sigma$-Umgebung von $R_i$ liegt. 
->>>>>>> b885abb5c84bcfea2cd4620fdfce127513d11e1a
-
-\begin{align}
-		Z &= \SI{29.4+-0.4}{\ohm}\\
-		\phi &= \SI{0.7548+-0.0003}{rad}\\
-		R_W &= \SI{21.4+-0.3}{\ohm}\\
-		R_i &= \SI{22.7+-0.8}{\ohm}\\
-		L &= \SI{0,060+-0,004}{H}
+	|Z|=\SI{29,4+-0,4}{\ohm}\\
+	|\phi|=\SI{0,7548+-0,003}{rad}\\
+	R_W=\SI{21,4+-0,3}{\ohm}\\
+	R_i=\SI{22,7+-0,8}{\ohm}\\
+	L=\SI{0,060+-0,004}{H}
 \end{align}
